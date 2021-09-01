@@ -3,6 +3,6 @@
 //  ini_set('display_startup_errors', 1);
 //  error_reporting(E_ALL);
 
-shell_exec("git pull");
+shell_exec("git pull origin main");
 
 ?>
