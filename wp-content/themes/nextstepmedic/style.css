@@ -101,3 +101,7 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 
 
 /* Variables */
+
+.logo {
+    height: 75px;
+}

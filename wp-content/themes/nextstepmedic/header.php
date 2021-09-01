@@ -40,3 +40,12 @@
         <div id="content" class="site-content">
             <div id="primary" class="content-area">
                 <main id="main" class="site-main" role="main">
+
+                    <div class="container">
+
+                        <a href="logo-a">
+                            <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/logo.png" alt=""
+                                class="logo">
+                        </a>
+
+                    </div>

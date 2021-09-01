@@ -23,7 +23,6 @@
 
 
 
-    fds
 </footer><!-- #colophon -->
 
 </div><!-- #page -->
