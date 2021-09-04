@@ -49,7 +49,7 @@
                         </a>
 
 
-                        <ul class=" top-menu-ul col-10">
+                        <ul class=" top-menu-ul">
 
 
                             <?php
