@@ -142,7 +142,7 @@ get_header();
 
     <div class="row pt-4 pb-4  service-row gx-0">
         <div class="col-6 pe-4">
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50.jpg" alt="">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50.jpg" alt="">
         </div>
         <div class="col-6">
 
