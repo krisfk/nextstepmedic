@@ -20,7 +20,7 @@ get_header();
             <div class="col-6 slide-content-txt-div-wrap">
 
 
-                <div class="row">
+                <div class="row align-items-center h-100">
 
                     <div class="col-12">
                         <div class="slide-content-txt-div">
