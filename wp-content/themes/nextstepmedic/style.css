@@ -156,6 +156,7 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
     display: block;
     margin: 0 auto;
     max-width: 70%;
+    line-height: 2rem;
 }
 
 .slide-content-txt-div-wrap {
