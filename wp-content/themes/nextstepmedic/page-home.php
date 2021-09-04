@@ -31,7 +31,7 @@ get_header();
                             injury, foot pain and other related conditions.
 
 
-                            <div>
+                            <div class="text-center mt-5">
 
                                 <a href="#" class="slide-btns">Learn More</a>
                                 <a href="#" class="slide-btns">Book an Appointment</a>
