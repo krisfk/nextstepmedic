@@ -15,7 +15,7 @@ get_header();
 <div class="slides">
     <div class="position-relative">
 
-        <div class="row position-absolute w-100 h-100 gx-0">
+        <div class="row position-absolute w-100 h-100 gx-0 align-items-center">
             <div class="col-6"></div>
             <div class="col-6">
 
