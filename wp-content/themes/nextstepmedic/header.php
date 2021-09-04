@@ -43,19 +43,24 @@
 
                     <div class="container">
 
-                        <a href="logo-a">
-                            <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/logo.png" alt=""
-                                class="logo">
-                        </a>
+                        <div class="row">
+
+                            <div class="col-2">
+
+                                <a href="logo-a">
+                                    <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/logo.png" alt=""
+                                        class="logo">
+                                </a>
+                            </div>
+
+                            <div class="col-10">
+
+                                <ul class=" top-menu-ul">
 
 
-                        <ul class=" top-menu-ul">
-
-
-                            <?php
+                                    <?php
                 
                 $main_menu = wp_get_menu_array('main menu');
-                // exit();
                 foreach ($main_menu as $menu_item) {
 
                 $url = $menu_item['url'];
@@ -77,7 +82,7 @@
                     echo '<ul class="mobile-menu-submenu">';
                 ?>
 
-                            <?php
+                                    <?php
     
                 foreach ($menu_item['children'] as $sub_menu_item) 
                 {
@@ -108,29 +113,9 @@
             ?>
 
 
-                            <!-- <li class="icon-li first">
-
-                                <a href="#" class="icon-a search-icon-a">
-                                    <img class="top-menu-icon"
-                                        src="<?php echo get_template_directory_uri();?>/assets/images/search-icon.png"
-                                        alt="">
-
-                                </a>
-
-                            </li>
-
-
- -->
-
-
-
-                        </ul>
 
 
 
 
-
-
-
-
-                    </div>
+                            </div>
+                        </div>
