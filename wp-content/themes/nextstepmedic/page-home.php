@@ -13,9 +13,14 @@ get_header();
 
 ?>
 <div class="slides">
-    <div>1</div>
-    <div>1</div>
-    <div>1</div>
+    <div>
+        <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-1-scaled.jpg" alt="">
+
+    </div>
+    <div> <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-2-scaled.jpg" alt="">
+    </div>
+    <div> <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-3-scaled.jpg" alt="">
+    </div>
 </div>
 
 <script type="text/javascript">
