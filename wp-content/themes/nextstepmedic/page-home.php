@@ -19,11 +19,22 @@ get_header();
             <div class="col-6"></div>
             <div class="col-6 slide-content-txt-div-wrap">
 
-                <div class="slide-content-txt-div">The Next Step Medical Clinic is your one-stop orthopaedics,
-                    physiotherapy and podiatry centre in Central, Hong Kong for treating musculoskeletal pain, sports
-                    injury, foot pain and other related conditions.
 
+                <div class="row">
+
+                    <div class="col-12">
+                        <div class="slide-content-txt-div">
+
+                            The Next Step Medical Clinic is your one-stop orthopaedics,
+                            physiotherapy and podiatry centre in Central, Hong Kong for treating musculoskeletal pain,
+                            sports
+                            injury, foot pain and other related conditions.
+
+                        </div>
+
+                    </div>
                 </div>
+
 
             </div>
         </div>
