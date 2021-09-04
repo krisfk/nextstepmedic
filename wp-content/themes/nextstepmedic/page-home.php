@@ -12,7 +12,10 @@
 get_header();
 
 ?>
-<div>
+<div class="slides">
+    <div>1</div>
+    <div>1</div>
+    <div>1</div>
 </div>
 
 <script type="text/javascript">
