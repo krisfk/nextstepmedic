@@ -112,7 +112,9 @@
 
             ?>
 
-                                    <li>Call: +852 xxxx xxxx </li>
+                                    <li>
+                                        <a href="#">Call: +852 xxxx xxxx </a>
+                                    </li>
                                 </ul>
 
 
