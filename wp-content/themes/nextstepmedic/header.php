@@ -113,7 +113,7 @@
             ?>
 
                                     <li>
-                                        <a href="#">Call: +852 xxxx xxxx </a>
+                                        <a href="#" class="phone">Call: +852 xxxx xxxx </a>
                                     </li>
                                 </ul>
 
