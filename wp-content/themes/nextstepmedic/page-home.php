@@ -102,7 +102,7 @@ get_header();
 
 <div class="container">
 
-    <div class="row">
+    <div class="row pt-4 pb-4">
         <div class="col-6">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50.jpg" alt="">
         </div>
@@ -121,7 +121,7 @@ get_header();
 
     </div>
 
-    <div class="row">
+    <div class="row pt-4 pb-4">
         <div class="col-6">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50.jpg" alt="">
         </div>
