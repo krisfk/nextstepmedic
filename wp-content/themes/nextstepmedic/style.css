@@ -124,21 +124,21 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
     color: #fff;
     background: #bf9d81;
     padding: 0.2rem 0.5rem;
-    border-radius: 1rem;
+    border-radius: 0.4rem;
 }
 
 .top-menu-ul li a.phone {
     color: #fff;
     background: #bf9d81;
     padding: 0.2rem 0.5rem;
-    border-radius: 1rem;
+    border-radius: 0.4rem;
 }
 
 .slide-btns {
     color: #fff;
     background: #bf9d81;
     padding: 0.2rem 1rem;
-    border-radius: 1rem;
+    border-radius: 0.4rem;
     text-decoration: none;
     margin: 0 0.5rem;
 }
