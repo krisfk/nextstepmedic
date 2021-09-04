@@ -192,3 +192,8 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 .page-home .service-row {
     border-bottom: 1px solid #b9bbbd;
 }
+
+.lunula-laser-img {
+    height: 400px;
+    margin: 0 auto;
+}

@@ -197,7 +197,8 @@ get_header();
             <a href="" class="brown-round-btn mt-5 d-inline-block">Read More</a>
         </div>
         <div class="col-6 pe-4">
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x.png" alt="">
+            <img class="lunula-laser-img" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x.png"
+                alt="">
         </div>
 
 
