@@ -30,6 +30,12 @@ get_header();
                             sports
                             injury, foot pain and other related conditions.
 
+
+                            <div>
+
+                                <a href="#" class="slide-btns">Learn More</a>
+                                <a href="#" class="slide-btns">Book an Appointment</a>
+                            </div>
                         </div>
 
                     </div>

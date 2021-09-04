@@ -134,6 +134,13 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
     border-radius: 1rem;
 }
 
+.slide-btns {
+    color: #fff;
+    background: #bf9d81;
+    padding: 0.2rem 0.5rem;
+    border-radius: 1rem;
+}
+
 #page {
     max-width: 1920px;
     margin: 0 auto;
