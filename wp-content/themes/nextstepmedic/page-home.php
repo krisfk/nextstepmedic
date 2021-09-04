@@ -17,7 +17,11 @@ get_header();
 
         <div class="row position-absolute w-100 h-100 gx-0">
             <div class="col-6"></div>
-            <div class="col-6"></div>
+            <div class="col-6">
+
+                fdsfd
+
+            </div>
         </div>
 
         <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-1-scaled.jpg" alt="">
