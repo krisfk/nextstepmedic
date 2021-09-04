@@ -498,10 +498,15 @@ function twenty_twenty_one_skip_link_focus_fix() {
 
 	// The following is minified via `npx terser --compress --mangle -- assets/js/skip-link-focus-fix.js`.
 	?>
-	<script>
-	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",(function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())}),!1);
-	</script>
-	<?php
+<script>
+/(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window
+    .addEventListener("hashchange", (function() {
+        var t, e = location.hash.substring(1);
+        /^[A-z0-9_-]+$/.test(e) && (t = document.getElementById(e)) && (/^(?:a|select|input|button|textarea)$/i
+            .test(t.tagName) || (t.tabIndex = -1), t.focus())
+    }), !1);
+</script>
+<?php
 }
 add_action( 'wp_print_footer_scripts', 'twenty_twenty_one_skip_link_focus_fix' );
 
@@ -619,11 +624,99 @@ function twentytwentyone_the_html_classes() {
  */
 function twentytwentyone_add_ie_class() {
 	?>
-	<script>
-	if ( -1 !== navigator.userAgent.indexOf( 'MSIE' ) || -1 !== navigator.appVersion.indexOf( 'Trident/' ) ) {
-		document.body.classList.add( 'is-IE' );
-	}
-	</script>
-	<?php
+<script>
+if (-1 !== navigator.userAgent.indexOf('MSIE') || -1 !== navigator.appVersion.indexOf('Trident/')) {
+    document.body.classList.add('is-IE');
+}
+</script>
+<?php
 }
 add_action( 'wp_footer', 'twentytwentyone_add_ie_class' );
+
+
+
+
+function wp_get_menu_array($current_menu='Main Menu') {
+
+	$menu_array = wp_get_nav_menu_items($current_menu);
+
+	$menu = array();
+
+	
+
+	foreach ($menu_array as $m) {
+		if (empty($m->menu_item_parent)) {
+			$menu[$m->ID] = array();
+			$menu[$m->ID]['ID'] = $m->ID;
+			$menu[$m->ID]['title'] = $m->title;
+			$menu[$m->ID]['url'] = $m->url;
+			$menu[$m->ID]['class'] = $m->classes[0];
+
+			$menu[$m->ID]['children'] = populate_children($menu_array, $m);
+		}
+	}
+
+	return $menu;
+
+}
+
+//Page Slug Body Class
+function add_slug_body_class( $classes ) {
+	global $post;
+	if ( isset( $post ) ) {
+	$classes[] = $post->post_type . '-' . $post->post_name;
+	}
+	return $classes;
+	}
+	add_filter( 'body_class', 'add_slug_body_class' );
+	
+
+function app_output_buffer() {
+	ob_start();
+} // soi_output_buffer
+add_action('init', 'app_output_buffer');
+
+add_filter( 'woocommerce_default_address_fields' , 'custom_override_default_address_fields' );
+
+function custom_override_default_address_fields( $address_fields ) {
+     unset($address_fields['postcode']);
+
+     return $address_fields;
+}
+
+function mytheme_add_woocommerce_support() {
+    add_theme_support( 'woocommerce' );
+}
+
+add_action( 'after_setup_theme', 'mytheme_add_woocommerce_support' );
+
+add_filter( 'woocommerce_product_tabs', 'bbloomer_remove_product_tabs', 9999 );
+  
+function bbloomer_remove_product_tabs( $tabs ) {
+    unset( $tabs['additional_information'] ); 
+    return $tabs;
+}
+
+add_action( 'parse_query','changept' );
+function changept() {
+    if( is_category() && !is_admin() )
+        set_query_var( 'post_type', array( 'post', 'product' ) );
+    return;
+}
+
+/**
+ * Change number of related products output
+ */ 
+function woo_related_products_limit() {
+	global $product;
+	  
+	  $args['posts_per_page'] = 6;
+	  return $args;
+  }
+
+  add_filter( 'woocommerce_output_related_products_args', 'jk_related_products_args', 20 );
+function jk_related_products_args( $args ) {
+	$args['posts_per_page'] = 8; // 4 related products
+	$args['columns'] = 4; // arranged in 2 columns
+	return $args;
+}
