@@ -100,8 +100,11 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 /* Categories 01 to 03 are the basics. */
 
 @font-face {
-    font-family: 'playfair-italic';
-    src: url('./assets/fonts/PlayfairDisplay-Italic.ttf') format('ttf');
+    font-family: 'Playfair Display';
+    src: url('./assets/fonts/PlayfairDisplay-Italic.woff2') format('woff2'), url('./assets/fonts/PlayfairDisplay-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
 }
 
 
@@ -183,5 +186,5 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 .page-home .service-title {
     font-size: 26px;
     color: #bf9d81;
-    font-family: 'playfair-italic';
+    font-family: 'Playfair Display';
 }
