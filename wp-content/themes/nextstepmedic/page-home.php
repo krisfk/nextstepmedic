@@ -140,6 +140,25 @@ get_header();
 
     </div>
 
+    <div class="row pt-4 pb-4  service-row gx-0">
+        <div class="col-6 pe-4">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50.jpg" alt="">
+        </div>
+        <div class="col-6">
+
+            <div class="service-title">Podiatry</div>
+
+            <div class="mt-4">Diagnose and treat abnormal conditions of the feet and lower limbs, including toenail
+                problems, heel pain, sports injuries, blisters and flat feet, etc. Pain and loss of function in our feet
+                and ankles can be a huge obstacle. We treat with professional experience, specialized technology and
+                equipment as we understand getting your body back to normal is of the utmost importance to you. </div>
+
+            <a href="" class="brown-round-btn mt-5 d-inline-block">Read More</a>
+        </div>
+
+    </div>
+
+
 </div>
 
 <script type="text/javascript">
