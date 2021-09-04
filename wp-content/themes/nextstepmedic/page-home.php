@@ -14,12 +14,12 @@ get_header();
 ?>
 <div class="slides">
     <div>
-        <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-1-scaled.jpg" alt="">
+        <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-1-scaled.jpg" alt="">
 
     </div>
-    <div> <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-2-scaled.jpg" alt="">
+    <div> <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-2-scaled.jpg" alt="">
     </div>
-    <div> <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-3-scaled.jpg" alt="">
+    <div> <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-3-scaled.jpg" alt="">
     </div>
 </div>
 
