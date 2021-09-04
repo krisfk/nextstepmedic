@@ -116,7 +116,7 @@ get_header();
                 musculoskeletal diagnostic services with surgical or non-surgical treatments that are tailored to the
                 individual needs of our patients.</div>
 
-            <a href="" class="brown-round-btn mt-5">Read More</a>
+            <a href="" class="brown-round-btn mt-5 d-inline-block">Read More</a>
         </div>
 
     </div>
