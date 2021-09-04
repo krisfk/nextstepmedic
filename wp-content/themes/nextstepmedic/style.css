@@ -174,3 +174,8 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 .slide-content-txt-div-wrap {
     background: rgb(255 255 255 / 80%);
 }
+
+.page-home .service-title {
+    font-size: 26px;
+    color: #bf9d81;
+}
