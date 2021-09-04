@@ -55,7 +55,7 @@
                             <?php
                 
                 $main_menu = wp_get_menu_array('main menu');
-                exit();
+                // exit();
                 foreach ($main_menu as $menu_item) {
 
                 $url = $menu_item['url'];
