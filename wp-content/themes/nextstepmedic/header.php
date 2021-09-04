@@ -53,7 +53,7 @@
                                 </a>
                             </div>
 
-                            <div class="col-10">
+                            <div class="col-10 text-end">
 
                                 <ul class="top-menu-ul">
 
