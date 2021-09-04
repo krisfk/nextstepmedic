@@ -140,6 +140,7 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
     padding: 0.2rem 0.5rem;
     border-radius: 1rem;
     text-decoration: none;
+    margin: 0 1rem;
 }
 
 .slide-btns:hover {
