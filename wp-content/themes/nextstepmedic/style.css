@@ -196,4 +196,6 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 .lunula-laser-img {
     height: 400px;
     margin: 0 auto;
+    display: block;
+    text-align: center;
 }
