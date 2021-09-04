@@ -55,7 +55,7 @@
 
                             <div class="col-10">
 
-                                <ul class=" top-menu-ul">
+                                <ul class="top-menu-ul">
 
 
                                     <?php
