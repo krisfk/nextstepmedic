@@ -54,7 +54,7 @@
 
                             <?php
                 
-                $main_menu = wp_get_menu_array('main menu');
+                // $main_menu = wp_get_menu_array('main menu');
                 exit();
                 foreach ($main_menu as $menu_item) {
 
