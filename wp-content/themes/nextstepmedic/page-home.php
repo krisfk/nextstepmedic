@@ -106,7 +106,18 @@ get_header();
         <div class="col-6">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50.jpg" alt="">
         </div>
-        <div class="col-6"></div>
+        <div class="col-6">
+
+            <div class="service-title">Orthopaedics & Traumatology</div>
+
+            <div class="mt-4">Focus on injuries and diseases of the musculoskeletal system (the body’s muscles, skeleton
+                and related
+                connective tissues), including the spine, joints, ligaments, tendons and nerves. To provides
+                musculoskeletal diagnostic services with surgical or non-surgical treatments that are tailored to the
+                individual needs of our patients.</div>
+
+            <a href="" class="brown-round-btn"></a>
+        </div>
 
     </div>
     <div></div>

@@ -134,6 +134,13 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
     border-radius: 0.4rem;
 }
 
+.brown-round-btn {
+    color: #fff;
+    background: #bf9d81;
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.4rem;
+}
+
 .slide-btns {
     color: #fff;
     background: #bf9d81;
