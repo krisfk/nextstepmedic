@@ -188,3 +188,7 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
     color: #bf9d81;
     font-family: 'Playfair Display';
 }
+
+.page-home .service-row {
+    border-bottom: 1px solid #000;
+}
