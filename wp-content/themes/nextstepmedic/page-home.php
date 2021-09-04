@@ -159,6 +159,52 @@ get_header();
     </div>
 
 
+    <div class="row pt-4 pb-4  service-row gx-0">
+        <div class="col-6">
+
+            <div class="service-title">Swift Laser Wart Treatmen
+            </div>
+
+            <div class="mt-4">SWIFT is a cutting-edge technology that has proven to be highly effective, faster and
+                cleaner in the removal of plantar warts. It delivers low dose microwave energy through a specialized
+                probe that targets and treats the underlying HPV virus by stimulating a natural immune response in the
+                body. It addresses the root cause and not the symptoms of plantar warts, thus preventing its recurrence.
+            </div>
+
+            <a href="" class="brown-round-btn mt-5 d-inline-block">Read More</a>
+        </div>
+        <div class="col-6 pe-4">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50.jpg" alt="">
+        </div>
+
+
+    </div>
+
+    <div class="row pt-4 pb-4  service-row gx-0">
+        <div class="col-6">
+
+            <div class="service-title">Lunula Laser Fungal Nail Treatment
+
+            </div>
+
+            <div class="mt-4">The Erchonia Lunula laser device is a Low-Level Laser Light that is specifically designed
+                for treating onychomycosis – toenail fungus. The laser is non-thermal so called “Cold Laser” meaning
+                that there is no heat used and therefore there are ZERO risks and pain involved with its usage. Lunula
+                Laser poses no harmful side effects of oral anti-fungal medications and is painless, unlike other laser
+                therapies.
+            </div>
+
+            <a href="" class="brown-round-btn mt-5 d-inline-block">Read More</a>
+        </div>
+        <div class="col-6 pe-4">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50.jpg" alt="">
+        </div>
+
+
+    </div>
+
+
+
 </div>
 
 <script type="text/javascript">
