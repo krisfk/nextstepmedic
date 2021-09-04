@@ -174,7 +174,7 @@ get_header();
             <a href="" class="brown-round-btn mt-5 d-inline-block">Read More</a>
         </div>
         <div class="col-6 pe-4">
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50.jpg" alt="">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x.png" alt="">
         </div>
 
 
