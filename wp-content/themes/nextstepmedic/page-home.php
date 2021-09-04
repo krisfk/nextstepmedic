@@ -127,13 +127,13 @@ get_header();
         </div>
         <div class="col-6">
 
-            <div class="service-title">Orthopaedics & Traumatology</div>
+            <div class="service-title">Physiotherapy</div>
 
-            <div class="mt-4">Focus on injuries and diseases of the musculoskeletal system (the body’s muscles, skeleton
-                and related
-                connective tissues), including the spine, joints, ligaments, tendons and nerves. To provides
-                musculoskeletal diagnostic services with surgical or non-surgical treatments that are tailored to the
-                individual needs of our patients.</div>
+            <div class="mt-4">Provide evidence-based practice and care to persons who have musculoskeletal condition
+                like backaches, sciatica, headaches, pregnancy back pain, neck pain, whiplash, frozen shoulder, postural
+                abnormality, sports injuries and work-related injuries, RSI, etc. We educate our clients about general
+                health and posture to prevent re-occurrence of same injury or complication and other conditions by
+                specified techniques.</div>
 
             <a href="" class="brown-round-btn mt-5 d-inline-block">Read More</a>
         </div>
