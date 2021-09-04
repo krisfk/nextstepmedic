@@ -19,23 +19,26 @@ get_header();
 </div>
 
 <script type="text/javascript">
-$('.slides').slick({
-    dots: true,
-    arrows: false,
-    autoplay: true,
-    pauseOnFocus: false,
-    infinite: true,
-    speed: 800,
+$(function() {
+    $('.slides').slick({
+        dots: true,
+        arrows: false,
+        autoplay: true,
+        pauseOnFocus: false,
+        infinite: true,
+        speed: 800,
 
-    autoplaySpeed: 5000,
-    cssEase: 'ease-out',
-    pauseOnHover: false
-
-
-
+        autoplaySpeed: 5000,
+        cssEase: 'ease-out',
+        pauseOnHover: false
 
 
-});
+
+
+
+    });
+
+})
 </script>
 <?php
 
