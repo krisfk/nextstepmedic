@@ -181,7 +181,7 @@ get_header();
     </div>
 
     <div class="row pt-4 pb-4  service-row gx-0">
-        <div class="col-6">
+        <div class="col-8">
 
             <div class="service-title">Lunula Laser Fungal Nail Treatment
 
@@ -196,7 +196,7 @@ get_header();
 
             <a href="" class="brown-round-btn mt-5 d-inline-block">Read More</a>
         </div>
-        <div class="col-6 pe-4">
+        <div class="col-4 pe-4">
             <img class="lunula-laser-img" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x.png"
                 alt="">
         </div>
