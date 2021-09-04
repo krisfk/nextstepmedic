@@ -100,6 +100,22 @@ get_header();
     </div> -->
 </div>
 
+<div class="container">
+
+    <div class="row">
+        <div class="col-6">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50.jpg" alt="">
+        </div>
+        <div class="col-6"></div>
+
+    </div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+</div>
+
 <script type="text/javascript">
 $(function() {
     $('.slides').slick({
