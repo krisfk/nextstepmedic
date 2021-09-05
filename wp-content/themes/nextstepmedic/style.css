@@ -278,3 +278,12 @@ body {
 footer {
     background: #bf9d81;
 }
+
+footer ul li {
+    list-style-type: none;
+}
+
+footer ul {
+    padding: 0;
+    margin: 0;
+}
