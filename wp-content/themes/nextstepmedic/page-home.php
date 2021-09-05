@@ -225,7 +225,7 @@ get_header();
                     received from my podiatrist, Charlie. My feet feel great when I leave the clinic.”
                 </div>
 
-                <div class="person-name mt-4">Jen Esposito</div>
+                <div class="person-name mt-3">Jen Esposito</div>
             </a>
         </div>
         <div class="col-4">
@@ -237,7 +237,7 @@ get_header();
                     obtain optimum
                     fitness prior to surgery and following surgery."
                 </div>
-                <div class="person-name mt-4">Taz Freeman</div>
+                <div class="person-name mt-3">Taz Freeman</div>
 
             </a>
 
@@ -249,7 +249,7 @@ get_header();
 
                 <div class="mt-4">“As usual, get to the source of the issue and provide good exercises to remedy.”
                 </div>
-                <div class="person-name mt-4">Aaron Volman</div>
+                <div class="person-name mt-3">Aaron Volman</div>
 
             </a>
 
