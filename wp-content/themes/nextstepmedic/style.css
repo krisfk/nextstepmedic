@@ -127,7 +127,7 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 /* Variables */
 
 body {
-    font-family: 'Futura Bk BT';
+    font-family: 'Futura Bk BT' !important;
 }
 
 .logo {
