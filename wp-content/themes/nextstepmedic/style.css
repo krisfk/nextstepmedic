@@ -283,6 +283,11 @@ body {
     font-style: italic;
 }
 
+.large-subtitle {
+    font-family: 'Futura-Bold';
+    font-style: italic;
+}
+
 footer {
     background: #bf9d81;
     line-height: 2rem;
