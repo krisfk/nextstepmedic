@@ -263,6 +263,8 @@ get_header();
     <a href="#" class="book-an-appointment-a-btn">
         Book an Appointment
     </a>
+
+    <div>Take your NEXT STEP to consult our team and treat your problems proactively.</div>
 </div>
 
 <script type="text/javascript">
