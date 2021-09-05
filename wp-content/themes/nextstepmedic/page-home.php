@@ -218,7 +218,7 @@ get_header();
 
 
             <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
-            <div>“ I have been continually impressed over the past 7 years with the kind care and attention that I have
+            <div>“I have been continually impressed over the past 7 years with the kind care and attention that I have
                 received from my podiatrist, Charlie. My feet feel great when I leave the clinic.”
             </div>
         </div>
