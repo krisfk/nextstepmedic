@@ -20,7 +20,7 @@ get_header();
 
         <div class="col-12">
 
-            <div>
+            <div class="content-div">
                 fdsf</div>
         </div>
     </div>
