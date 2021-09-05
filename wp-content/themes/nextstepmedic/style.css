@@ -312,3 +312,7 @@ footer table td {
 footer table svg {
     height: 20px;
 }
+
+footer table td.icon-td {
+    text-align: center;
+}

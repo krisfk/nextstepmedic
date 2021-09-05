@@ -66,7 +66,7 @@
                 </ul>
                 <table>
                     <tr>
-                        <td>
+                        <td class="icon-td">
                             <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In  -->
                             <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
                                 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="20.36px"
@@ -97,7 +97,7 @@
                             Central, Hong Kong</td>
                     </tr>
                     <tr>
-                        <td>
+                        <td class="icon-td">
                             <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In  -->
                             <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
                                 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="27.81px"
@@ -134,7 +134,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>
+                        <td class="icon-td">
                             <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In  -->
                             <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
                                 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="27.81px"
@@ -170,7 +170,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>
+                        <td class="icon-td">
                             <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In  -->
                             <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
                                 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="27.94px"
