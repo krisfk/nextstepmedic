@@ -54,6 +54,30 @@ get_header();
 </div>
 
 
+<div class="container">
+
+    <div class="team-member-row pt-5 pb-5">
+        <div class="team-member-name">Dr. Tong Chun Kit
+        </div>
+        <div class="team-member-title">Specialist in Orthopaedics Surgery
+        </div>
+
+        <div class="team-member-subtitle">
+            MB BS (HK) <br>
+            PgD MMR (CUHK)<br>
+            MRCSEd<br>
+            FRCSEd (Orth)<br>
+            FHKCOS<br>
+            FHKAM (Orthopaedic Surgery)
+        </div>
+
+        <div class="team-member-description"></div>
+    </div>
+
+
+
+</div>
+
 
 
 
