@@ -233,3 +233,13 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 .mt-6 {
     margin-top: 6rem !important;
 }
+
+.book-an-appointment-div {
+    background: #a4724a;
+    color: #fff;
+}
+
+.book-an-appointment-div a.book-an-appointment-a-btn {
+    color: #bf9d81;
+    background: #fff;
+}

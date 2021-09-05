@@ -259,6 +259,12 @@ get_header();
 
 </div>
 
+<div class="book-an-appointment-div">
+    <a href="#" class="book-an-appointment-a-btn">
+        Book an Appointment
+    </a>
+</div>
+
 <script type="text/javascript">
 $(function() {
     $('.slides').slick({
