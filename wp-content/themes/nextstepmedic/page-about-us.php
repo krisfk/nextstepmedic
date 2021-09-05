@@ -21,7 +21,32 @@ get_header();
         <div class="col-12">
 
             <div class="content-div">
-                fdsf</div>
+
+                <div class="large-subtitle">Mission and Vision
+                </div>
+
+                The Next Step Medical Clinic is your one-stop orthopaedics, physiotherapy and podiatry centre for
+                musculoskeletal pain, sports injury, foot pain and other related conditions. It is located at Unit 1101,
+                70 Queen's Road Central, Central, the heart of the city and Hong Kong’s primary central business
+                district.  <br> <br>
+
+                Our team of medical specialists includes orthopaedics, physiotherapists and podiatrists who are all
+                highly trained and have many years of experience in their chosen fields. We work together to provide the
+                best possible treatment for your individual problems. We treat the causes of the pains and injuries, not
+                only the symptoms. We will work with you to set goals and objectives that will help your recovery from
+                surgery, your weekend sporting injuries and your everyday pain.
+                <br> <br>
+
+                Our team consists of local practitioners conversant in English, Cantonese, Mandarin and various
+                dialects, and we strongly believe in delivering greater value and higher quality of care to our patients
+                through effective communication and ethical clinical practice.
+                <br> <br>
+
+                Our vision is to explain treatments thoroughly, promote a preventative, long term approach to health
+                care in a friendly and encouraging atmosphere, and empower patients to have the best quality of
+                life they deserve. Be proactive and not inactive.
+
+            </div>
         </div>
     </div>
 
