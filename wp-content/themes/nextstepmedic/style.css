@@ -351,3 +351,19 @@ footer table td.icon-td {
 .team-member-row {
     border-bottom: 1px solid #b9bbbd;
 }
+
+.team-member-name {
+    color: #bf9d81;
+    font-family: 'Futura-Bold';
+}
+
+.team-member-title {
+    color: #bf9d81;
+    font-family: 'Futura-Bold';
+}
+
+.team-member-subtitle {
+    color: #bf9d81;
+}
+
+.team-member-description {}
