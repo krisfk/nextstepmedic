@@ -264,7 +264,9 @@ get_header();
         Book an Appointment
     </a>
 
-    <div>Take your NEXT STEP to consult our team and treat your problems proactively.</div>
+    <div class="container white">
+        Take your NEXT STEP to consult our team and treat your problems proactively.
+    </div>
 </div>
 
 <script type="text/javascript">
