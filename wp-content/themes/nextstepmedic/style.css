@@ -229,3 +229,7 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
     font-family: 'Playfair Display';
     text-align: center;
 }
+
+.mt-6 {
+    margin-top: 6rem !important;
+}
