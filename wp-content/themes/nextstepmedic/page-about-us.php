@@ -18,7 +18,11 @@ get_header();
 
     <div class="row big-banner-central-row">
 
-        <div class="col-12">fdsf</div>
+        <div class="col-12">
+
+            <div>
+                fdsf</div>
+        </div>
     </div>
 
     <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x.jpg" alt="">
