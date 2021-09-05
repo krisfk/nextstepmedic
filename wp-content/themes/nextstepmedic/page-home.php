@@ -270,7 +270,7 @@ get_header();
 </div>
 
 
-\
+
 <script type="text/javascript">
 $(function() {
     $('.slides').slick({
