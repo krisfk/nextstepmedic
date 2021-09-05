@@ -78,7 +78,9 @@
                 </table>
 
             </div>
-            <div class="col-4"></div>
+            <div class="col-4">
+                fds
+            </div>
         </div>
     </div>
 
