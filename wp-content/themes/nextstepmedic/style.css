@@ -269,3 +269,12 @@ body {
 .white {
     color: #fff !important;
 }
+
+.footer-subtitle {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.footer {
+    background: #bf9d81;
+}

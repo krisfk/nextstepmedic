@@ -27,7 +27,7 @@
             <div class="col-4">
                 <ul>
 
-                    <li>Our Services
+                    <li class="footer-subtitle">Our Services
                     <li>
                     <li>Orthopaedics & Traumatology
                     <li>
