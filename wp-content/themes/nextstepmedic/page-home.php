@@ -208,7 +208,7 @@ get_header();
 
 </div>
 
-<div class="container">
+<div class="container testimonials-container">
 
     <div class="subtitle">Testimonials</div>
 
@@ -217,23 +217,34 @@ get_header();
         <div class="col-4">
 
 
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
-            <div>“I have been continually impressed over the past 7 years with the kind care and attention that I have
-                received from my podiatrist, Charlie. My feet feel great when I leave the clinic.”
-            </div>
+            <a href="#">
+                <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
+                <div>“I have been continually impressed over the past 7 years with the kind care and attention that I
+                    have
+                    received from my podiatrist, Charlie. My feet feel great when I leave the clinic.”
+                </div>
+            </a>
         </div>
         <div class="col-4">
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
+            <a href="#">
 
-            <div>"My physio, Jeff, was super-efficient in dealing with my problems and helping me to obtain optimum
-                fitness prior to surgery and following surgery."
-            </div>
+                <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
+
+                <div>"My physio, Jeff, was super-efficient in dealing with my problems and helping me to obtain optimum
+                    fitness prior to surgery and following surgery."
+                </div>
+            </a>
+
         </div>
         <div class="col-4">
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
+            <a href="#">
 
-            <div>“As usual, get to the source of the issue and provide good exercises to remedy.”
-            </div>
+                <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
+
+                <div>“As usual, get to the source of the issue and provide good exercises to remedy.”
+                </div>
+            </a>
+
         </div>
 
     </div>
