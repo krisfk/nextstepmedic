@@ -33,7 +33,7 @@
                     </li>
                 </ul>
 
-                <ul>
+                <ul class="mt-5">
 
                     <li class="footer-subtitle">
                         <a href="#">
