@@ -317,3 +317,11 @@ footer table svg {
 footer table td.icon-td {
     text-align: center;
 }
+
+.big-banner-central-row {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
