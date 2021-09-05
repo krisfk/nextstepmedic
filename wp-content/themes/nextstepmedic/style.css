@@ -308,3 +308,7 @@ footer ul {
 footer table td {
     vertical-align: top;
 }
+
+footer table svg {
+    height: 20px;
+}
