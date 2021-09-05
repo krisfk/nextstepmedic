@@ -212,3 +212,7 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
     text-decoration: none;
     color: #bf9d81;
 }
+
+.page-home .testimonials-container .person-name {
+    font-family: 'Futura';
+}
