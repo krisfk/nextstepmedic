@@ -219,7 +219,8 @@ get_header();
 
             <a href="#">
                 <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
-                <div>“I have been continually impressed over the past 7 years with the kind care and attention that I
+                <div class="mt-5">“I have been continually impressed over the past 7 years with the kind care and
+                    attention that I
                     have
                     received from my podiatrist, Charlie. My feet feel great when I leave the clinic.”
                 </div>
@@ -230,7 +231,8 @@ get_header();
 
                 <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
 
-                <div>"My physio, Jeff, was super-efficient in dealing with my problems and helping me to obtain optimum
+                <div class="mt-5">"My physio, Jeff, was super-efficient in dealing with my problems and helping me to
+                    obtain optimum
                     fitness prior to surgery and following surgery."
                 </div>
             </a>
@@ -241,7 +243,7 @@ get_header();
 
                 <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
 
-                <div>“As usual, get to the source of the issue and provide good exercises to remedy.”
+                <div class="mt-5">“As usual, get to the source of the issue and provide good exercises to remedy.”
                 </div>
             </a>
 
