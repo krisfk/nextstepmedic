@@ -56,6 +56,14 @@
             </div>
             <div class="col-4">
 
+
+
+                <ul>
+                    <li class="footer-subtitle">
+                        <a href="#">
+                            Contact Us</a>
+                    </li>
+                </ul>
                 <table>
                     <tr>
                         <td>
@@ -91,7 +99,24 @@
 
             </div>
             <div class="col-4">
-                fds
+
+
+                <ul>
+                    <li class="footer-subtitle">
+                        <!-- <a href="#"> -->
+                        Opening Hours
+                        <!-- </a> -->
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+
+                        Monday - Friday: 10:00 - 18:00 <br>
+                        Saturday: 09:00 - 13:00 <br>
+                        Sunday & Public Holidays: Closed
+
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
