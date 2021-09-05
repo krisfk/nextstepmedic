@@ -241,6 +241,7 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 
 .book-an-appointment-div a.book-an-appointment-a-btn {
     color: #bf9d81;
+    text-decoration: none;
     background: #fff;
     display: block;
     margin: 0 auto;
