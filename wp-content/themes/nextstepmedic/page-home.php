@@ -259,7 +259,7 @@ get_header();
 
 </div>
 
-<div class="book-an-appointment-div">
+<div class="book-an-appointment-div mt-4">
     <a href="#" class="book-an-appointment-a-btn">
         Book an Appointment
     </a>
