@@ -208,9 +208,9 @@ get_header();
 
 </div>
 
-<div class="container testimonials-container">
+<div class="container testimonials-container mt-5">
 
-    <div class="subtitle">Testimonials</div>
+    <div class="subtitle mb-5">Testimonials</div>
 
     <div class="row">
 
