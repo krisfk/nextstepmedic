@@ -52,7 +52,7 @@
 
                             <div class="col-2">
 
-                                <a href="logo-a" href="<?php echo get_site_url();?>">
+                                <a href="<?php echo get_site_url();?>">
                                     <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/logo.png" alt=""
                                         class="logo">
                                 </a>
