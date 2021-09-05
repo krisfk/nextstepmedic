@@ -264,7 +264,7 @@ get_header();
         Book an Appointment
     </a>
 
-    <div class="container white">
+    <div class="container white font-weight-bold font-italic">
         Take your NEXT STEP to consult our team and treat your problems proactively.
     </div>
 </div>
