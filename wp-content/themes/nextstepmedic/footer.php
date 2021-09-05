@@ -27,8 +27,10 @@
             <div class="col-4">
 
                 <ul>
-                    <li> <a href="#">
-                            Our Team</a></li>
+                    <li class="footer-subtitle">
+                        <a href="#">
+                            Our Team</a>
+                    </li>
                 </ul>
 
                 <ul>
