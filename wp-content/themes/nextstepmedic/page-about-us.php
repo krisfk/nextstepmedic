@@ -22,7 +22,7 @@ get_header();
 
             <div class="content-div">
 
-                <div class="large-subtitle mb-5">Mission and Vision
+                <div class="large-subtitle mb-4">Mission and Vision
                 </div>
 
                 The Next Step Medical Clinic is your one-stop orthopaedics, physiotherapy and podiatry centre for
