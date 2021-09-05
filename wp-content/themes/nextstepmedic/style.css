@@ -115,8 +115,20 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Futura Bk BT';
+    src: url('./assets/fonts/FuturaBT-Book.woff2') format('woff2'), url('./assets/fonts/FuturaBT-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 
 /* Variables */
+
+body {
+    font-family: 'Futura Bk BT';
+}
 
 .logo {
     height: 100px;
