@@ -287,6 +287,14 @@ footer {
     background: #bf9d81;
 }
 
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    color: #fff;
+}
+
 footer ul li {
     list-style-type: none;
 }
