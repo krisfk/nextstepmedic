@@ -264,7 +264,7 @@ get_header();
         Book an Appointment
     </a>
 
-    <div class="container white fw-bolder fst-italic" mt-3">
+    <div class="container white fw-bolder fst-italic mt-3">
         Take your NEXT STEP to consult our team and treat your problems proactively.
     </div>
 </div>
