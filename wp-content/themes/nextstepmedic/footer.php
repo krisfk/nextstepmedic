@@ -25,20 +25,30 @@
         <div class="row">
 
             <div class="col-4">
+
+                <ul>
+                    <li> <a href="#">
+                            Our Team</a></li>
+                </ul>
+
                 <ul>
 
-                    <li class="footer-subtitle">Our Services
-                    <li>
-                    <li>Orthopaedics & Traumatology
-                    <li>
-                    <li>Physiotherapy
-                    <li>
-                    <li>Podiatry
-                    <li>
-                    <li>Swift Laser - Wart Treatment
-                    <li>
-                    <li>Lunula Laser - Fungal Nails
-                    <li>
+                    <li class="footer-subtitle">
+                        <a href="#">
+                            Our Services</a>
+                    </li>
+
+
+                    <li><a href="#">Orthopaedics & Traumatology</a></li>
+
+                    <li><a href="#">Physiotherapy</a></li>
+
+                    <li><a href="#">Podiatry</a></li>
+
+                    <li><a href="#">Swift Laser - Wart Treatment</a></li>
+
+                    <li><a href="#">Lunula Laser - Fungal Nails</a></li>
+
 
                 </ul>
             </div>
