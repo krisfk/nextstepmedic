@@ -87,7 +87,7 @@ get_header();
         <div class="team-member-subtitle mt-4">
 
             BPhty (NZ) <br>
-            MPNZ - Member of Physiotherapy New Zealand<br>
+            MPNZ - Member of Physiotherapy New Zealand
 
         </div>
 
@@ -108,6 +108,70 @@ get_header();
             be spending most of his weekends in the short future.
         </div>
     </div>
+
+
+    <div class="team-member-row pt-5 pb-5">
+        <div class="team-member-name"> Charlie S.K Lau
+
+
+        </div>
+        <div class="team-member-title">
+
+            Registered Podiatrist (NZ)
+        </div>
+
+        <div class="team-member-subtitle mt-4">
+
+            BHsc Podiatry (NZ) <br>
+            PgD in Musculoskeletal Medicine and Rehabilitation (CUHK)<br>
+            Member of PodiatryNZ<br>
+            Member of International Podiatrists Association of Hong Kong (IPAHK)<br>
+            BPhty (NZ) <br>
+            MPNZ - Member of Physiotherapy New Zealand
+
+        </div>
+
+        <div class="team-member-description mt-4">Charlie is a podiatrist registered under the International Podiatrists
+            Association of Hong Kong and registered with the Podiatrists Board of New Zealand. He received professional
+            training in podiatry from the Auckland university technology in New Zealand and furthered his education and
+            obtained his Postgraduate Diploma in Musculoskeletal Medicine and Rehabilitation from the Chinese University
+            of Hong Kong. <br><br>
+
+            Charlie is currently working at the Matilda international hospital/ Matilda Medical Centre (Central) , Hong
+            Kong Adventist Hospital- Tsuen wan and Gleneagles Hospital Hong Kong. He had worked in two multidisciplinary
+            clinics in Shanghai. He also volunteered at the HKSKH Lady MacLehose Centre and provided podiatry education
+            for the disadvantaged.<br>
+            Charlie work closely in partnership with consultant orthopedic surgeons, general practitioner and
+            physiotherapist. They ensure each patient is thoroughly assessed; diagnosed and optimum treatment is
+            selected.<br><br>
+
+            His experience in a private practice in New Zealand and at the Matilda International Hospital in Hong Kong
+            has provided him with a comprehensive understanding of diagnosis and treatment of a wide array of
+            pathologies of the foot and lower leg, including:<br>
+            Nail & skin pathologies (callus / cracked heels, corns, in-growing toenails, fungal nails, verrucae, foot
+            warts, etc.)
+
+            <ul>
+
+                <li>Athletic and sports injuries of the foot, knee, and hip</li>
+                <li>Biomechanical assessments (examination of the lower limbs, looking at their structure, alignment,
+                    strengths and weaknesses)</li>
+                <li>Chronic pathologies</li>
+                <li>Diabetic foot care</li>
+                <li>Footwear assessment</li>
+                <li>Nail & skin pathologies (callus / cracked heels, corns, in-growing toenails, fungal nails, verrucae,
+                    foot
+                    warts, etc.)</li>
+                <li>Neurological disorders</li>
+                <li>Orthotic prescription</li>
+                <li>Paediatric assessment</li>
+                <li>Rheumatoid arthritis</li>
+                <li>Vascular & musculoskeletal disorders</li>
+            </ul>
+
+        </div>
+    </div>
+
 
 
 
