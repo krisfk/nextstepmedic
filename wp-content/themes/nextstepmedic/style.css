@@ -354,11 +354,13 @@ footer table td.icon-td {
 
 .team-member-name {
     color: #bf9d81;
+    font-size: 1.2rem;
     font-family: 'Futura-Bold';
 }
 
 .team-member-title {
     color: #bf9d81;
+    font-size: 1.2rem;
     font-family: 'Futura-Bold';
 }
 
