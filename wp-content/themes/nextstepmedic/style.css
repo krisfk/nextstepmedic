@@ -107,6 +107,14 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Futura';
+    src: url('./assets/fonts/Futura-Medium.woff2') format('woff2'), url('./assets/fonts/Futura-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
 
 /* Variables */
 
