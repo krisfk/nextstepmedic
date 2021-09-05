@@ -269,6 +269,8 @@ get_header();
     </div>
 </div>
 
+
+\
 <script type="text/javascript">
 $(function() {
     $('.slides').slick({
