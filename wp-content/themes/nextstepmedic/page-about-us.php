@@ -59,7 +59,7 @@ get_header();
     <div class="team-member-row pt-5 pb-5">
         <div class="team-member-name">Dr. Tong Chun Kit
         </div>
-        <div class="team-member-title mt-4">Specialist in Orthopaedics Surgery
+        <div class="team-member-title">Specialist in Orthopaedics Surgery
         </div>
 
         <div class="team-member-subtitle mt-4">
