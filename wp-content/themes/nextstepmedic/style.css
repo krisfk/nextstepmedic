@@ -286,6 +286,9 @@ body {
 .large-subtitle {
     font-family: 'Futura-Bold';
     font-style: italic;
+    font-size: 2.4rem;
+    color: #bf9d81;
+    font-family: 'Playfair Display';
 }
 
 footer {
