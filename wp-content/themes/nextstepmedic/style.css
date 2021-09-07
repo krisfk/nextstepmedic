@@ -406,3 +406,7 @@ footer table td.icon-td {
     padding-top: 1rem;
     line-height: 1.2;
 }
+
+.page-testimonials .big-banner-central-row .content-div {
+    background: none;
+}
