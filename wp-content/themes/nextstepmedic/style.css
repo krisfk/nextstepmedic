@@ -164,6 +164,13 @@ body {
     border-radius: 0.4rem;
 }
 
+.read-more-btn {
+    color: #bf9d81;
+    background: #fff;
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.4rem;
+}
+
 .top-menu-ul li a.phone {
     color: #fff;
     background: #bf9d81;

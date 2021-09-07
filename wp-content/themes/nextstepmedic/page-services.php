@@ -51,21 +51,21 @@ get_header();
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-1.jpg" alt="">
             <div class="service-title-div">
                 <div class="service-title">Orthopaedics & Traumatology</div>
-                <a href="">Read More</a>
+                <a href="javascript:void(0);" class="read-more-btn">Read More</a>
             </div>
         </div>
         <div class="col-4"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50.jpg" alt="">
             <div class="service-title-div">
                 <div class="service-title">Physiotherapy</div>
-                <a href="">Read More</a>
+                <a href="javascript:void(0);" class="read-more-btn">Read More</a>
             </div>
         </div>
         <div class="col-4"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x-50.jpg" alt="">
             <div class="service-title-div">
                 <div class="service-title">Podiatry </div>
-                <a href="">Read More</a>
+                <a href="javascript:void(0);" class="read-more-btn">Read More</a>
             </div>
         </div>
 
@@ -80,7 +80,7 @@ get_header();
                     For Wart Treatment
 
                 </div>
-                <a href="">Read More</a>
+                <a href="javascript:void(0);" class="read-more-btn">Read More</a>
             </div>
         </div>
         <div class="col-4">
@@ -89,7 +89,7 @@ get_header();
             <div class="service-title-div">
                 <div class="service-title">Lunula Laser - For Fungal Nails
                 </div>
-                <a href="">Read More</a>
+                <a href="javascript:void(0);" class="read-more-btn">Read More</a>
             </div>
         </div>
 
