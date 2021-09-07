@@ -374,4 +374,9 @@ footer table td.icon-td {
 .service-title-div {
     background: #bf9d81;
     color: #fff;
+    text-align: center;
+}
+
+.service-title {
+    font-family: 'Playfair Display';
 }
