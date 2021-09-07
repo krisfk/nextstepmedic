@@ -409,4 +409,8 @@ footer table td.icon-td {
 
 .page-testimonials .big-banner-central-row .content-div {
     background: none;
+    padding: 2rem;
+    position: relative;
+    top: -6rem;
+    left: 2rem;
 }
