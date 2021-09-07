@@ -390,6 +390,10 @@ footer table td.icon-td {
     padding: 0.7rem;
 }
 
+.service-col {
+    background: #bf9d81;
+}
+
 .service-title {
     font-family: 'Playfair Display';
     font-size: 1.4rem;
