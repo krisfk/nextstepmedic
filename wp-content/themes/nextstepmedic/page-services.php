@@ -48,7 +48,7 @@ get_header();
     <div class="row">
 
         <div class="col-4">
-            <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-1.jpg" alt="">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-1.jpg" alt="">
         </div>
         <div class="col-4"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50.jpg" alt="">
