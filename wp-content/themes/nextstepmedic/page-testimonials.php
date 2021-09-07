@@ -22,18 +22,14 @@ get_header();
 
             <div class="content-div">
 
-                <div class="large-subtitle mb-4">Services
+                <div class="large-subtitle mb-4">Testimonials
                 </div>
-                The Next Step Medical Clinic is your one-stop orthopaedics, physiotherapy and podiatry centre for
-                treating musculoskeletal pain, sports injury, foot pain and other related conditions. To help your
-                recovery from surgery, your weekend sporting injuries and your everyday pain, get in touch with us.
-                <br> <br>
-                Our team of experienced and highly trained medical specialists includes orthopaedics, physiotherapists
-                and podiatrists work together to provide the best treatment plan for your individual problems. We
-                proactively treat the causes of the problems, not only the symptoms.
-                <br> <br>
-                We strongly believe in delivering greater value and higher quality of care to our patients through
-                effective communication and ethical clinical practice.
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+                scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap
+                into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the
+                release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
+                software like Aldus PageMaker including versions of Lorem Ipsum.
             </div>
         </div>
     </div>
