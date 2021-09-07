@@ -170,6 +170,10 @@ body {
     padding: 0.2rem 0.5rem;
     border-radius: 0.4rem;
     text-decoration: none;
+    display: block;
+    margin: 0.5rem auto;
+    width: fit-content;
+    font-size: 1rem;
 }
 
 .top-menu-ul li a.phone {
@@ -388,4 +392,5 @@ footer table td.icon-td {
 
 .service-title {
     font-family: 'Playfair Display';
+    font-size: 1.4rem;
 }
