@@ -165,15 +165,19 @@ body {
 }
 
 .read-more-btn {
+    transform: translate(-50%, 0);
     color: #bf9d81;
     background: #fff;
     padding: 0.2rem 0.5rem;
     border-radius: 0.4rem;
     text-decoration: none;
     display: block;
-    margin: 0.5rem auto;
+    /* margin: 0.5rem auto; */
     width: fit-content;
-    font-size: 1rem;
+    font-size: 0.9rem;
+    position: absolute;
+    bottom: 0.8rem;
+    left: 50%;
 }
 
 .top-menu-ul li a.phone {
@@ -387,7 +391,9 @@ footer table td.icon-td {
     background: #bf9d81;
     color: #fff;
     text-align: center;
-    padding: 0.7rem;
+    /* padding: 0.7rem; */
+    min-height: 120px;
+    position: relative;
 }
 
 .service-col {
@@ -396,5 +402,7 @@ footer table td.icon-td {
 
 .service-title {
     font-family: 'Playfair Display';
-    font-size: 1.4rem;
+    font-size: 1.5rem;
+    padding-top: 1rem;
+    line-height: 1.2;
 }
