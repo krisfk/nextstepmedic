@@ -478,3 +478,7 @@ footer table td.icon-td {
 .rail-time {
     font-family: 'Futura-Bold';
 }
+
+.location-pin {
+    height: 30px;
+}
