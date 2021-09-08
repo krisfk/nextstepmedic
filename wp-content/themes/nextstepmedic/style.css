@@ -467,6 +467,10 @@ footer table td.icon-td {
     width: max-content;
 }
 
+.rail-table {
+    font-family: 'Futura-Bold';
+}
+
 .rail-table td {
     padding: 0 0.5rem;
 }
