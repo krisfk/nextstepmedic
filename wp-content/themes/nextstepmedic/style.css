@@ -303,7 +303,7 @@ body {
 }
 
 .bold {
-    font-family: 'Futura-Bold';
+    font-family: 'Futura-Bold' !important;
 }
 
 .large-subtitle {
