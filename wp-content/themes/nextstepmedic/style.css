@@ -417,4 +417,6 @@ footer table td.icon-td {
     left: 2rem;
 }
 
-.testimonials-container .slide {}
+.testimonials-container .slide {
+    margin: 0 1rem;
+}
