@@ -118,9 +118,8 @@ get_header();
                             +852 xxxx xxxx</td>
                     </tr>
                     <tr>
-                        <td>
                         <td><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@4x.png" alt=""></td>
-                        </td>
+
                         <td> nextstepclinic@gmail.com
                         </td>
                     </tr>
