@@ -102,15 +102,29 @@ get_header();
 
                 <table>
                     <tr>
-
+                        <td></td>
                         <td> Unit 1110, 11/F, Crawford House, 70 Queen's Road Central,
                         </td>
+                    </tr>
+
+                    <tr>
+                        <td></td>
                         <td>Central, Hong Kong</td>
+                    </tr>
+                    <tr>
+                        <td></td>
                         <td> +852 9126 8257</td>
+                    </tr>
+                    <tr>
+                        <td></td>
                         <td>
                             +852 xxxx xxxx</td>
+                    </tr>
+                    <tr>
+                        <td></td>
                         <td> nextstepclinic@gmail.com
                         </td>
+                    </tr>
                     </tr>
 
                 </table>
