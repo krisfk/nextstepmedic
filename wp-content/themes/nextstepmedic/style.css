@@ -637,3 +637,15 @@ html .ui-button.ui-state-disabled:active {
     padding: 1px;
     border: 1px solid #231f20 !important;
 }
+
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active,
+a.ui-button:active,
+.ui-button:active,
+.ui-button.ui-state-active:hover {
+    border: 1px solid #a47249 !important;
+    background: #a47249 !important;
+    font-weight: normal !important;
+    color: #ffffff !important;
+}
