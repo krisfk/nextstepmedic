@@ -482,3 +482,8 @@ footer table td.icon-td {
 .location-pin {
     height: 30px;
 }
+
+.address-div {
+    border-top: 1px solid #a1715d;
+    border-bottom: 1px solid #a1715d;
+}
