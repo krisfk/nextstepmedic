@@ -583,3 +583,17 @@ footer table td.icon-td {
     border: none !important;
     font-weight: bold !important;
 }
+
+.ui-state-hover,
+.ui-widget-content .ui-state-hover,
+.ui-widget-header .ui-state-hover,
+.ui-state-focus,
+.ui-widget-content .ui-state-focus,
+.ui-widget-header .ui-state-focus,
+.ui-button:hover,
+.ui-button:focus {
+    border: none;
+    background: #a4724a;
+    /* font-weight: normal; */
+    color: #fff;
+}
