@@ -36,7 +36,7 @@ get_header();
 
                 </div>
 
-                <div class="row mt-5">
+                <div class="row mt-5 g-0">
 
                     <div class="col-12 text-center">
 
