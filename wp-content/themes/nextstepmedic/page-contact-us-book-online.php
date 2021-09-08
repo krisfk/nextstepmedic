@@ -100,7 +100,6 @@ get_header();
                 <div class="contact-subtitle">Contact Us
                 </div>
 
-
                 <table>
                     <tr>
 
@@ -120,17 +119,17 @@ get_header();
 
 
 
+
+
             </div>
+            <div class="col-6">fdsa</div>
 
         </div>
-        <div class="col-6">fdsa</div>
+
 
     </div>
 
-
-</div>
-
-<!-- <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-scaled.jpg" alt=""> -->
+    <!-- <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-scaled.jpg" alt=""> -->
 </div>
 
 
