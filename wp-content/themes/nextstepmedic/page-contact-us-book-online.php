@@ -187,6 +187,13 @@ get_header();
 
 
                 </div>
+                <div class="col-12">
+
+                    <textarea class="w-100" rows="4" cols="50">
+At w3schools.com you will learn how to make a website. They offer free tutorials in all web development technologies.
+</textarea>
+
+                </div>
             </div>
         </div>
     </div>
