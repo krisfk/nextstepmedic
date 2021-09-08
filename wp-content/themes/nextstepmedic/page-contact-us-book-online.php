@@ -163,7 +163,7 @@ get_header();
 
 <div class="container mt-5 mb-5">
 
-    <div class="row">
+    <div class="row  gx-5 justify-content-center">
 
         <div class="col-5">
             <div>Book an Appointment</div>
