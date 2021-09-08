@@ -466,3 +466,7 @@ footer table td.icon-td {
 .rail-station-name {
     width: max-content;
 }
+
+.rail-table td {
+    padding: 0 1rem;
+}

@@ -48,7 +48,7 @@ get_header();
 
                     <div class="col-12">
 
-                        <table>
+                        <table class="rail-table">
                             <tr>
                                 <td> <img class="w-100"
                                         src="https://nextstepmedic.com/wp-content/uploads/2021/09/mtr-icon.png" alt="">
