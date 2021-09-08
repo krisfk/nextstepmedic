@@ -651,11 +651,13 @@ a.ui-button:active,
 }
 
 .ui-datepicker .ui-datepicker-prev span {
-    background: url(./assets/images/arrow-l.png) !important;
-    background-size: 100% 100% !important;
+    background: url(./assets/images/arrow-l.png) no-repeat !important;
+    background-size: 70% 70% !important;
+    background-position: center;
 }
 
 .ui-datepicker .ui-datepicker-next span {
-    background: url(./assets/images/arrow-r.png) !important;
-    background-size: 100% 100% !important;
+    background: url(./assets/images/arrow-r.png) no-repeat !important;
+    background-size: 70% 70% !important;
+    background-position: center;
 }
