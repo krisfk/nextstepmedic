@@ -574,3 +574,10 @@ footer table td.icon-td {
     background: #a4724a !important;
     color: #fff !important;
 }
+
+ui-widget-header {
+    /* border: 1px solid #dddddd; */
+    background: #a4724a !important;
+    color: #fff !important;
+    font-weight: bold !important;
+}
