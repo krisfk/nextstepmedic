@@ -51,7 +51,8 @@ get_header();
                         <div class="row">
 
                             <div class="col-2">
-                                <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/mtr-icon.png" alt="">
+                                <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/mtr-icon.png" alt="">
                             </div>
                             <div class="col-3">
                                 Central</div>
