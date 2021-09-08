@@ -604,7 +604,7 @@ footer table td.icon-td {
 .ui-button,
 html .ui-button.ui-state-disabled:hover,
 html .ui-button.ui-state-disabled:active {
-    border: 1px solid #231f20 !important;
+    /* border: 1px solid #231f20 !important; */
     background: #ffffff !important;
     font-weight: normal;
     color: #454545 !important;
