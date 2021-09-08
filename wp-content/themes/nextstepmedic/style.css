@@ -652,7 +652,7 @@ a.ui-button:active,
 
 .ui-datepicker .ui-datepicker-prev {
     background: url(./assets/images/arrow-l.png) no-repeat !important;
-    background-size: 60% 60% !important;
+    background-size: 50% 50% !important;
     background-position: center center !important;
 }
 
@@ -666,7 +666,7 @@ a.ui-button:active,
 
 .ui-datepicker .ui-datepicker-next {
     background: url(./assets/images/arrow-r.png) no-repeat !important;
-    background-size: 60% 60% !important;
+    background-size: 50% 50% !important;
     background-position: center center !important;
 }
 
