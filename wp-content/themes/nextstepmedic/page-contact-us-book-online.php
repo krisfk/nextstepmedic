@@ -163,7 +163,16 @@ get_header();
 
 <div class="container mt-5 mb-5">
 
-    fd
+    <div class="row">
+
+        <div class="col-5">
+            <div>Book an Appointment</div>
+        </div>
+        <div class="col-5">
+            <div>for any enquiries, please leave us your message:</div>
+
+        </div>
+    </div>
 
 
 
