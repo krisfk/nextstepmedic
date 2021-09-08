@@ -547,5 +547,5 @@ footer table td.icon-td {
 }
 
 .ui-datepicker-inline {
-    width: 100%;
+    width: 100% !important;
 }
