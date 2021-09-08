@@ -174,8 +174,8 @@ get_header();
 <script type="text/javascript">
 $('.slides').slick({
     dots: true,
-    arrows: false,
-    autoplay: true,
+    arrows: true,
+    autoplay: false,
     pauseOnFocus: false,
     infinite: true,
     speed: 800,
