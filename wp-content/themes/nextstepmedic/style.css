@@ -249,12 +249,14 @@ body {
     text-align: center;
 }
 
-.page-home .testimonials-container a {
+.page-home .testimonials-container a,
+.page-testimonials .testimonials-container a {
     text-decoration: none;
     color: #bf9d81;
 }
 
-.page-home .testimonials-container .person-name {
+.page-home .testimonials-container .person-name,
+.page-testimonials .testimonials-container .person-name {
     font-family: 'Futura';
     font-weight: bold;
     font-style: italic;
