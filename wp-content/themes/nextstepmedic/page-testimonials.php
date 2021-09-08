@@ -40,7 +40,7 @@ get_header();
 
 <div class="container testimonials-container mt-5 mb-5">
 
-    <div class="row">
+    <div class="row slides">
 
         <div class="col-4">
 
@@ -147,6 +147,25 @@ get_header();
 </div>
 
 
+<script type="text/javascript">
+$('.slides').slick({
+    dots: true,
+    arrows: false,
+    autoplay: true,
+    pauseOnFocus: false,
+    infinite: true,
+    speed: 800,
+
+    autoplaySpeed: 5000,
+    cssEase: 'ease-out',
+    pauseOnHover: false
+
+
+
+
+
+});
+</script>
 
 
 
