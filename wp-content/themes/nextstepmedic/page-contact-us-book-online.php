@@ -37,7 +37,7 @@ get_header();
 
                 <div class="row">
 
-                    <div class="col-12">
+                    <div class="col-12 text-center">
 
                         <span>
                             <img class="human-icon" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x.png
