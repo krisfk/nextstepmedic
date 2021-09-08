@@ -488,3 +488,8 @@ footer table td.icon-td {
     border-bottom: 1px solid #a1715d;
     font-family: 'Futura-Bold';
 }
+
+.contact-subtitle {
+    font-family: 'Futura-Bold';
+    font-style: italic;
+}
