@@ -195,6 +195,10 @@ get_header();
 </textarea>
 
                     </div>
+                    <div class="col-12 mt-2 text-end">
+
+                        <a href="javascript:void(0);" class="send-msg-btn">Send Message</a>
+                    </div>
                 </div>
             </div>
         </div>
