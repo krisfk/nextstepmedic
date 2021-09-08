@@ -18,13 +18,26 @@ get_header();
 
     <div class="row big-banner-central-row gx-0">
 
-        <div class="col-12">
+        <div class="col-6">
 
-            <div class="content-div">
-
-
+            <div class="subtitle">Getting to The Next Step Medical Clinic
+            </div>
+            <div class="contact-bold-txt">3-Minute Walking Distance from Central MTR Station
+            </div>
+            <div>Located in the heart of the city, it enjoys easy accessibility to Central and Hong Kong MTR stations on
+                four railway lines (Tsuen Wan Line, Island Line, Tung Chung Line, Aiport Express) which connects Hong
+                Kong Islands with Kowloon, New Territories and also the Airport. Other hassle-free travel options
+                include mini-bus, tram, ferry, bus and taxi. <br> <br>
+                It is also of close proximity to quality shopping and dining options, top-notch hotels as well as
+                entertainment and leisure facilities nearby.
 
             </div>
+
+
+        </div>
+        <div class="col-6">
+
+
         </div>
     </div>
 
