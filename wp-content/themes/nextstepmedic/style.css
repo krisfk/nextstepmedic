@@ -628,3 +628,9 @@ html .ui-button.ui-state-disabled:active {
     background-image: none;
     border: 1px solid #231f20 !important;
 }
+
+.ui-datepicker td {
+    border: 0;
+    padding: 1px;
+    border: 1px solid #231f20 !important;
+}
