@@ -651,6 +651,11 @@ a.ui-button:active,
 }
 
 .ui-datepicker .ui-datepicker-prev span {
-    background: url(./assets/images/ca-left-arrow.png) !important;
+    background: url(./assets/images/arrow-l.png) !important;
+    background-size: 100% 100% !important;
+}
+
+.ui-datepicker .ui-datepicker-next span {
+    background: url(./assets/images/arrow-r.png) !important;
     background-size: 100% 100% !important;
 }
