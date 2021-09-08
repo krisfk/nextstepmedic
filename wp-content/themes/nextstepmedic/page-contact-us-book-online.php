@@ -24,7 +24,8 @@ get_header();
                 </div>
                 <div class="contact-bold-txt text-start">3-Minute Walking Distance from Central MTR Station
                 </div>
-                <div>Located in the heart of the city, it enjoys easy accessibility to Central and Hong Kong MTR
+                <div class="mt-3">Located in the heart of the city, it enjoys easy accessibility to Central and Hong
+                    Kong MTR
                     stations on
                     four railway lines (Tsuen Wan Line, Island Line, Tung Chung Line, Aiport Express) which connects
                     Hong
