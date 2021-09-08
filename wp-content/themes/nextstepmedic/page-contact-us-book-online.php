@@ -167,6 +167,7 @@ get_header();
 
         <div class="col-5">
             <div class="bold">Book an Appointment</div>
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x.png" alt="">
         </div>
         <div class="col-5">
             <div class="bold">for any enquiries, please leave us your message:</div>
