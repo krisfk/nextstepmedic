@@ -576,11 +576,11 @@ footer table td.icon-td {
 }
 
 .ui-widget-header {
-    /* border: 1px solid #dddddd; */
+    border: 1px solid #231f20 !important;
     background: #a4724a !important;
     color: #fff !important;
     border-radius: 0px !important;
-    border: none !important;
+    /* border: none !important; */
     font-weight: bold !important;
 }
 
