@@ -51,7 +51,7 @@ get_header();
 
                         <table class="rail-table">
                             <tr>
-                                <td> <img class="w-100"
+                                <td class="p-0"> <img class="w-100"
                                         src="https://nextstepmedic.com/wp-content/uploads/2021/09/mtr-icon.png" alt="">
                                 </td>
                                 <td>
