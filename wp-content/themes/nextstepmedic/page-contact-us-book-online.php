@@ -55,7 +55,8 @@ get_header();
                                 </td>
                                 <td>Central</td>
                                 <td>
-                                    <div class='dash-line'></div>
+                                    <img class="w-100"
+                                        src="https://nextstepmedic.com/wp-content/uploads/2021/09/dash.png" alt="">
                                 </td>
                                 <td>Crawford House</td>
                             </tr>
