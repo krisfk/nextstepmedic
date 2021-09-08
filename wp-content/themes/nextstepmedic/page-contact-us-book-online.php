@@ -14,7 +14,7 @@ get_header();
 ?>
 
 
-<div class="position-relative">
+<div class="position-relative contact-us-top-container">
 
     <div class="row big-banner-central-row gx-0">
 
@@ -41,7 +41,7 @@ get_header();
         </div>
     </div>
 
-    <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-scaled.jpg" alt="">
+    <!-- <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-scaled.jpg" alt=""> -->
 </div>
 
 

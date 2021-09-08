@@ -443,3 +443,9 @@ footer table td.icon-td {
 .slick-next:before {
     opacity: 0 !important;
 }
+
+.contact-us-top-container {
+    display: block;
+    background: url(./assets/images/contact-us-bg.jpg);
+    background-size: 100% 100%;
+}
