@@ -48,17 +48,20 @@ get_header();
 
                     <div class="col-12">
 
-                        <div class="row gx-0">
+                        <table>
+                            <tr>
+                                <td> <img class="w-100"
+                                        src="https://nextstepmedic.com/wp-content/uploads/2021/09/mtr-icon.png" alt="">
+                                </td>
+                                <td>Central</td>
+                                <td>
+                                    <div class='dash-line'></div>
+                                </td>
+                                <td>Crawford House</td>
+                            </tr>
+                        </table>
 
-                            <div class="col-2">
-                                <img class="w-100"
-                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/mtr-icon.png" alt="">
-                            </div>
-                            <div class="col-3">
-                                Central</div>
-                            <div class='dash-line col-4'></div>
-                            <div class="col-3"> Crawford House </div>
-                        </div>
+
 
                     </div>
 
