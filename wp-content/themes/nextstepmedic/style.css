@@ -497,3 +497,9 @@ footer table td.icon-td {
 .contact-us-info-div img {
     height: 20px;
 }
+
+.contact-us-info-div tr td:first-child {
+    text-align: center;
+}
+
+.contact-us-info-div tr td {}
