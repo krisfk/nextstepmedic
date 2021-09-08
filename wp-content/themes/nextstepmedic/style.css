@@ -514,7 +514,8 @@ footer table td.icon-td {
     vertical-align: top;
 }
 
-.contact-us-form input {
+.contact-us-form input,
+.contact-us-form textarea {
     border-radius: 0px !important;
     border: 1px solid #537369 !important;
 }
