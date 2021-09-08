@@ -109,16 +109,18 @@ get_header();
 
 
                     <tr>
-                        <td><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@4x.png" alt=""></td>
+                        <td><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@4x.png" alt=""></td>
                         <td> +852 9126 8257</td>
                     </tr>
                     <tr>
-                        <td><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@4x.png" alt=""></td>
+                        <td><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@4x.png" alt=""></td>
                         <td>
                             +852 xxxx xxxx</td>
                     </tr>
                     <tr>
-                        <td></td>
+                        <td>
+                        <td><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@4x.png" alt=""></td>
+                        </td>
                         <td> nextstepclinic@gmail.com
                         </td>
                     </tr>
