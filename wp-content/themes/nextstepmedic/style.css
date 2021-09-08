@@ -502,4 +502,6 @@ footer table td.icon-td {
     text-align: center;
 }
 
-.contact-us-info-div tr td {}
+.contact-us-info-div tr td {
+    vertical-align: top;
+}
