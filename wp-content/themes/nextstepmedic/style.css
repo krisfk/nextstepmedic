@@ -619,3 +619,12 @@ html .ui-button.ui-state-disabled:active {
     background: #fdf3e9 !important;
     border: 1px solid #231f20 !important;
 }
+
+.ui-state-disabled,
+.ui-widget-content .ui-state-disabled,
+.ui-widget-header .ui-state-disabled {
+    opacity: 0.35;
+    filter: Alpha(Opacity=35);
+    background-image: none;
+    border: 1px solid #231f20 !important;
+}
