@@ -102,46 +102,18 @@ get_header();
 
                 <table>
                     <tr>
-                        <td>
-                            <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In  -->
-                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
-                                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="20.36px"
-                                height="31.67px" viewBox="0 0 20.36 31.67"
-                                style="overflow:visible;enable-background:new 0 0 20.36 31.67;" xml:space="preserve">
-                                <style type="text/css">
-                                .st0 {
-                                    fill: #BF9D81;
-                                }
-
-                                .st1 {
-                                    fill: #FFFFFF;
-                                }
-                                </style>
-                                <defs>
-                                </defs>
-                                <g>
-                                    <path class="st0" d="M10.18,0C6.43,0,0,1.71,0,11.03c0,10.65,10.18,20.64,10.18,20.64s10.18-9.99,10.18-20.64
-		C20.36,2.43,13.93,0,10.18,0z" />
-
-                                    <ellipse transform="matrix(0.0128 -0.9999 0.9999 0.0128 -0.1275 20.2269)"
-                                        class="st1" cx="10.18" cy="10.18" rx="4.59" ry="4.59" />
-                                </g>
-                            </svg>
-                        </td>
-                        <td> Unit 1110, 11/F, Crawford House, 70 Queen's Road Central,
+                        <td><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@4x.png" alt=""></td>
+                        <td> Unit 1110, 11/F, Crawford House, 70 Queen's Road Central, Central, Hong Kong
                         </td>
                     </tr>
 
+
                     <tr>
-                        <td></td>
-                        <td>Central, Hong Kong</td>
-                    </tr>
-                    <tr>
-                        <td></td>
+                        <td><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@4x.png" alt=""></td>
                         <td> +852 9126 8257</td>
                     </tr>
                     <tr>
-                        <td></td>
+                        <td><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@4x.png" alt=""></td>
                         <td>
                             +852 xxxx xxxx</td>
                     </tr>
