@@ -497,6 +497,8 @@ footer table td.icon-td {
 .contact-us-info-div img {
     height: 20px;
     padding: 0 0.5rem 0 0;
+    position: relative;
+    top: -5px;
 }
 
 .contact-us-info-div tr td:first-child {
