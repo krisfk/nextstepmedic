@@ -46,7 +46,7 @@ get_header();
                         <span class="rail-time">3 Minutes</span>
                     </div>
 
-                    <div class="col-12">
+                    <div class="col-12 mt-3">
 
                         <table class="rail-table">
                             <tr>
