@@ -43,7 +43,7 @@ get_header();
                             <img class="human-icon" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x.png
                             " alt="">
                         </span>
-                        <span>3 Minutes</span>
+                        <span class="rail-time">3 Minutes</span>
                     </div>
 
                     <div class="col-12">

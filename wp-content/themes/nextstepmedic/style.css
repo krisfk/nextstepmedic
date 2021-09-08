@@ -474,3 +474,7 @@ footer table td.icon-td {
 .rail-table td {
     padding: 0 0.5rem;
 }
+
+.rail-time {
+    font-family: 'Futura-Bold';
+}
