@@ -449,3 +449,8 @@ footer table td.icon-td {
     background: url(./assets/images/contact-us-bg.jpg);
     background-size: 100% 100%;
 }
+
+.contact-us-top-container .contact-bold-txt {
+    color: #bf9d81;
+    font-family: 'Futura-Bold';
+}
