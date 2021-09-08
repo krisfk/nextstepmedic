@@ -554,3 +554,8 @@ footer table td.icon-td {
     border: 1px solid #231f20 !important;
     padding: 0 !important;
 }
+
+.ui-datepicker td {
+    border: 0 !important;
+    padding: 0 !important;
+}
