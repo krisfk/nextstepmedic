@@ -501,6 +501,7 @@ footer table td.icon-td {
 
 .contact-us-info-div tr td:first-child {
     text-align: center;
+    line-height: 2rem;
 }
 
 .contact-us-info-div tr td {
