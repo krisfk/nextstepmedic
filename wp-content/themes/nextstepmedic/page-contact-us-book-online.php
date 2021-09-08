@@ -90,7 +90,7 @@ get_header();
 
                 <div id="map"></div>
 
-
+                <?php echo get_template_directory_uri().'/assets/images/pin.svg';?>
                 <!-- <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-1.png
 " alt=""> -->
             </div>
