@@ -73,61 +73,8 @@ get_header();
                     </div>
 
                     <div class="col-12">
-                        <span>
-                            <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In  -->
-                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
-                                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="21.95px"
-                                height="30.96px" viewBox="0 0 21.95 30.96"
-                                style="overflow:visible;enable-background:new 0 0 21.95 30.96;" xml:space="preserve">
-                                <style type="text/css">
-                                .st0 {
-                                    fill: #BF9D81;
-                                }
-
-                                .st1 {
-                                    fill: #FFFFFF;
-                                }
-
-                                .st2 {
-                                    fill: #D5D7D8;
-                                }
-
-                                .st3 {
-                                    fill: url(#SVGID_1_);
-                                }
-
-                                .st4 {
-                                    fill: url(#SVGID_2_);
-                                }
-                                </style>
-                                <defs>
-                                </defs>
-                                <g>
-                                    <path class="st0" d="M0,10.97C0,4.91,4.91,0,10.97,0s10.97,4.91,10.97,10.97c0,0.97-0.13,1.92-0.37,2.82l0,0
-		c0,0-0.77,4.27-5.16,8.43c-4.39,4.15-5.45,8.74-5.45,8.74s-1.06-4.58-5.45-8.74c-4.39-4.15-5.16-8.43-5.16-8.43l0,0
-		C0.13,12.89,0,11.95,0,10.97z" />
-                                    <ellipse transform="matrix(0.163 -0.9866 0.9866 0.163 -1.3709 19.7805)" class="st1"
-                                        cx="10.97" cy="10.7" rx="8.07" ry="8.07" />
-
-                                    <ellipse transform="matrix(0.1628 -0.9867 0.9867 0.1628 -1.3693 19.7826)"
-                                        class="st2" cx="10.97" cy="10.7" rx="6.54" ry="6.54" />
-
-                                    <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="3459.7227"
-                                        y1="3358.3503" x2="3469.4529" y2="3358.3503"
-                                        gradientTransform="matrix(6.300000e-03 -1 -1 -6.300000e-03 3347.5256 3496.4436)">
-                                        <stop offset="0.2647" style="stop-color:#FFFFFF" />
-                                        <stop offset="0.4996" style="stop-color:#FDFDFC" />
-                                        <stop offset="0.641" style="stop-color:#F4F4F4" />
-                                        <stop offset="0.7575" style="stop-color:#E6E6E6" />
-                                        <stop offset="0.8605" style="stop-color:#D2D2D2" />
-                                        <stop offset="0.9538" style="stop-color:#B8B8B8" />
-                                        <stop offset="0.9706" style="stop-color:#B3B3B2" />
-                                        <stop offset="1" style="stop-color:#B3B3B2" />
-                                    </linearGradient>
-                                    <circle class="st3" cx="11" cy="10.7" r="4.87" />
-                                </g>
-                            </svg>
-                        </span>
+                        <span><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x-1.png"
+                                alt=""></span>
                         <span>70 Queen's Road Central</span>
 
                     </div>
