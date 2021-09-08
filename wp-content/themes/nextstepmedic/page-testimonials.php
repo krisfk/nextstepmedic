@@ -82,6 +82,30 @@ get_header();
             </a>
 
         </div>
+        <div class="slide">
+            <a href="#">
+
+                <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
+
+                <div class="mt-4">“As usual, get to the source of the issue and provide good exercises to remedy.”
+                </div>
+                <div class="person-name mt-3">Aaron Volman</div>
+
+            </a>
+
+        </div>
+        <div class="slide">
+            <a href="#">
+
+                <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
+
+                <div class="mt-4">“As usual, get to the source of the issue and provide good exercises to remedy.”
+                </div>
+                <div class="person-name mt-3">Aaron Volman</div>
+
+            </a>
+
+        </div>
 
     </div>
 
