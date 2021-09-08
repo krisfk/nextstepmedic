@@ -171,6 +171,9 @@ body {
     border-radius: 0.4rem;
     text-decoration: none;
     margin: 1rem 0 0 0;
+    display: block;
+    width: fit-content;
+    float: right;
 }
 
 .send-msg-btn:hover {
