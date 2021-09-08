@@ -283,19 +283,26 @@ function initMap() {
 </script>
 
 <script type="text/javascript">
-$('.slides').slick({
-    dots: false,
-    arrows: true,
-    autoplay: false,
-    pauseOnFocus: false,
-    infinite: true,
-    speed: 800,
-    autoplaySpeed: 5000,
-    cssEase: 'ease-out',
-    pauseOnHover: false,
-    slidesToShow: 3,
-    slidesToScroll: 1
-});
+$(function() {
+
+    $('.slides').slick({
+        dots: false,
+        arrows: true,
+        autoplay: false,
+        pauseOnFocus: false,
+        infinite: true,
+        speed: 800,
+        autoplaySpeed: 5000,
+        cssEase: 'ease-out',
+        pauseOnHover: false,
+        slidesToShow: 3,
+        slidesToScroll: 1
+    });
+
+    $(function() {
+        $("#datepicker").datepicker();
+    });
+})
 </script>
 
 
