@@ -46,6 +46,20 @@ get_header();
                         <span>3 Minutes</span>
                     </div>
 
+                    <div class="col-12">
+
+                        <div class="row">
+
+                            <div>
+                                <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/mtr-icon.png" alt="">
+                            </div>
+                            <div>Central</div>
+                            <div class='dash-line'></div>
+                            <div> Crawford House </div>
+                        </div>
+
+                    </div>
+
                 </div>
 
 
