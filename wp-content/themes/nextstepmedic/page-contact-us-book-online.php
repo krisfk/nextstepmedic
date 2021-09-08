@@ -184,12 +184,12 @@ get_header();
                         <input type="text" class="w-100 form-control">
 
                     </div>
-                    <div class="col-12">
+                    <div class="col-12  mt-2">
                         <input type="text" class="w-100 form-control">
 
 
                     </div>
-                    <div class="col-12">
+                    <div class="col-12 mt-2">
 
                         <textarea class="w-100  form-control" rows="4" cols="50">
 </textarea>
