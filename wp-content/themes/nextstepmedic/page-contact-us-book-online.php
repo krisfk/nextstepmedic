@@ -301,7 +301,9 @@ $(function() {
     });
 
     $(function() {
-        $("#datepicker").datepicker();
+        $("#datepicker").datepicker({
+            dayNamesShort: ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"]
+        });
     });
 })
 </script>
