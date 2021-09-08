@@ -166,10 +166,10 @@ get_header();
     <div class="row  gx-5 justify-content-center">
 
         <div class="col-5">
-            <div>Book an Appointment</div>
+            <div class="bold">Book an Appointment</div>
         </div>
         <div class="col-5">
-            <div>for any enquiries, please leave us your message:</div>
+            <div class="bold">for any enquiries, please leave us your message:</div>
 
         </div>
     </div>
