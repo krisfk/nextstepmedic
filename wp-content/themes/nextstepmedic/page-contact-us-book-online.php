@@ -53,13 +53,17 @@ get_header();
                                 <td> <img class="w-100"
                                         src="https://nextstepmedic.com/wp-content/uploads/2021/09/mtr-icon.png" alt="">
                                 </td>
-                                <td>Central</td>
+                                <td>
+                                    <div class="rail-station-name">Central</div>
+
+
+                                </td>
                                 <td>
                                     <img class="w-100"
                                         src="https://nextstepmedic.com/wp-content/uploads/2021/09/dash.png" alt="">
                                 </td>
                                 <td>
-                                    <div>Crawford House</div>
+                                    <div class="rail-station-name">Crawford House</div>
                                 </td>
                             </tr>
                         </table>

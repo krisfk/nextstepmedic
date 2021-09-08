@@ -462,3 +462,7 @@ footer table td.icon-td {
 .human-icon {
     height: 60px;
 }
+
+.rail-station-name {
+    width: max-content;
+}
