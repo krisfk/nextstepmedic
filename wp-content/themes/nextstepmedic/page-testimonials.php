@@ -40,7 +40,7 @@ get_header();
 
 <div class="container">
 
-
+    <!-- 
     <div class="row mt-5">
 
         <div class="col-4 service-col">
@@ -89,7 +89,7 @@ get_header();
             </div>
         </div>
 
-    </div>
+    </div> -->
 
 
 
