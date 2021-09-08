@@ -454,3 +454,7 @@ footer table td.icon-td {
     color: #bf9d81;
     font-family: 'Futura-Bold';
 }
+
+.contact-us-top-container .subtitle {
+    font-size: 2rem;
+}
