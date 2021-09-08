@@ -673,9 +673,11 @@ a.ui-button:active,
 .ui-datepicker .ui-datepicker-prev-hover {
     left: 2px !important;
     top: 2px !important;
+    cursor: pointer;
 }
 
 .ui-datepicker .ui-datepicker-next-hover {
     right: 2px !important;
     top: 2px !important;
+    cursor: pointer;
 }
