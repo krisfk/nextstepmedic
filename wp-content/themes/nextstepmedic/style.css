@@ -540,3 +540,8 @@ footer table td.icon-td {
 .contact-us-form textarea:focus {
     box-shadow: none;
 }
+
+#map {
+    width: 100%;
+    height: 100%;
+}
