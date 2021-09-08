@@ -72,7 +72,7 @@ get_header();
 
                     </div>
 
-                    <div class="col-12 text-center mt-4 address-div">
+                    <div class="col-11 text-center mt-4 address-div mx-auto">
                         <span><img class="location-pin"
                                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x-1.png"
                                 alt=""></span>
