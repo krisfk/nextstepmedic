@@ -173,7 +173,7 @@ get_header();
 
 <script type="text/javascript">
 $('.slides').slick({
-    dots: true,
+    dots: false,
     arrows: true,
     autoplay: false,
     pauseOnFocus: false,
