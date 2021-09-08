@@ -256,8 +256,8 @@ function initMap() {
         icon: {
             url: 'https://nextstepmedic.com/wp-content/themes/nextstepmedic/assets/images/pin.svg', // url
             scaledSize: new google.maps.Size(68, 96), // scaled size
-            origin: new google.maps.Point(0, -20), // origin
-            anchor: new google.maps.Point(0, 0) // anchor
+            origin: new google.maps.Point(0, 0), // origin
+            anchor: new google.maps.Point(0, -20) // anchor
         }
 
     });
