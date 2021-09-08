@@ -493,3 +493,7 @@ footer table td.icon-td {
     font-family: 'Futura-Bold';
     font-style: italic;
 }
+
+.contact-us-info-div img {
+    height: 20px;
+}

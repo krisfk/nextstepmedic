@@ -94,7 +94,7 @@ get_header();
         </div>
 
 
-        <div class="row gx-5 justify-content-center">
+        <div class="row gx-5 justify-content-center contact-us-info-div">
             <div class="col-5">
 
                 <div class="contact-subtitle">Contact Us
