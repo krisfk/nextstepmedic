@@ -513,3 +513,7 @@ footer table td.icon-td {
 .contact-us-info-div tr td {
     vertical-align: top;
 }
+
+.contact-us-form input {
+    border-radius: 0px;
+}
