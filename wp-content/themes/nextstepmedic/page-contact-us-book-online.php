@@ -94,9 +94,43 @@ get_header();
         </div>
 
 
+        <div class="row">
+            <div class="col-6">
+
+                <div class="contact-subtitle">Contact Us
+                </div>
+
+
+                <table>
+                    <tr>
+
+                        <td> Unit 1110, 11/F, Crawford House, 70 Queen's Road Central,
+                        </td>
+                        <td>Central, Hong Kong</td>
+                        <td> +852 9126 8257</td>
+                        <td>
+                            +852 xxxx xxxx</td>
+                        <td> nextstepclinic@gmail.com
+                        </td>
+                    </tr>
+
+                </table>
+
+
+
+
+
+            </div>
+
+        </div>
+        <div class="col-6">fdsa</div>
+
     </div>
 
-    <!-- <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-scaled.jpg" alt=""> -->
+
+</div>
+
+<!-- <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-scaled.jpg" alt=""> -->
 </div>
 
 
