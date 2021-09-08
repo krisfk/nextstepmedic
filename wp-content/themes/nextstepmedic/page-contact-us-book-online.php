@@ -163,42 +163,44 @@ get_header();
 
 <div class="container mt-5 mb-5">
 
-    <div class="row  gx-5 justify-content-center">
+    <form class="contact-us-form">
+        <div class="row  gx-5 justify-content-center">
 
-        <div class="col-5">
-            <div class="bold">Book an Appointment</div>
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x.png" alt="">
-        </div>
-        <div class="col-5">
-            <div class="bold">for any enquiries, please leave us your message:</div>
-
-
-            <div class="row">
-
-                <div class="col-6">
-                    <input type="text" class="w-100 form-control">
-                </div>
-                <div class="col-6">
-                    <input type="text" class="w-100 form-control">
-
-                </div>
-                <div class="col-12">
-                    <input type="text" class="w-100 form-control">
+            <div class="col-5">
+                <div class="bold">Book an Appointment</div>
+                <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x.png" alt="">
+            </div>
+            <div class="col-5">
+                <div class="bold">for any enquiries, please leave us your message:</div>
 
 
-                </div>
-                <div class="col-12">
+                <div class="row">
 
-                    <textarea class="w-100  form-control" rows="4" cols="50">
+                    <div class="col-6">
+                        <input type="text" class="w-100 form-control">
+                    </div>
+                    <div class="col-6">
+                        <input type="text" class="w-100 form-control">
+
+                    </div>
+                    <div class="col-12">
+                        <input type="text" class="w-100 form-control">
+
+
+                    </div>
+                    <div class="col-12">
+
+                        <textarea class="w-100  form-control" rows="4" cols="50">
 At w3schools.com you will learn how to make a website. They offer free tutorials in all web development technologies.
 </textarea>
 
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
 
 
+    </form>
 
 
 
