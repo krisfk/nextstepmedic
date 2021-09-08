@@ -304,8 +304,9 @@ $(function() {
         $("#datepicker").datepicker({
             // dayNamesShort: ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
             // dayNames: ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
-            dayNamesMin: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+            dayNamesMin: ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
             useCurrent: false,
+            firstDay: 1
 
 
 
