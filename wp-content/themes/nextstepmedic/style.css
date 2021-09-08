@@ -519,3 +519,8 @@ footer table td.icon-td {
     border-radius: 0px !important;
     border: 1px solid #537369 !important;
 }
+
+.contact-us-form input:focus,
+.contact-us-form textarea:focus {
+    box-shadow: none;
+}
