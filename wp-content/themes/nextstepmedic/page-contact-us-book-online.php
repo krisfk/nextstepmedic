@@ -17,7 +17,7 @@ get_header();
 <div class="position-relative contact-us-top-container">
 
     <div class="container">
-        <div class="row  gx-5">
+        <div class="row  gx-5 justify-content-center">
 
             <div class="col-6">
 
