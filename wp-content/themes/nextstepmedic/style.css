@@ -559,3 +559,10 @@ footer table td.icon-td {
     border: 0 !important;
     padding: 0 !important;
 }
+
+.ui-datepicker table {
+    /* width: 100%; */
+    /* font-size: .9em; */
+    /* border-collapse: collapse; */
+    margin: 0 0 0 0 !important;
+}
