@@ -94,8 +94,8 @@ get_header();
         </div>
 
 
-        <div class="row">
-            <div class="col-6">
+        <div class="row gx-5 justify-content-center">
+            <div class="col-5">
 
                 <div class="contact-subtitle">Contact Us
                 </div>
@@ -122,7 +122,7 @@ get_header();
 
 
             </div>
-            <div class="col-6">fdsa</div>
+            <div class="col-5">fdsa</div>
 
         </div>
 
