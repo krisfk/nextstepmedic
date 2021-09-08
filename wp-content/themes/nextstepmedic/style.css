@@ -592,8 +592,8 @@ footer table td.icon-td {
 .ui-widget-header .ui-state-focus,
 .ui-button:hover,
 .ui-button:focus {
-    border: none;
-    background: #a4724a;
+    border: none !important;
+    background: #a4724a !important;
     /* font-weight: normal; */
-    color: #fff;
+    color: #fff !important;
 }
