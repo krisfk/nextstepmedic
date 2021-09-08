@@ -88,8 +88,11 @@ get_header();
             </div>
             <div class="col-5">
 
-                <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-1.png
-" alt="">
+                <div id="map"></div>
+
+
+                <!-- <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-1.png
+" alt=""> -->
             </div>
         </div>
 
@@ -214,6 +217,63 @@ get_header();
 
 </div>
 
+<script
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBN611NFShALGyApUBivJPfvqlEIvbPRNU&callback=initMap&libraries=&v=weekly"
+    async>
+</script>
+
+<script type="text/javascript">
+function initMap() {
+    const myLatLng = {
+
+        lat: 22.303107160517847,
+        lng: 114.1723140002062
+    };
+    const map = new google.maps.Map(document.getElementById("map"), {
+        // zoom: 4,
+        center: myLatLng,
+        gestureHandling: 'greedy',
+        zoomControl: false,
+        scaleControl: false,
+        scrollwheel: false,
+        disableDoubleClickZoom: true,
+        mapTypeControl: false,
+        streetViewControl: false
+
+    });
+
+    // const marker =
+    //     new google.maps.Marker({
+    //         position: myLatLng,
+    //         map,
+    //         title: "Hello World!",
+    //     });
+
+    var marker2 = new google.maps.Marker({
+        position: myLatLng,
+        map: map,
+        icon: 'https://www.ehkd.com/wp-content/themes/ehkd/assets/images/ehkd-marker-svg.svg'
+    });
+
+
+    map.setZoom(19);
+    map.panTo(marker2.position);
+
+
+    // const contentString = '<div class="infowindow">fdsaf</div>';
+
+
+    // const infowindow = new google.maps.InfoWindow({
+    //     content: contentString,
+    // });
+
+    // marker.addListener("click", () => {
+    //     infowindow.open(map, marker);
+    // });
+
+
+}
+</script>
 
 <script type="text/javascript">
 $('.slides').slick({
