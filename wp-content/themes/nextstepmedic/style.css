@@ -614,10 +614,13 @@ html .ui-button.ui-state-disabled:active {
 .ui-datepicker th {
     padding: 0.7em 0.3em !important;
     text-align: center !important;
-    font-weight: bold !important;
+    font-weight: normal !important;
     border: 0 !important;
     background: #fdf3e9 !important;
     border: 1px solid #231f20 !important;
+    font-size: 0.8rem;
+    color: #a4724a;
+    font-weight: normal;
 }
 
 .ui-state-disabled,
