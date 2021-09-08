@@ -420,3 +420,15 @@ footer table td.icon-td {
 .testimonials-container .slide {
     margin: 0 1rem;
 }
+
+.slick-prev {
+    /* left: -25px; */
+    background: url(./assets/images/left-arrow.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.slick-next {
+    /* left: -25px; */
+    background: url(./assets/images/right-arrow.png) no-repeat;
+    background-size: 100% 100%;
+}
