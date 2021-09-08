@@ -172,6 +172,22 @@ get_header();
         <div class="col-5">
             <div class="bold">for any enquiries, please leave us your message:</div>
 
+
+            <div class="row">
+
+                <div class="col-6">
+                    <input type="text" class="w-100">
+                </div>
+                <div class="col-6">
+                    <input type="text" class="w-100">
+
+                </div>
+                <div class="col-12">
+                    <input type="text" class="w-100">
+
+
+                </div>
+            </div>
         </div>
     </div>
 
