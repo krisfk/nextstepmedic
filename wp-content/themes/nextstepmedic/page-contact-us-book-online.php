@@ -175,7 +175,7 @@ get_header();
                 <div class="bold">for any enquiries, please leave us your message:</div>
 
 
-                <div class="row">
+                <div class="row  mt-3">
 
                     <div class="col-6">
                         <input type="text" class="w-100 form-control">
