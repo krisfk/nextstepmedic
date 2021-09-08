@@ -669,3 +669,11 @@ a.ui-button:active,
     background-size: 70% 70% !important;
     background-position: center;
 }
+
+.ui-datepicker .ui-datepicker-prev-hover {
+    left: 2px !important;
+}
+
+.ui-datepicker .ui-datepicker-next-hover {
+    right: 2px !important;
+}
