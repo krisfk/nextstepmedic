@@ -176,20 +176,20 @@ get_header();
             <div class="row">
 
                 <div class="col-6">
-                    <input type="text" class="w-100">
+                    <input type="text" class="w-100 form-control">
                 </div>
                 <div class="col-6">
-                    <input type="text" class="w-100">
+                    <input type="text" class="w-100 form-control">
 
                 </div>
                 <div class="col-12">
-                    <input type="text" class="w-100">
+                    <input type="text" class="w-100 form-control">
 
 
                 </div>
                 <div class="col-12">
 
-                    <textarea class="w-100" rows="4" cols="50">
+                    <textarea class="w-100  form-control" rows="4" cols="50">
 At w3schools.com you will learn how to make a website. They offer free tutorials in all web development technologies.
 </textarea>
 
