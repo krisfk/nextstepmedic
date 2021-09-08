@@ -156,15 +156,14 @@ get_header();
 
     </div>
 
-    <div>fdsaf</div>
 
     <!-- <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-scaled.jpg" alt=""> -->
 </div>
 
 
-<div class="container testimonials-container mt-5 mb-5">
+<div class="container mt-5 mb-5">
 
-
+    fd
 
 
 
