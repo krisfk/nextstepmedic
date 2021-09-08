@@ -302,6 +302,10 @@ body {
     font-style: italic;
 }
 
+.bold {
+    font-family: 'Futura-Bold';
+}
+
 .large-subtitle {
     font-family: 'Futura-Bold';
     font-style: italic;
