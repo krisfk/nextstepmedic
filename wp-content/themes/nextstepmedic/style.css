@@ -170,6 +170,7 @@ body {
     padding: 0.3rem 0.5rem;
     border-radius: 0.4rem;
     text-decoration: none;
+    margin: 1rem 0 0 0;
 }
 
 .send-msg-btn:hover {
