@@ -566,3 +566,11 @@ footer table td.icon-td {
     /* border-collapse: collapse; */
     margin: 0 0 0 0 !important;
 }
+
+.ui-datepicker .ui-datepicker-title {
+    /* margin: 0 2.3em; */
+    /* line-height: 1.8em; */
+    /* text-align: center; */
+    background: #a4724a !important;
+    color: #fff !important;
+}
