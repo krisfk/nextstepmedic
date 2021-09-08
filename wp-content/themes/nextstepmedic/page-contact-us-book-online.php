@@ -134,7 +134,22 @@ get_header();
 
 
             </div>
-            <div class="col-5">fdsa</div>
+            <div class="col-5">
+
+
+                <div class="contact-subtitle">Opening Hours
+
+                </div>
+
+                <div class="mt-2">
+
+                    Monday - Friday: 10:00 - 18:00 <br>
+                    Saturday: 09:00 - 13:00<br>
+                    Sunday & Public Holidays: Closed
+
+                </div>
+
+            </div>
 
         </div>
 
