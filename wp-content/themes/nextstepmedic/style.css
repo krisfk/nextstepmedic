@@ -649,3 +649,8 @@ a.ui-button:active,
     font-weight: normal !important;
     color: #ffffff !important;
 }
+
+.ui-datepicker .ui-datepicker-prev span {
+    background: url(./assets/images/ca-left-arrow.png) !important;
+    background-size: 100% 100% !important;
+}
