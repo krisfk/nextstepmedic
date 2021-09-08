@@ -19,8 +19,7 @@ get_header();
     <div class="container">
         <div class="row  gx-5 justify-content-center">
 
-            <div class="col-6">
-
+            <div class="col-5">
                 <div class="subtitle">Getting to The Next Step Medical Clinic
                 </div>
                 <div class="contact-bold-txt text-start">3-Minute Walking Distance from Central MTR Station
@@ -38,7 +37,7 @@ get_header();
 
 
             </div>
-            <div class="col-6">
+            <div class="col-5">
 
                 <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-1.png
 " alt="">
