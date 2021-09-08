@@ -58,7 +58,9 @@ get_header();
                                     <img class="w-100"
                                         src="https://nextstepmedic.com/wp-content/uploads/2021/09/dash.png" alt="">
                                 </td>
-                                <td>Crawford House</td>
+                                <td>
+                                    <div>Crawford House</div>
+                                </td>
                             </tr>
                         </table>
 
