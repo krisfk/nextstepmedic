@@ -100,7 +100,7 @@ get_header();
                 <div class="contact-subtitle">Contact Us
                 </div>
 
-                <table class="mt-4">
+                <table class="mt-3">
                     <tr>
                         <td><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@4x.png" alt=""></td>
                         <td> Unit 1110, 11/F, Crawford House, 70 Queen's Road Central, Central, Hong Kong
