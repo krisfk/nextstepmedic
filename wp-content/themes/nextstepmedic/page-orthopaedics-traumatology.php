@@ -75,25 +75,22 @@ get_header();
         <div class="row mt-5">
 
             <div class="col-6">
-                <div class="service-subtitle">What is Orthopaedics & Traumatology?</div>
-                <div class="mt-3">Orthopaedics focuses on injuries and diseases of the musculoskeletal system (the
-                    body’s
-                    muscles,
-                    skeleton and related connective tissues), including the spine, joints, ligaments, tendons and
-                    nerves.
-                    <br> <br>
-                    Explore our available private orthopaedics treatment options below and book your appointment today
-                    so
-                    that you can start to feel good again.
+                <div class="service-subtitle">Why Choose The Next Step?
                 </div>
                 <div class="mt-3">
-                    <a href="#" class="brown-round-btn">Book an Appointment</a>
+                    Our close-knit team of Consultant Surgeons and Specialists work together in a multidisciplinary
+                    fashion, enabling us to offer patients something truly unique: the feeling of trust and safety of a
+                    small family practice with the convenience and accessibility of a state-of-the-art treatment centre
+                    in the heart of Central, Hong Kong.
+
+
                 </div>
+
             </div>
 
 
-            <div class="col-6"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-1@2x-50.jpg
-        " alt=""></div>
+            <div class="col-6"><img class="w-100"
+                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-2.jpg" alt=""></div>
         </div>
 
     </div>
