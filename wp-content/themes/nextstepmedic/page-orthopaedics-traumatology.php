@@ -52,6 +52,11 @@ get_header();
                 <a href="#" class="brown-round-btn">Book an Appointment</a>
             </div>
         </div>
+
+        <div class="col-12">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-1-scaled.jpg"
+                alt="">
+        </div>
     </div>
 
 
