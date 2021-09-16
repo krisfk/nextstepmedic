@@ -47,6 +47,7 @@ get_header();
                 Explore our available private orthopaedics treatment options below and book your appointment today so
                 that you can start to feel good again.
             </div>
+            <a href="#" class="brown-round-btn">Book an Appointment</a>
         </div>
     </div>
 
