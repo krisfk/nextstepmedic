@@ -697,3 +697,10 @@ a.ui-button:active,
     padding: 2rem 0 2rem 0;
     min-height: auto;
 }
+
+.service-subtitle {
+    font-size: 1.8rem;
+    color: #bf9d81;
+    font-family: 'Playfair Display';
+    text-align: center;
+}
