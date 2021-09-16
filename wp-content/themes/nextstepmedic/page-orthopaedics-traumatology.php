@@ -210,6 +210,7 @@ get_header();
 
 
 
+<?php echo get_template_part( 'book' );?>
 
 
 
