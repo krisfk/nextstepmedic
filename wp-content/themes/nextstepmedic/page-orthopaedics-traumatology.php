@@ -56,7 +56,7 @@ get_header();
         <div class="col-12 mt-5">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-1-scaled.jpg"
                 alt="">
-            <div class="brown-bg">
+            <div class="brown-bg p-5">
 
                 <div class="service-subtitle white">Our Orthopaedics Services
                 </div>
