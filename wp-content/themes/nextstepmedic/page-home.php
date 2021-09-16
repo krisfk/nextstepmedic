@@ -259,6 +259,12 @@ get_header();
 
 </div>
 
+
+<div>
+
+    <?php echo get_template_part( 'book' );?>
+</div>
+
 <div class="book-an-appointment-div pt-4 pb-4">
     <a href="#" class="book-an-appointment-a-btn">
         Book an Appointment
