@@ -521,6 +521,7 @@ $(function() {
         $(this).addClass('active');
         $('.accordion-content').fadeOut(0);
         $(this).next('.accordion-content').slideDown(200);
+        alert($(this).scrollTop());
     })
 })
 </script>
