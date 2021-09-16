@@ -167,36 +167,40 @@ get_header();
             <div class="col-6"><img style="height:400px" class="w-100"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
             </div>
-            <div class="col-6 gold">
-                <div class="person-name">
-                    Jeff Law Lok Way
-                </div>
+            <div class="col-6">
 
-                <div class="mt-3">
-                    BPhty (NZ) <br>
-                    NZ Registered Physiotherapist<br>
-                    MPNZ - Member of Physiotherapy New Zealand
+                <div class="gold">
+                    <div class="person-name">
+                        Jeff Law Lok Way
+                    </div>
+
+                    <div class="mt-3">
+                        BPhty (NZ) <br>
+                        NZ Registered Physiotherapist<br>
+                        MPNZ - Member of Physiotherapy New Zealand
+                    </div>
+                </div>
+                <div class="mt-3">Jeff gained his Bachelor of Physiotherapy at University of Otago, New Zealand. After
+                    graduation, he completed postgraduate courses in Dry Needling, Sports Rehabilitation, Concussion
+                    Rehabilitation and Vestibular Rehabilitation.
+                    <br> <br>
+                    Jeff has experience in working with highly active individuals in military clinics. He also spent
+                    time delivering community Physiotherapy services, where he gained knowledge and skills in working
+                    with a variety of conditions including chronic pain, neurological, geriatric, as well as orthopedic
+                    conditions. Jeff has strong passion in delivery patient-specific and evidence-based care. He is also
+                    a firm believer of the proactive healthcare approach of which actions should be taken to prevent
+                    health problems before they occur. He always tries his best to make his patients feel better,
+                    whether physically or psychologically, when they walk out of the clinic.
+                    <br> <br>
+                    Jeff is a basketball lover. On his days off, you will most likely find him playing basketball at
+                    local parks. He is also pursuing a Master degree at Hong Kong University of Science and Technology,
+                    where he will be spending most of his weekends in the short future.
                 </div>
 
 
 
             </div>
-            <div class="mt-3">Jeff gained his Bachelor of Physiotherapy at University of Otago, New Zealand. After
-                graduation, he completed postgraduate courses in Dry Needling, Sports Rehabilitation, Concussion
-                Rehabilitation and Vestibular Rehabilitation.
-                <br> <br>
-                Jeff has experience in working with highly active individuals in military clinics. He also spent
-                time delivering community Physiotherapy services, where he gained knowledge and skills in working
-                with a variety of conditions including chronic pain, neurological, geriatric, as well as orthopedic
-                conditions. Jeff has strong passion in delivery patient-specific and evidence-based care. He is also
-                a firm believer of the proactive healthcare approach of which actions should be taken to prevent
-                health problems before they occur. He always tries his best to make his patients feel better,
-                whether physically or psychologically, when they walk out of the clinic.
-                <br> <br>
-                Jeff is a basketball lover. On his days off, you will most likely find him playing basketball at
-                local parks. He is also pursuing a Master degree at Hong Kong University of Science and Technology,
-                where he will be spending most of his weekends in the short future.
-            </div>
+
         </div>
 
 
