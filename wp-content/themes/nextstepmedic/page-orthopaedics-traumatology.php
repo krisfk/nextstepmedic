@@ -53,7 +53,7 @@ get_header();
             </div>
         </div>
 
-        <div class="col-12">
+        <div class="col-12 mt-5">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-1-scaled.jpg"
                 alt="">
         </div>
