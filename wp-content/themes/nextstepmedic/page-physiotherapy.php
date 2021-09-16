@@ -334,7 +334,32 @@ get_header();
                     </div>
                 </div>
             </li>
-            <li><a href="javascript:void(0);">Massage</a></li>
+            <li><a href="javascript:void(0);">Massage</a>
+                <div class="accordion-content">
+
+                    <div class="row">
+
+                        <div class="col-6">
+                            Massage is a soft tissue technique with direct influence on the muscles, tendons, ligaments
+                            and other connective tissue. Massage has a number of physiological benefits including
+                            increasing; circulation and oxygen flow, reducing inflammation and releasing endorphins.
+                            Massage aims to alleviate aches and pains by relaxing muscles, improving joint range and
+                            flexibility and ultimately speeding up recovery time.
+                        </div>
+
+                        <div class="col-6">
+                            <img class="w-100"
+                                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x-50.jpg" alt="">
+                        </div>
+
+
+                    </div>
+
+
+
+
+                </div>
+            </li>
             <li><a href="javascript:void(0);">TENS</a></li>
             <li><a href="javascript:void(0);">Myofascial Release</a></li>
             <li><a href="javascript:void(0);">Home Exercises</a></li>
