@@ -750,4 +750,5 @@ a.ui-button:active,
     width: 100%;
     display: block;
     padding: 1rem 0 1rem;
+    background: url(./assets/images/plus.png);
 }
