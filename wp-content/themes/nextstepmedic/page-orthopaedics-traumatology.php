@@ -58,7 +58,7 @@ get_header();
                 alt="">
             <div class="brown-bg">
 
-                <div class="service-subtitle">Our Orthopaedics Services
+                <div class="service-subtitle white">Our Orthopaedics Services
                 </div>
                 <div class="mt-3">The Next Step provides musculoskeletal diagnostic services, surgical and non-surgical
                     treatments that are tailored to the individual needs of our patients. Our orthopaedic specialists
