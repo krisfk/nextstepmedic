@@ -377,7 +377,7 @@ get_header();
                             symptomatic pain relief by exciting sensory nerves and thereby stimulating either the pain
                             gate
                             mechanism and/or the opioid system. It is used to relieve acute and chronic pain including:
-                            <ul>
+                            <ul class="mt-3">
                                 <li>Acute pain – such as sports injuries, acute torticollis, acute lower back pain, and
                                     joint
                                     pain.</li>
