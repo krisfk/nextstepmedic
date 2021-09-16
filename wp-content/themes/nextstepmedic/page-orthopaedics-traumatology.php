@@ -41,13 +41,14 @@ get_header();
         " alt=""></div>
         <div class="col-6">
             <div class="service-subtitle">What is Orthopaedics & Traumatology?</div>
-            <div>Orthopaedics focuses on injuries and diseases of the musculoskeletal system (the body’s muscles,
+            <div class="mt-3">Orthopaedics focuses on injuries and diseases of the musculoskeletal system (the body’s
+                muscles,
                 skeleton and related connective tissues), including the spine, joints, ligaments, tendons and nerves.
                 <br> <br>
                 Explore our available private orthopaedics treatment options below and book your appointment today so
                 that you can start to feel good again.
             </div>
-            <a href="#" class="brown-round-btn">Book an Appointment</a>
+            <a href="#" class="brown-round-btn mt-3">Book an Appointment</a>
         </div>
     </div>
 
