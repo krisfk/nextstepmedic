@@ -686,7 +686,7 @@ a.ui-button:active,
     cursor: pointer;
 }
 
-.service-title-div {
+.big-banner-central-row .service-title-div {
     width: 100%;
     background: #bf9d81;
     text-align: center;
