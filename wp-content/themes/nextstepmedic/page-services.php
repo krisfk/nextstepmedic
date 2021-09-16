@@ -16,7 +16,7 @@ get_header();
 
 <div class="position-relative">
 
-    <div class="row  gx-0">
+    <div class="row big-banner-central-row gx-0">
 
         <div class="col-12">
 
@@ -35,7 +35,6 @@ get_header();
                 We strongly believe in delivering greater value and higher quality of care to our patients through
                 effective communication and ethical clinical practice.
             </div>
-            <a href="#" class="brown-round-btn">Book an Appointment</a>
         </div>
     </div>
 
