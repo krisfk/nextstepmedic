@@ -306,7 +306,13 @@ get_header();
 
                 </div>
             </li>
-            <li><a href="javascript:void(0);">Taping</a></li>
+            <li><a href="javascript:void(0);">Taping</a>
+
+                <div class="accordion-content">
+                    <img class="w-100"
+                        src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-11@2x-50-scaled.jpg" alt="">
+                </div>
+            </li>
             <li><a href="javascript:void(0);">Massage</a></li>
             <li><a href="javascript:void(0);">TENS</a></li>
             <li><a href="javascript:void(0);">Myofascial Release</a></li>
