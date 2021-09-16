@@ -105,12 +105,13 @@ get_header();
                 </div>
                 <div class="mt-3">
 
-                    <div class="fw-bold">
+                    <div class="grey-bold">
                         Common Musculoskeletal Problems
                     </div>
                     <ul>
                         <li>Elbow Pain</li>
-                        <li>Foot & Ankle Pain</li>
+                        <li>Foot & Ankle
+                            Pain</li>
                         <li>General Orthopaedics</li>
                         <li>Hand Pain</li>
                         <li>Joint Deformity</li>
