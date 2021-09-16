@@ -263,6 +263,12 @@ body {
     font-family: 'Playfair Display';
 }
 
+.service-h1-title {
+    font-size: 2.4rem;
+    color: #fff;
+    font-family: 'Playfair Display';
+}
+
 .page-home .service-row {
     border-bottom: 1px solid #b9bbbd;
 }
