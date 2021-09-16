@@ -278,7 +278,7 @@ $(function() {
     $('.accordion a').click(function() {
         $('.accordion a').removeClass('active');
         $(this).addClass('active');
-
+        $('.accordion-content').fadeOut(0);
         $(this).next('.accordion-content').slideDown(200);
     })
 })
