@@ -162,16 +162,16 @@ get_header();
 
         <div class="service-subtitle">What Forms of Treatment Do We Offer?</div>
 
-        <ul>
-            <li>Mobilisations</li>
-            <li>Stretches</li>
-            <li>Manipulations</li>
-            <li>Ultrasound</li>
-            <li>Taping</li>
-            <li>Massage</li>
-            <li>TENS</li>
-            <li>Myofascial Release</li>
-            <li>Home Exercises</li>
+        <ul class="accordion">
+            <li><a href="javascript:void(0);">Mobilisations</a></li>
+            <li><a href="javascript:void(0);">Stretches</a></li>
+            <li><a href="javascript:void(0);">Manipulations</a></li>
+            <li><a href="javascript:void(0);">Ultrasound</a></li>
+            <li><a href="javascript:void(0);">Taping</a></li>
+            <li><a href="javascript:void(0);">Massage</a></li>
+            <li><a href="javascript:void(0);">TENS</a></li>
+            <li><a href="javascript:void(0);">Myofascial Release</a></li>
+            <li><a href="javascript:void(0);">Home Exercises</a></li>
 
         </ul>
 
