@@ -311,6 +311,27 @@ get_header();
                 <div class="accordion-content">
                     <img class="w-100"
                         src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-11@2x-50-scaled.jpg" alt="">
+                    <div class="mt-3">Physiotherapists can use taping in order to relieve pain, improve joint stability,
+                        offload
+                        joints, prevent injury, reduce injury reoccurrence, improve muscle function and restore normal
+                        movement.
+                        <br><br>
+                        We use a variety of tapes from zinc oxide for joint stability, to Elastic Adhesive Bandage (EAB)
+                        to compress swelling. Over recent years, Kinesiology tape (K-tape) has become very popular. This
+                        comes in a variety of colours and is unique in the fact it allows full multidirectional
+                        movement- but keeps the brain vital feedback on where that particular body part is in relation
+                        to the desired movement and movement pattern.
+
+
+
+
+
+
+
+
+
+
+                    </div>
                 </div>
             </li>
             <li><a href="javascript:void(0);">Massage</a></li>
