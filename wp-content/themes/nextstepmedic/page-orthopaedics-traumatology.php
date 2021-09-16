@@ -103,31 +103,29 @@ get_header();
             <div class="col-6">
                 <div class="service-subtitle">What Do We Treat?
                 </div>
-                <div class="mt-3">
 
-                    <div class="grey-bold">
-                        Common Musculoskeletal Problems
-                    </div>
-                    <ul>
-                        <li>Elbow Pain</li>
-                        <li>Foot & Ankle
-                            Pain</li>
-                        <li>General Orthopaedics</li>
-                        <li>Hand Pain</li>
-                        <li>Joint Deformity</li>
-                        <li>Hip Pain</li>
-                        <li>Knee Pain</li>
-                        <li>Musculoskeletal Cancer</li>
-                        <li>Orthopaedic Trauma</li>
-                        <li>Pediatric Orthopaedics</li>
-                        <li>Shoulder Pain</li>
-                        <li>Spine Pain</li>
-                        <li>Sports Medicine</li>
-                        <li>Paediatrics</li>
-                    </ul>
-
-
+                <div class="grey-bold mt-3">
+                    Common Musculoskeletal Problems
                 </div>
+                <ul class="mt-5">
+                    <li>Elbow Pain</li>
+                    <li>Foot & Ankle
+                        Pain</li>
+                    <li>General Orthopaedics</li>
+                    <li>Hand Pain</li>
+                    <li>Joint Deformity</li>
+                    <li>Hip Pain</li>
+                    <li>Knee Pain</li>
+                    <li>Musculoskeletal Cancer</li>
+                    <li>Orthopaedic Trauma</li>
+                    <li>Pediatric Orthopaedics</li>
+                    <li>Shoulder Pain</li>
+                    <li>Spine Pain</li>
+                    <li>Sports Medicine</li>
+                    <li>Paediatrics</li>
+                </ul>
+
+
 
             </div>
 
