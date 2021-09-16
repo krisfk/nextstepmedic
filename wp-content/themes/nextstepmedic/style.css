@@ -751,4 +751,7 @@ a.ui-button:active,
     display: block;
     padding: 1rem 0 1rem;
     background: url(./assets/images/plus.png);
+    background-repeat: no-repeat;
+    background-position: 99% center;
+    background-size: 15px;
 }
