@@ -160,7 +160,7 @@ get_header();
 
 
 
-        <div class="subtitle">What Forms of Treatment Do We Offer?</div>
+        <div class="service-subtitle">What Forms of Treatment Do We Offer?</div>
 
         <div class="sep"></div>
 
