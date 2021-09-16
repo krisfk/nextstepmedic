@@ -210,9 +210,10 @@ get_header();
 
 
 
-<?php echo get_template_part( 'book' );?>
+<div class="mt-5">
+    <?php echo get_template_part( 'book' );?>
 
-
+</div>
 
 
 <?php
