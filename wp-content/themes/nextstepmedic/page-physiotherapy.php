@@ -37,7 +37,7 @@ get_header();
     <div class="row mt-5">
 
 
-        <div class="col-6"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-1@2x-50.jpg
+        <div class="col-6"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-2.jpg
         " alt=""></div>
         <div class="col-6">
             <div class="service-subtitle">What is Physiotherapy?</div>
@@ -53,19 +53,19 @@ get_header();
 
         <div class="row mt-5">
             <div class="col-12">
-                <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-1-scaled.jpg"
+                <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-3-scaled.jpg"
                     alt="">
                 <div class="brown-bg pt-4 pe-5 ps-5 pb-4">
 
-                    <div class="service-subtitle white">Our Orthopaedics Services
+                    <div class="service-subtitle white">Our Physiotherapeutic Services
+
                     </div>
-                    <div class="mt-3">The Next Step provides musculoskeletal diagnostic services, surgical and
-                        non-surgical
-                        treatments that are tailored to the individual needs of our patients. Our orthopaedic
-                        specialists
-                        treat patients suffering from a comprehensive range of orthopaedic conditions of the knee,
-                        shoulder
-                        and elbow, foot and ankle, hand and wrist, hip and spine.
+                    <div class="mt-3">Our physiotherapists are chartered and Hong Kong registered with extensive
+                        experiences in musculoskeletal condition, sport injuries and work related conditions. Prevention
+                        and evidence-based practice are our desired objectives in all applied interventions. We educate
+                        our clients about general health and posture, especially how to prevent re-occurrence of same
+                        injury or complication and other conditions by specified techniques.
+
                     </div>
                 </div>
             </div>
