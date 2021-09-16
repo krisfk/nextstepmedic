@@ -361,40 +361,44 @@ get_header();
                 </div>
             </li>
             <li><a href="javascript:void(0);">TENS</a>
-                <div class="row">
+                <div class="accordion-content">
+
+                    <div class="row">
 
 
-                    <div class="col-6">
-                        <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-13@2x-50.jpg"
-                            alt="">
+                        <div class="col-6">
+                            <img class="w-100"
+                                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-13@2x-50.jpg" alt="">
+                        </div>
+
+                        <div class="col-6">
+
+                            TENS is a method of electrical stimulation which primarily aims to provide a degree of
+                            symptomatic pain relief by exciting sensory nerves and thereby stimulating either the pain
+                            gate
+                            mechanism and/or the opioid system. It is used to relieve acute and chronic pain including:
+                            <ul>
+                                <li>Acute pain – such as sports injuries, acute torticollis, acute lower back pain, and
+                                    joint
+                                    pain.</li>
+                                <li>Chronic pain – such as low back pain, rheumatoid arthritis, peripheral nerve
+                                    injuries and
+                                    phantom limb pain.</li>
+                            </ul>
+
+
+
+
+
+
+
+
+
+                        </div>
+
+
+
                     </div>
-
-                    <div class="col-6">
-
-                        TENS is a method of electrical stimulation which primarily aims to provide a degree of
-                        symptomatic pain relief by exciting sensory nerves and thereby stimulating either the pain gate
-                        mechanism and/or the opioid system. It is used to relieve acute and chronic pain including:
-                        <ul>
-                            <li>Acute pain – such as sports injuries, acute torticollis, acute lower back pain, and
-                                joint
-                                pain.</li>
-                            <li>Chronic pain – such as low back pain, rheumatoid arthritis, peripheral nerve
-                                injuries and
-                                phantom limb pain.</li>
-                        </ul>
-
-
-
-
-
-
-
-
-
-                    </div>
-
-
-
                 </div>
             </li>
             <li><a href="javascript:void(0);">Myofascial Release</a></li>
