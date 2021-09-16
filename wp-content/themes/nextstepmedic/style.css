@@ -757,7 +757,17 @@ a.ui-button:active,
 }
 
 .accordion a.active {
+    text-decoration: none;
+    color: #58595b;
+    font-family: 'Futura-Bold';
+    border-bottom: 1px solid #b9bbbd;
+    width: 100%;
+    display: block;
+    padding: 1rem 0 1rem;
     background: url(./assets/images/minus.png);
+    background-repeat: no-repeat;
+    background-position: 99% center;
+    background-size: 15px;
 }
 
 .accordion a:hover {
