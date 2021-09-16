@@ -58,7 +58,13 @@ get_header();
                 alt="">
             <div class="brown-bg">
 
-                fdsf
+                <div class="service-subtitle">Our Orthopaedics Services
+                </div>
+                <div class="mt-3">The Next Step provides musculoskeletal diagnostic services, surgical and non-surgical
+                    treatments that are tailored to the individual needs of our patients. Our orthopaedic specialists
+                    treat patients suffering from a comprehensive range of orthopaedic conditions of the knee, shoulder
+                    and elbow, foot and ankle, hand and wrist, hip and spine.
+                </div>
             </div>
         </div>
     </div>
