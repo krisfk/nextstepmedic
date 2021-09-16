@@ -158,42 +158,7 @@ get_header();
 
         </div>
 
-        <div class="row mt-5">
 
-            <div class="col-6">
-                <div class="service-subtitle">Extensive Treatments Available
-                </div>
-
-                <ul class="mt-3">
-                    <li>Arthroscopy</li>
-                    <li>Assistive Devices</li>
-                    <li>Casts - Pediatric</li>
-                    <li>Corticosteroid injections</li>
-                    <li>External Fixation</li>
-                    <li>Femoroacetabular Impingement (FAI) Treatment</li>
-                    <li>Fracture Reduction</li>
-                    <li>Hip & Knee Care</li>
-                    <li>Joint injections</li>
-                    <li>Joint Replacement (Partial)</li>
-                    <li>Joint Replacement (Total)</li>
-                    <li>Joint Resurfacing</li>
-                    <li>Ligament Reconstruction</li>
-                    <li>Non-Steroidal Anti-Inflammatory Drugs (NSAIDS)</li>
-                    <li>Open Reduction with Internal Fixation of a Broken Bone</li>
-                    <li>Pain Management</li>
-                    <li>Physical and Occupational Therapy</li>
-                    <li>Primary Care Sports Medicine</li>
-                    <li>Sling immobilization</li>
-                    <li>Sports Medicine & Athletic Injury Care</li>
-                    <li>Sports Medicine Surgery</li>
-                </ul>
-
-            </div>
-
-
-            <div class="col-6"><img class="w-100"
-                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50-1.jpg" alt=""></div>
-        </div>
 
 
         <div class="sep"></div>
