@@ -297,6 +297,12 @@ body {
     font-style: italic;
 }
 
+.person-name {
+    font-family: 'Futura';
+    font-weight: bold;
+    /* font-style: italic; */
+}
+
 .subtitle {
     font-size: 2.4rem;
     color: #bf9d81;

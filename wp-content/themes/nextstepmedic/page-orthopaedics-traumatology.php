@@ -172,6 +172,26 @@ get_header();
 
         <div class="sep"></div>
 
+        <div class="row">
+            <div class="col-6"><img class="w-100"
+                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
+            </div>
+            <div class="col-6">
+                <div class="person-name">
+                    Dr. Tong Chun Kit
+                </div>
+                Specialist in Orthopaedics & Traumatology
+                MB BS (HK)
+                PgD MMR (CUHK)
+                MRCSEd
+                FRCSEd (Orth)
+                FHKCOS
+                FHKAM (Orthopaedic Surgery)
+
+
+            </div>
+        </div>
+
 
 
     </div>
