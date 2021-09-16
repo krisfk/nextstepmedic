@@ -740,13 +740,13 @@ a.ui-button:active,
 
 .accordion li {
     list-style-type: none;
+    border-bottom: 1px solid #b9bbbd;
 }
 
 .accordion a {
     text-decoration: none;
     color: #58595b;
     font-family: 'Futura-Bold';
-    border-bottom: 1px solid #b9bbbd;
     width: 100%;
     display: block;
     padding: 1rem 0 1rem;
@@ -760,7 +760,6 @@ a.ui-button:active,
     text-decoration: none;
     color: #58595b;
     font-family: 'Futura-Bold';
-    border-bottom: 1px solid #b9bbbd;
     width: 100%;
     display: block;
     padding: 1rem 0 1rem;
