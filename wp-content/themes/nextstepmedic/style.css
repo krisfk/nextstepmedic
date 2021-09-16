@@ -332,6 +332,11 @@ body {
     color: #fff !important;
 }
 
+.brown-bg {
+    background: #bf9d81 !important;
+    color: #fff !important;
+}
+
 .footer-subtitle {
     font-family: 'Futura-Bold';
     font-style: italic;
