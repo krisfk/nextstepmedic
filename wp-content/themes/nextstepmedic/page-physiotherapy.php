@@ -526,7 +526,6 @@ $(function() {
         $("body,html").scrollTop($(this).offset().top);
 
 
-        // alert($(this).scrollTop());
     })
 })
 </script>
