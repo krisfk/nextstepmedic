@@ -108,25 +108,48 @@ get_header();
                 </div>
 
                 <div class="grey-bold mt-3">
-                    Common Musculoskeletal Problems
+                    We treat anyone from the age of 8 years old and upwards with any of the following conditions:
                 </div>
-                <ul class="mt-3">
-                    <li>Elbow Pain</li>
-                    <li>Foot & Ankle
-                        Pain</li>
-                    <li>General Orthopaedics</li>
-                    <li>Hand Pain</li>
-                    <li>Joint Deformity</li>
-                    <li>Hip Pain</li>
-                    <li>Knee Pain</li>
-                    <li>Musculoskeletal Cancer</li>
-                    <li>Orthopaedic Trauma</li>
-                    <li>Pediatric Orthopaedics</li>
-                    <li>Shoulder Pain</li>
-                    <li>Spine Pain</li>
-                    <li>Sports Medicine</li>
-                    <li>Paediatrics</li>
-                </ul>
+
+                <div class="row mt-3">
+                    <div class="col-6">
+                        <ul>
+                            <li>Arthritis</li>
+                            <li>Backaches, sciatica, disc prolapsed</li>
+                            <li>Biomechanics</li>
+                            <li>Gait analyses</li>
+                            <li>Headaches</li>
+                            <li>Knee, foot & ankle pain</li>
+                            <li>Lower back pain and sciatica</li>
+                            <li>Muscle injuries</li>
+                            <li>Musculoskeletal condition</li>
+                            <li>Neck pain</li>
+                            <li>Overuse injuries</li>
+                            <li>Paediatric physiotherapy</li>
+                            <li>Post-surgical</li>
+                        </ul>
+                    </div>
+                    <div class="col-6">
+                        <ul>
+                            <li>Postural abnormalities</li>
+                            <li>Pre/post pregnancy</li>
+                            <li>Repetitive strain injuries</li>
+                            <li>RSI</li>
+                            <li>Shoulder pain</li>
+                            <li>Sports injuries</li>
+                            <li>Sport performance</li>
+                            <li>Stress and depression</li>
+                            <li>Tendon and ligament problems</li>
+                            <li>Tennis / golfers elbow</li>
+                            <li>Whiplash and accidental injuries</li>
+                            <li>Work related injuries
+                                and more…</li>
+
+
+                        </ul>
+                    </div>
+
+                </div>
 
 
 
