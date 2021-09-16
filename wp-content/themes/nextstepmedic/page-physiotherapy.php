@@ -251,7 +251,7 @@ get_header();
                             which sometimes causes this technique to make a ‘crack’ known as a cavitation. Most commonly
                             spinal joints are those that we may choose to treat with manipulation, although these
                             treatment techniques can be used with other joints.
-
+                            <br> <br>
                             Manipulations can demonstrate immediate improvements in the range and quality of movement
                             for the right category of patient, your Physiotherapist will assess your suitability for
                             these techniques and ensure you are fully aware of what to expect.
@@ -268,7 +268,44 @@ get_header();
 
                 </div>
             </li>
-            <li><a href="javascript:void(0);">Ultrasound</a></li>
+            <li><a href="javascript:void(0);">Ultrasound</a>
+                <div class="accordion-content">
+
+                    <div class="row">
+
+                        <div class="col-6">
+                            <img class="w-100"
+                                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@2x-50.jpg" alt="">
+                        </div>
+                        <div class="col-6"> Ultrasound is a small electrical device used to send high frequency sound
+                            waves into your problem tissues. The sound waves penetrate the tissue and stimulate the
+                            cells involved in healing to reduce inflammation and promote tissue repair. Ultrasound can
+                            be applied at any stage of healing, your therapist will alter the dose according to your
+                            injury and phase of healing.
+                            <br> <br>
+                            Ultrasound treatment helps you to recover after acute injury, and may speed up recovery
+                            times. Ultrasound at a high dose is also helpful in the management of calcific
+                            tendinopathies to help break down and aid reabsorption of the calcium ions within the
+                            tendon.
+
+
+
+
+
+
+
+
+
+
+                        </div>
+
+                    </div>
+
+
+
+
+                </div>
+            </li>
             <li><a href="javascript:void(0);">Taping</a></li>
             <li><a href="javascript:void(0);">Massage</a></li>
             <li><a href="javascript:void(0);">TENS</a></li>
