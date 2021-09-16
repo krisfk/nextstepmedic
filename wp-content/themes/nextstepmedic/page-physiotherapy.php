@@ -163,7 +163,40 @@ get_header();
         <div class="service-subtitle">What Forms of Treatment Do We Offer?</div>
 
         <ul class="accordion">
-            <li><a href="javascript:void(0);">Mobilisations</a></li>
+            <li><a href="javascript:void(0);">Mobilisations</a>
+
+                <div class="accordion-content">
+
+                    <div class="row">
+
+                        <div class="col-6"> Mobilisations of joints and soft tissues are very useful techniques in
+                            helping restore normal
+                            movement. Mobilisations increase movement at stiff joints and thus allow you to access
+                            better
+                            movement patterns, postures and simply feel looser. <br> <br>
+
+                            Mobilisations are graded by fully trained therapist accordingly and therefore can be applied
+                            at
+                            virtually any stage of the healing process to ensure good quality healing takes place. A
+                            low-grade
+                            mobilisation helps to reduce pain and stimulate healing, higher grades help to break down
+                            unwanted
+                            scar tissue, promote nutrition and increase range of motion. Mobilisations can be applied
+                            with
+                            movement. Such treatment is very effective as it encompasses activity within your muscles
+                            with a
+                            hands on technique to help return your movement back to ‘normal’.</div>
+                        <div class="col-6">
+                            <img class="w-100"
+                                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-1.jpg" alt="">
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+            </li>
             <li><a href="javascript:void(0);">Stretches</a></li>
             <li><a href="javascript:void(0);">Manipulations</a></li>
             <li><a href="javascript:void(0);">Ultrasound</a></li>
