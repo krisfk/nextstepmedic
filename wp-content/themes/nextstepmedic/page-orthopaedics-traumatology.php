@@ -135,16 +135,32 @@ get_header();
         <div class="row mt-5">
 
             <div class="col-6">
-                <div class="service-subtitle">Why Choose The Next Step?
+                <div class="service-subtitle">Extensive Treatments Available
                 </div>
-                <div class="mt-3">
-                    Our close-knit team of Consultant Surgeons and Specialists work together in a multidisciplinary
-                    fashion, enabling us to offer patients something truly unique: the feeling of trust and safety of a
-                    small family practice with the convenience and accessibility of a state-of-the-art treatment centre
-                    in the heart of Central, Hong Kong.
 
-
-                </div>
+                <ul class="mt-3">
+                    <li>Arthroscopy</li>
+                    <li>Assistive Devices</li>
+                    <li>Casts - Pediatric</li>
+                    <li>Corticosteroid injections</li>
+                    <li>External Fixation</li>
+                    <li>Femoroacetabular Impingement (FAI) Treatment</li>
+                    <li>Fracture Reduction</li>
+                    <li>Hip & Knee Care</li>
+                    <li>Joint injections</li>
+                    <li>Joint Replacement (Partial)</li>
+                    <li>Joint Replacement (Total)</li>
+                    <li>Joint Resurfacing</li>
+                    <li>Ligament Reconstruction</li>
+                    <li>Non-Steroidal Anti-Inflammatory Drugs (NSAIDS)</li>
+                    <li>Open Reduction with Internal Fixation of a Broken Bone</li>
+                    <li>Pain Management</li>
+                    <li>Physical and Occupational Therapy</li>
+                    <li>Primary Care Sports Medicine</li>
+                    <li>Sling immobilization</li>
+                    <li>Sports Medicine & Athletic Injury Care</li>
+                    <li>Sports Medicine Surgery</li>
+                </ul>
 
             </div>
 
