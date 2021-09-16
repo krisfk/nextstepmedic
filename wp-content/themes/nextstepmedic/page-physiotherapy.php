@@ -279,7 +279,7 @@ $(function() {
         $('.accordion a').removeClass('active');
         $(this).addClass('active');
 
-        $(this).next('.accordion-content').fadeIn(0);
+        $(this).next('.accordion-content').slideDown(200);
     })
 })
 </script>
