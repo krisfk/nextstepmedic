@@ -196,6 +196,10 @@ body {
     left: 50%;
 }
 
+.read-more-btn:hover {
+    color: #bf9d81;
+}
+
 .top-menu-ul li a.phone {
     color: #fff;
     background: #bf9d81;
