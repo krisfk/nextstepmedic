@@ -20,7 +20,7 @@ get_header();
 
         <div class="col-12">
 
-            <div class="content-div">
+            <div class="content-div service-title-div">
 
                 <h1 class="service-title">Orthopaedics & Traumatology</h1>
             </div>

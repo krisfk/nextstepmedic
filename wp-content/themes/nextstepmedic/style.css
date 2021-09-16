@@ -685,3 +685,7 @@ a.ui-button:active,
     top: 2px !important;
     cursor: pointer;
 }
+
+.service-title-div {
+    width: 100%;
+}
