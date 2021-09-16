@@ -16,7 +16,7 @@ get_header();
 
 <div class="position-relative">
 
-    <div class="row big-banner-central-row gx-0">
+    <div class="row big-banner-central-row gx-0 align-items-center">
 
         <div class="col-12">
 
