@@ -720,3 +720,10 @@ a.ui-button:active,
     font-weight: bold;
     font-family: 'Futura-Bold';
 }
+
+.sep {
+    display: block;
+    height: 1px;
+    width: 100%;
+    background: #231f20;
+}
