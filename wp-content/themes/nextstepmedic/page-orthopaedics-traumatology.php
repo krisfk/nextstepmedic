@@ -97,17 +97,33 @@ get_header();
         <div class="row mt-5">
 
             <div class="col-6"><img class="w-100"
-                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-2.jpg" alt=""></div>
+                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-2.jpg" alt=""></div>
 
 
             <div class="col-6">
-                <div class="service-subtitle">Why Choose The Next Step?
+                <div class="service-subtitle">What Do We Treat?
                 </div>
                 <div class="mt-3">
-                    Our close-knit team of Consultant Surgeons and Specialists work together in a multidisciplinary
-                    fashion, enabling us to offer patients something truly unique: the feeling of trust and safety of a
-                    small family practice with the convenience and accessibility of a state-of-the-art treatment centre
-                    in the heart of Central, Hong Kong.
+
+                    <div class="fw-bold">
+                        Common Musculoskeletal Problems
+                    </div>
+                    <ul>
+                        <li>Elbow Pain</li>
+                        <li>Foot & Ankle Pain</li>
+                        <li>General Orthopaedics</li>
+                        <li>Hand Pain</li>
+                        <li>Joint Deformity</li>
+                        <li>Hip Pain</li>
+                        <li>Knee Pain</li>
+                        <li>Musculoskeletal Cancer</li>
+                        <li>Orthopaedic Trauma</li>
+                        <li>Pediatric Orthopaedics</li>
+                        <li>Shoulder Pain</li>
+                        <li>Spine Pain</li>
+                        <li>Sports Medicine</li>
+                        <li>Paediatrics</li>
+                    </ul>
 
 
                 </div>
