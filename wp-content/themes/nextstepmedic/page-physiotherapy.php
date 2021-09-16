@@ -239,6 +239,16 @@ get_header();
 </div>
 
 
+<script type="text/javascript">
+$(function() {
+
+    $('.accordion a').click(function() {
+        $('.accordion a').removeClass('active');
+        $(this).addClass('active');
+    })
+})
+</script>
+
 <?php
 
 
