@@ -523,7 +523,7 @@ $(function() {
         $(this).next('.accordion-content').slideDown(200);
 
         // $('body,html').
-        $("body,html").scrollTop(100);
+        $("body,html").scrollTop($(this).offset().top);
 
 
         // alert($(this).scrollTop());
