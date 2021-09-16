@@ -278,6 +278,8 @@ $(function() {
     $('.accordion a').click(function() {
         $('.accordion a').removeClass('active');
         $(this).addClass('active');
+
+        $(this).next('.accordion-content').fadeIn(0);
     })
 })
 </script>
