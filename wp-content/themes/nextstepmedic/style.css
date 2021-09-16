@@ -695,4 +695,5 @@ a.ui-button:active,
     color: #fff;
     font-size: 2rem;
     padding: 0;
+    min-height: auto;
 }
