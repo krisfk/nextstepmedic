@@ -772,3 +772,7 @@ a.ui-button:active,
 .accordion a:hover {
     color: #58595b;
 }
+
+.accordion-content {
+    display: none;
+}
