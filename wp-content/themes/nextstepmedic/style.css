@@ -688,5 +688,7 @@ a.ui-button:active,
 
 .service-title-div {
     width: 100%;
+    background: #bf9d81;
     text-align: center;
+    color: #fff;
 }
