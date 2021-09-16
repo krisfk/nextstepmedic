@@ -35,6 +35,7 @@ get_header();
                 We strongly believe in delivering greater value and higher quality of care to our patients through
                 effective communication and ethical clinical practice.
             </div>
+            <a href="#" class="brown-round-btn">Book an Appointment</a>
         </div>
     </div>
 
