@@ -22,7 +22,7 @@ get_header();
 
             <div class="content-div service-title-div">
 
-                <h1 class="service-h1-title">Orthopaedics & Traumatology</h1>
+                <h1 class="service-h1-title">Physiotherapy</h1>
             </div>
         </div>
     </div>
