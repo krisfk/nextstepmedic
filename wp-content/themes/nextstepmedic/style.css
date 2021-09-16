@@ -248,7 +248,7 @@ body {
     background: rgb(255 255 255 / 80%);
 }
 
-.service-title {
+.page-service .service-title {
     font-family: 'Playfair Display';
     font-size: 2rem;
     padding-top: 1rem !important;
