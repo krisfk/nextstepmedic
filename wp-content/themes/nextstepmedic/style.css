@@ -774,7 +774,7 @@ a.ui-button:active,
 }
 
 .accordion-content {
-    /* display: none; */
+    display: none;
     padding: 0 0 1.5rem 0;
 }
 
