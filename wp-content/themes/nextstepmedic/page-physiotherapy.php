@@ -386,14 +386,6 @@ get_header();
                                     phantom limb pain.</li>
                             </ul>
 
-
-
-
-
-
-
-
-
                         </div>
 
 
@@ -401,7 +393,38 @@ get_header();
                     </div>
                 </div>
             </li>
-            <li><a href="javascript:void(0);">Myofascial Release</a></li>
+            <li><a href="javascript:void(0);">Myofascial Release</a>
+                <div class="row">
+
+
+                    <div class="col-6">
+                        <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-14@2x-50.jpg"
+                            alt="">
+                    </div>
+
+                    <div class="col-6">
+
+
+                        Myofascial release is a specialised physical and manual therapy used in the treatment of this
+                        form of superficial connective soft tissue. The treatment method involves the application of
+                        soft, yet firm, continuous pressure into the area of tension. The treatment aims to reduce
+                        discomfort and restore normal tissue movement by causing an increased blood flow and the fascia
+                        to elongate. <br> <br>
+
+                        Myofascial release is a fantastic tool to help manage conditions caused by restrictions within
+                        tight structures within the kinetic chain, myofascial release is helpful in the management of
+                        many musculoskeletal conditions, to name a few, we may use this type of technique to help our
+                        patients that suffer with plantar fasciitis, greater trochanteric pain syndromes, snapping hip,
+                        carpal tunnel syndromes, and low back pain.
+
+
+
+                    </div>
+
+
+
+                </div>
+            </li>
             <li><a href="javascript:void(0);">Home Exercises</a></li>
 
         </ul>
