@@ -180,14 +180,16 @@ get_header();
                 <div class="person-name">
                     Dr. Tong Chun Kit
                 </div>
-                Specialist in Orthopaedics & Traumatology
-                MB BS (HK)
-                PgD MMR (CUHK)
-                MRCSEd
-                FRCSEd (Orth)
-                FHKCOS
-                FHKAM (Orthopaedic Surgery)
 
+                <div class="mt-3">
+                    Specialist in Orthopaedics & Traumatology <br>
+                    MB BS (HK)<br>
+                    PgD MMR (CUHK)<br>
+                    MRCSEd<br>
+                    FRCSEd (Orth)<br>
+                    FHKCOS<br>
+                    FHKAM (Orthopaedic Surgery)
+                </div>
 
             </div>
         </div>
