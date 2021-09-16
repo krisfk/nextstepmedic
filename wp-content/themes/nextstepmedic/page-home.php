@@ -260,10 +260,10 @@ get_header();
 </div>
 
 
-<div>
 
-    <?php echo get_template_part( 'book' );?>
-</div>
+
+<?php echo get_template_part( 'book' );?>
+
 
 
 
