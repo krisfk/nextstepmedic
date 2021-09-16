@@ -733,3 +733,7 @@ a.ui-button:active,
     width: 100%;
     background: #b9bbbd;
 }
+
+.gold {
+    color: #bf9d81 !important;
+}
