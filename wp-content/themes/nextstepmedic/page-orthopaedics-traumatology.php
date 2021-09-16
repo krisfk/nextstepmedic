@@ -173,7 +173,7 @@ get_header();
         <div class="sep"></div>
 
         <div class="row">
-            <div class="col-6"><img class="w-100"
+            <div class="col-6"><img style="height:300px" class="w-100"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
             </div>
             <div class="col-6 gold">
