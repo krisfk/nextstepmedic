@@ -199,7 +199,8 @@ get_header();
             </li>
             <li><a href="javascript:void(0);">Stretches</a>
                 <div class="accordion-content">
-                    <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50-1-scaled.jpg" alt="">
+                    <img class="w-100"
+                        src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50-1-scaled.jpg" alt="">
                 </div>
                 <div>Muscles generally work together in pairs to help promote good quality pain free movement at a
                     joint. If you overuse certain muscles due to repetitive strain, sports, prolonged postures or
