@@ -394,38 +394,58 @@ get_header();
                 </div>
             </li>
             <li><a href="javascript:void(0);">Myofascial Release</a>
-                <div class="row">
+                <div class="accordion-content">
+                    <div class="row">
 
 
-                    <div class="col-6">
-                        <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-14@2x-50.jpg"
-                            alt="">
+                        <div class="col-6">
+                            <img class="w-100"
+                                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-14@2x-50.jpg" alt="">
+                        </div>
+
+                        <div class="col-6">
+
+
+                            Myofascial release is a specialised physical and manual therapy used in the treatment of
+                            this
+                            form of superficial connective soft tissue. The treatment method involves the application of
+                            soft, yet firm, continuous pressure into the area of tension. The treatment aims to reduce
+                            discomfort and restore normal tissue movement by causing an increased blood flow and the
+                            fascia
+                            to elongate. <br> <br>
+
+                            Myofascial release is a fantastic tool to help manage conditions caused by restrictions
+                            within
+                            tight structures within the kinetic chain, myofascial release is helpful in the management
+                            of
+                            many musculoskeletal conditions, to name a few, we may use this type of technique to help
+                            our
+                            patients that suffer with plantar fasciitis, greater trochanteric pain syndromes, snapping
+                            hip,
+                            carpal tunnel syndromes, and low back pain.
+
+
+
+                        </div>
+
+
                     </div>
-
-                    <div class="col-6">
-
-
-                        Myofascial release is a specialised physical and manual therapy used in the treatment of this
-                        form of superficial connective soft tissue. The treatment method involves the application of
-                        soft, yet firm, continuous pressure into the area of tension. The treatment aims to reduce
-                        discomfort and restore normal tissue movement by causing an increased blood flow and the fascia
-                        to elongate. <br> <br>
-
-                        Myofascial release is a fantastic tool to help manage conditions caused by restrictions within
-                        tight structures within the kinetic chain, myofascial release is helpful in the management of
-                        many musculoskeletal conditions, to name a few, we may use this type of technique to help our
-                        patients that suffer with plantar fasciitis, greater trochanteric pain syndromes, snapping hip,
-                        carpal tunnel syndromes, and low back pain.
-
-
-
-                    </div>
-
-
-
                 </div>
             </li>
-            <li><a href="javascript:void(0);">Home Exercises</a></li>
+            <li><a href="javascript:void(0);">Home Exercises</a>
+                <div class="accordion-content">
+                    <img class="w-100"
+                        src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-15@2x-50-scaled.jpg" alt="">
+                    <div class="mt-3">Your physiotherapist will fully assess your problem area to help you discover
+                        exercises to
+                        address the cause of your symptoms or to compliment manual therapy administered. Research shows
+                        that home exercises targeted to strengthen, stretch, load tissue or improve motor control are
+                        essential in your recovery and management of long-term conditions. When combined with
+                        therapeutic intervention, progressed accordingly, in line with your personal goals and current
+                        regime you will experience less pain, increased function and potentially improved performance.
+                    </div>
+                </div>
+            </li>
 
         </ul>
 
