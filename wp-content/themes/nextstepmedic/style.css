@@ -737,3 +737,17 @@ a.ui-button:active,
 .gold {
     color: #bf9d81 !important;
 }
+
+.accordion li {
+    list-style-type: none;
+}
+
+.accordion a {
+    text-decoration: none;
+    color: #58595b;
+    font-family: 'Futura-Bold';
+    border-bottom: 1px solid #b9bbbd;
+    width: 100%;
+    display: block;
+    padding: 1rem 0 1rem;
+}
