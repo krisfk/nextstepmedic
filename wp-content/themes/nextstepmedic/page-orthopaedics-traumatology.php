@@ -37,7 +37,7 @@ get_header();
     <div class="row mt-5">
 
         <div class="col-4 service-col">
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-1.jpg" alt="">
+            <!-- <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-1.jpg" alt=""> -->
             <div class="service-title-div">
                 <div class="service-title">Orthopaedics & Traumatology</div>
                 <a href="javascript:void(0);" class="read-more-btn">Read More</a>
