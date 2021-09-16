@@ -201,34 +201,43 @@ get_header();
                 <div class="accordion-content">
                     <img class="w-100"
                         src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50-1-scaled.jpg" alt="">
+                    <div class="mt-3">Muscles generally work together in pairs to help promote good quality pain free
+                        movement at a
+                        joint. If you overuse certain muscles due to repetitive strain, sports, prolonged postures or
+                        weakness in other parts of your body, you can develop tightness and dominance within one of the
+                        pair. If the situation continues, stress and altered loading to the soft tissues may cause you
+                        to
+                        develop pain, tendinopathies, ligament sprains, muscle spasms, and the list is endless.
+                        <br><br>
+                        A qualified physiotherapist will help assess you for any muscle imbalances to include tightness
+                        and
+                        weakness of the soft tissues. Effective methods of treating such problems will be outlined in
+                        forms
+                        of things you can do to help yourself and techniques we can perform within our treatment to
+                        help.
+                        <br><br>
+                        Stretching is a technique used to increase the length of muscles and tendons in order to improve
+                        the
+                        effectiveness of the muscle fibres, improve joint range of motion and relieve pain. Your
+                        Physiotherapist will advise appropriate stretches to correct muscle length and elasticity.
+                        Muscle
+                        energy techniques or Proprioceptive Neuromuscular Facilitation stretches are used to lengthen
+                        muscles through a hold and relax muscle contraction technique, this generally requires the
+                        assistance of your therapist and is widely used by athletes to improve range of movement in a
+                        joint
+                        both before and after sport to improve performance and reduce risk of injury.
+
+
+
+
+
+
+
+
+
+                    </div>
                 </div>
-                <div>Muscles generally work together in pairs to help promote good quality pain free movement at a
-                    joint. If you overuse certain muscles due to repetitive strain, sports, prolonged postures or
-                    weakness in other parts of your body, you can develop tightness and dominance within one of the
-                    pair. If the situation continues, stress and altered loading to the soft tissues may cause you to
-                    develop pain, tendinopathies, ligament sprains, muscle spasms, and the list is endless.
-                    <br><br>
-                    A qualified physiotherapist will help assess you for any muscle imbalances to include tightness and
-                    weakness of the soft tissues. Effective methods of treating such problems will be outlined in forms
-                    of things you can do to help yourself and techniques we can perform within our treatment to help.
-                    <br><br>
-                    Stretching is a technique used to increase the length of muscles and tendons in order to improve the
-                    effectiveness of the muscle fibres, improve joint range of motion and relieve pain. Your
-                    Physiotherapist will advise appropriate stretches to correct muscle length and elasticity. Muscle
-                    energy techniques or Proprioceptive Neuromuscular Facilitation stretches are used to lengthen
-                    muscles through a hold and relax muscle contraction technique, this generally requires the
-                    assistance of your therapist and is widely used by athletes to improve range of movement in a joint
-                    both before and after sport to improve performance and reduce risk of injury.
 
-
-
-
-
-
-
-
-
-                </div>
             </li>
             <li><a href="javascript:void(0);">Manipulations</a></li>
             <li><a href="javascript:void(0);">Ultrasound</a></li>
