@@ -756,6 +756,10 @@ a.ui-button:active,
     background-size: 15px;
 }
 
+.accordion a.active {
+    background: url(./assets/images/minus.png);
+}
+
 .accordion a:hover {
     color: #58595b;
 }
