@@ -375,6 +375,31 @@ get_header();
     </ul>
 
 
+    <div class="service-subtitle mt-5">Feedback From Practitioners
+    </div>
+
+    <div class="row">
+
+        <div class="col-6"><img class="w-100"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-3.jpg" alt="">
+        </div>
+        <div class="col-6"><img class="w-100"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50-3.jpg" alt="">
+        </div>
+    </div>
+
+    <div class="service-subtitle mt-5">Patient Reviews
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-6"><img class="w-100"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-3.jpg" alt="">
+        </div>
+    </div>
+
+
 
     <div class="sep"></div>
 
