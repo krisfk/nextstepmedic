@@ -226,6 +226,12 @@ get_header();
 
     </div>
 
+    <div class="mt-3">
+
+        <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x-50-3-scaled.jpg"
+            alt="">
+    </div>
+
 
 
     <div class="sep"></div>
