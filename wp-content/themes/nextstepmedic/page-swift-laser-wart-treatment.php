@@ -44,11 +44,11 @@ get_header();
                 <div class="col-6">
                     <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-5.jpg"
                         alt="">
-                    <div class="mt-3">Deep plantar wart</div>
+                    <div class="mt-2">Deep plantar wart</div>
                 </div>
                 <div class="col-6"><img class="w-100"
                         src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-5.jpg" alt="">
-                    <div class="mt-3">Young plantar warts</div>
+                    <div class="mt-2">Young plantar warts</div>
                 </div>
             </div>
 
