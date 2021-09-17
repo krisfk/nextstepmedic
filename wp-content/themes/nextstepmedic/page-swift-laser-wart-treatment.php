@@ -243,6 +243,126 @@ get_header();
     </div>
 
 
+    <div class="service-subtitle mt-5">FAQ</div>
+
+
+
+    <ul class="accordion">
+        <li><a href="javascript:void(0);"> What are the symptoms of plantar warts?
+            </a>
+
+            <div class="accordion-content">
+
+                <div class="row">
+
+                    <div class="col-6"> Mobilisations of joints and soft tissues are very useful techniques in
+                        helping restore normal
+                        movement. Mobilisations increase movement at stiff joints and thus allow you to access
+                        better
+                        movement patterns, postures and simply feel looser. <br> <br>
+
+                        Mobilisations are graded by fully trained therapist accordingly and therefore can be applied
+                        at
+                        virtually any stage of the healing process to ensure good quality healing takes place. A
+                        low-grade
+                        mobilisation helps to reduce pain and stimulate healing, higher grades help to break down
+                        unwanted
+                        scar tissue, promote nutrition and increase range of motion. Mobilisations can be applied
+                        with
+                        movement. Such treatment is very effective as it encompasses activity within your muscles
+                        with a
+                        hands on technique to help return your movement back to ‘normal’.</div>
+                    <div class="col-6">
+                        <img class="w-100"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-1.jpg" alt="">
+                    </div>
+                </div>
+
+
+
+
+            </div>
+        </li>
+        <li><a href="javascript:void(0);">What are the causes of warts?
+            </a>
+            <div class="accordion-content">
+                <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50-1-scaled.jpg"
+                    alt="">
+                <div class="mt-3">Muscles generally work together in pairs to help promote good quality pain free
+                    movement at a
+                    joint. If you overuse certain muscles due to repetitive strain, sports, prolonged postures or
+                    weakness in other parts of your body, you can develop tightness and dominance within one of the
+                    pair. If the situation continues, stress and altered loading to the soft tissues may cause you
+                    to
+                    develop pain, tendinopathies, ligament sprains, muscle spasms, and the list is endless.
+                    <br><br>
+                    A qualified physiotherapist will help assess you for any muscle imbalances to include tightness
+                    and
+                    weakness of the soft tissues. Effective methods of treating such problems will be outlined in
+                    forms
+                    of things you can do to help yourself and techniques we can perform within our treatment to
+                    help.
+                    <br><br>
+                    Stretching is a technique used to increase the length of muscles and tendons in order to improve
+                    the
+                    effectiveness of the muscle fibres, improve joint range of motion and relieve pain. Your
+                    Physiotherapist will advise appropriate stretches to correct muscle length and elasticity.
+                    Muscle
+                    energy techniques or Proprioceptive Neuromuscular Facilitation stretches are used to lengthen
+                    muscles through a hold and relax muscle contraction technique, this generally requires the
+                    assistance of your therapist and is widely used by athletes to improve range of movement in a
+                    joint
+                    both before and after sport to improve performance and reduce risk of injury.
+
+
+
+
+
+
+
+
+
+                </div>
+            </div>
+
+        </li>
+        <li><a href="javascript:void(0);"> Is the virus transmissible?
+            </a>
+            <div class="accordion-content">
+
+                <div class="row">
+
+                    <div class="col-6"> A manipulation is a technique that can be applied to patients whose
+                        condition is not easily irritated, if there is local muscle guarding then this must be
+                        addressed first. Manipulations are quicker techniques performed at the end of the joints
+                        range of motion, this helps to break down scar tissue and release pressure within the joint
+                        which sometimes causes this technique to make a ‘crack’ known as a cavitation. Most commonly
+                        spinal joints are those that we may choose to treat with manipulation, although these
+                        treatment techniques can be used with other joints.
+                        <br> <br>
+                        Manipulations can demonstrate immediate improvements in the range and quality of movement
+                        for the right category of patient, your Physiotherapist will assess your suitability for
+                        these techniques and ensure you are fully aware of what to expect.
+
+                    </div>
+                    <div class="col-6">
+                        <img class="w-100"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-1.jpg" alt="">
+                    </div>
+                </div>
+
+
+
+
+            </div>
+        </li>
+
+
+
+    </ul>
+
+
+
     <div class="sep"></div>
 
     <div class="row mt-4">
