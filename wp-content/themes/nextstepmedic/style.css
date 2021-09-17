@@ -793,5 +793,6 @@ a.ui-button:active,
 }
 
 .leaflet-img {
+    width: auto;
     height: 300px;
 }
