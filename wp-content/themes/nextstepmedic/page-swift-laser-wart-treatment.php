@@ -52,50 +52,10 @@ get_header();
         </div>
     </div>
 
-    <div class="row mt-5">
-        <div class="col-12">
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-3-scaled.jpg"
-                alt="">
-            <div class="brown-bg pt-4 pe-5 ps-5 pb-4">
-
-                <div class="service-subtitle white">Our Physiotherapeutic Services
-
-                </div>
-                <div class="mt-3">Our physiotherapists are chartered and Hong Kong registered with extensive
-                    experiences in musculoskeletal condition, sport injuries and work related conditions. Prevention
-                    and evidence-based practice are our desired objectives in all applied interventions. We educate
-                    our clients about general health and posture, especially how to prevent re-occurrence of same
-                    injury or complication and other conditions by specified techniques.
-
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="row mt-5">
 
 
 
 
-        <div class="col-6">
-            <div class="service-subtitle"> Why Choose The Next Step?
-
-            </div>
-            <div class="mt-3">
-
-                Our close-knit team of Consultant Surgeons and Specialists work together in a multidisciplinary
-                fashion, enabling us to offer patients something truly unique: the feeling of trust and safety of a
-                small family practice with the convenience and accessibility of a state-of-the-art treatment centre
-                in the heart of Central, Hong Kong.
-
-
-            </div>
-
-        </div>
-
-
-        <div class="col-6"><img class="w-100"
-                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-3.jpg" alt=""></div>
-    </div>
 
 
     <div class="row mt-5">
