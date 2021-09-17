@@ -135,8 +135,9 @@ get_header();
                 and advice. We treat all problems on feet of all ages as well as all problems associated with a wide
                 range of medical conditions.
             </div>
-            <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
-
+            <div class="mt-3">
+                <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
+            </div>
         </div>
     </div>
 
