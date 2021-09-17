@@ -196,7 +196,7 @@ get_header();
     </ul>
 
 
-    <div class="service-title">Treatments for Plantar Warts and Palmar Warts</div>
+    <div class="service-subtitle mt-5">Treatments for Plantar Warts and Palmar Warts</div>
 
     <div class="sep"></div>
 
