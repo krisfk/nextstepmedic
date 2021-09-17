@@ -430,33 +430,55 @@ get_header();
 
             <div class="gold">
                 <div class="person-name">
-                    Jeff Law Lok Way
+                    Charlie S.K Lau
                 </div>
 
                 <div class="mt-3">
-                    BPhty (NZ) <br>
-                    NZ Registered Physiotherapist<br>
-                    MPNZ - Member of Physiotherapy New Zealand
+                    Registered Podiatrist (NZ) <br>
+                    BHsc Podiatry (NZ)<br>
+                    PgD in Musculoskeletal Medicine and Rehabilitation (CUHK)<br>
+                    Member of PodiatryNZ<br>
+                    Member of International Podiatrists Association of Hong Kong (IPAHK)
                 </div>
             </div>
-            <div class="mt-3">Jeff gained his Bachelor of Physiotherapy at University of Otago, New Zealand. After
-                graduation, he completed postgraduate courses in Dry Needling, Sports Rehabilitation, Concussion
-                Rehabilitation and Vestibular Rehabilitation.
-                <br> <br>
-                Jeff has experience in working with highly active individuals in military clinics. He also spent
-                time delivering community Physiotherapy services, where he gained knowledge and skills in working
-                with a variety of conditions including chronic pain, neurological, geriatric, as well as orthopedic
-                conditions. Jeff has strong passion in delivery patient-specific and evidence-based care. He is also
-                a firm believer of the proactive healthcare approach of which actions should be taken to prevent
-                health problems before they occur. He always tries his best to make his patients feel better,
-                whether physically or psychologically, when they walk out of the clinic.
-                <br> <br>
-                Jeff is a basketball lover. On his days off, you will most likely find him playing basketball at
-                local parks. He is also pursuing a Master degree at Hong Kong University of Science and Technology,
-                where he will be spending most of his weekends in the short future.
+
+            <div class="mt-3">Charlie is a podiatrist registered under the International Podiatrists Association of Hong
+                Kong and
+                registered with the Podiatrists Board of New Zealand. He received professional training in podiatry from
+                the Auckland university technology in New Zealand and furthered his education and obtained his
+                Postgraduate Diploma in Musculoskeletal Medicine and Rehabilitation from the Chinese University of Hong
+                Kong.
+                <br><br>
+                Charlie is currently working at the Matilda international hospital/ Matilda Medical Centre (Central) ,
+                Hong Kong Adventist Hospital- Tsuen wan and Gleneagles Hospital Hong Kong. He had worked in two
+                multidisciplinary clinics in Shanghai. He also volunteered at the HKSKH Lady MacLehose Centre and
+                provided podiatry education for the disadvantaged.
+                Charlie work closely in partnership with consultant orthopedic surgeons, general practitioner and
+                physiotherapist. They ensure each patient is thoroughly assessed; diagnosed and optimum treatment is
+                selected.
+                <br><br>
+                His experience in a private practice in New Zealand and at the Matilda International Hospital in Hong
+                Kong has provided him with a comprehensive understanding of diagnosis and treatment of a wide array of
+                pathologies of the foot and lower leg, including:
+
+                <ul class=" ps-3">
+                    <li>Athletic and sports injuries of the foot, knee, and hip</li>
+                    <li>Biomechanical assessments (examination of the lower limbs, looking at their structure,
+                        alignment,
+                        strengths and weaknesses)</li>
+                    <li>Chronic pathologies</li>
+                    <li>Diabetic foot care</li>
+                    <li>Footwear assessment</li>
+                    <li>Nail & skin pathologies (callus / cracked heels, corns, in-growing toenails, fungal nails,
+                        verrucae, foot warts, etc.)</li>
+                    <li>Neurological disorders</li>
+                    <li>Orthotic prescription</li>
+                    <li>Paediatric assessment</li>
+                    <li>Rheumatoid arthritis</li>
+                    <li>Vascular & musculoskeletal disorders</li>
+
+                </ul>
             </div>
-
-
 
         </div>
 
