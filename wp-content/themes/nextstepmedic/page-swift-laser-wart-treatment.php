@@ -401,7 +401,7 @@ get_header();
 
     <div class="service-subtitle mt-5">For More Details</div>
 
-    <div>
+    <div class="mt-2">
         <div class="row g-0">
             <div class="col-3"><img class="leaflet-img"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@2x-50-2.jpg" alt="">
