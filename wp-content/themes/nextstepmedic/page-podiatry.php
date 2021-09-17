@@ -439,7 +439,7 @@ get_header();
 
 
 
-    <div class="sep"></div>
+    <div class="sep mt-3"></div>
 
     <div class="row mt-4">
         <div class="col-6"><img style="height:400px" class="w-100"
