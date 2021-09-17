@@ -233,6 +233,15 @@ get_header();
     </div>
 
 
+    <div class="service-subtitle mt-5">What is SWIFT?</div>
+
+    <div class="mt-5">SWIFT is a cutting-edge, FDA cleared technology that has proven to be highly effective in the
+        removal of
+        plantar warts. It delivers low dose microwave energy through a specialized probe that targets and treats the
+        underlying HPV virus by stimulating a natural immune response in the body. SWIFT technology addresses the root
+        cause and not the symptoms of plantar warts, thus preventing its recurrence.
+    </div>
+
 
     <div class="sep"></div>
 
