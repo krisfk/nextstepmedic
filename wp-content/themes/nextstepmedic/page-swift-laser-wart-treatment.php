@@ -58,66 +58,7 @@ get_header();
 
 
 
-    <div class="row mt-5">
 
-        <div class="col-6"><img class="w-100"
-                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-2.jpg" alt=""></div>
-
-
-        <div class="col-6">
-            <div class="service-subtitle">What Do We Treat?
-            </div>
-
-            <div class="grey-bold mt-3">
-                We treat anyone from the age of 8 years old and upwards with any of the following conditions:
-            </div>
-
-            <div class="row mt-3">
-                <div class="col-6">
-                    <ul class="ps-3">
-                        <li>Arthritis</li>
-                        <li>Backaches, sciatica, disc prolapsed</li>
-                        <li>Biomechanics</li>
-                        <li>Gait analyses</li>
-                        <li>Headaches</li>
-                        <li>Knee, foot & ankle pain</li>
-                        <li>Lower back pain and sciatica</li>
-                        <li>Muscle injuries</li>
-                        <li>Musculoskeletal condition</li>
-                        <li>Neck pain</li>
-                        <li>Overuse injuries</li>
-                        <li>Paediatric physiotherapy</li>
-                        <li>Post-surgical</li>
-                    </ul>
-                </div>
-                <div class="col-6">
-                    <ul class="ps-3">
-                        <li>Postural abnormalities</li>
-                        <li>Pre/post pregnancy</li>
-                        <li>Repetitive strain injuries</li>
-                        <li>RSI</li>
-                        <li>Shoulder pain</li>
-                        <li>Sports injuries</li>
-                        <li>Sport performance</li>
-                        <li>Stress and depression</li>
-                        <li>Tendon and ligament problems</li>
-                        <li>Tennis / golfers elbow</li>
-                        <li>Whiplash and accidental injuries</li>
-                        <li>Work related injuries
-                            and more…</li>
-
-
-                    </ul>
-                </div>
-
-            </div>
-
-
-
-        </div>
-
-
-    </div>
 
 
 
