@@ -73,6 +73,26 @@ get_header();
             </div>
         </div>
     </div>
+    <div class="row mt-5">
+        <div class="col-12">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-1-scaled.jpg"
+                alt="">
+            <div class="brown-bg pt-4 pe-5 ps-5 pb-4">
+
+                <div class="service-subtitle white">Our Orthopaedics Services
+                </div>
+                <div class="mt-3">The Next Step provides musculoskeletal diagnostic services, surgical and
+                    non-surgical
+                    treatments that are tailored to the individual needs of our patients. Our orthopaedic
+                    specialists
+                    treat patients suffering from a comprehensive range of orthopaedic conditions of the knee,
+                    shoulder
+                    and elbow, foot and ankle, hand and wrist, hip and spine.
+                </div>
+            </div>
+        </div>
+    </div>
+
 
 
 
