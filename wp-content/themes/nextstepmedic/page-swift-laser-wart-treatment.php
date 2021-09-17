@@ -206,18 +206,20 @@ get_header();
 
 
         <div class="col-6">
-            <div class="service-subtitle"> Why Choose The Next Step?
-
-            </div>
-            <div class="mt-3">
-
-                Our close-knit team of Consultant Surgeons and Specialists work together in a multidisciplinary
-                fashion, enabling us to offer patients something truly unique: the feeling of trust and safety of a
-                small family practice with the convenience and accessibility of a state-of-the-art treatment centre
-                in the heart of Central, Hong Kong.
+            <div class="service-subtitle"> In some cases, a plantar wart will resolve naturally. Other cases may require
+                treatment. The Next Step Medical Clinic provide you alternative treatment options:
 
 
             </div>
+
+            <ul class="ps-3">
+                <li>Curettage, which involves cutting out the wart</li>
+                <li>Liquid nitrogen, which can be used to “freeze” off the wart</li>
+                <li>Laser therapy</li>
+                <li>Natural remedies</li>
+                <li>Salicylic acid cream, a topical cream that can “burn” off the wart</li>
+                <li>Topical medication applied directly to the wart</li>
+            </ul>
 
         </div>
 
