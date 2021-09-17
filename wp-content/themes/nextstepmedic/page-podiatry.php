@@ -273,33 +273,28 @@ get_header();
 
     <div class="row mt-5">
         <div class="col-6">
-            <div class="grey-bold">General Podiatry Care
+            <div class="grey-bold">Gait and Biomechanical Assessment
 
             </div>
             <div class="mt-3">
 
-                We diagnose and treat all foot disorders and deformities, as well as providing general foot treatment
-                and advice. We treat all problems on feet of all ages as well as all problems associated with a wide
-                range of medical conditions.
+                Our body parts are interconnected, and pain in one area can often originate elsewhere. By examining the
+                entire body, Biomechanical Assessments can help diagnose and resolve associative pain and injuries.
+
             </div>
             <div class="mt-3">
                 <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
 
                 <div class="hide-content">
-                    We offer routine foot care and foot health, as well as treatments for:
-                    <ul class="ps-3">
-                        <li>Athlete’s foot</li>
-                        <li>Biomechanics (arch supports)</li>
-                        <li>Bunion treatment</li>
-                        <li>Corn / Callus removal</li>
-                        <li>Cracked heels</li>
-                        <li>Foot pain related problems</li>
-                        <li>Fungal nails</li>
-                        <li>Hard skin removal</li>
-                        <li>Nail cutting</li>
-                        <li>Nail surgery</li>
-                        <li>Verrucae treatment</li>
-                    </ul>
+
+                    A static and dynamic biomechanics assessment is an investigation into your lower limb function –
+                    looking closely for abnormalities and compensations. The assessment will focus on the structure,
+                    posture, range of motion, plantar pressure, alignment, strengths and weaknesses of the foot and will
+                    include the pelvis, legs and knees and how they work together as pain in one area can indicate a
+                    weakness or structural problem in another. The information gained from a biomechanical assessment
+                    forms the basis for a rehabilitation programme, or if the problem is mechanical, an orthotic will be
+                    prescribed.
+
                 </div>
             </div>
         </div>
