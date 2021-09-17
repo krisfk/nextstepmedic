@@ -114,7 +114,7 @@ get_header();
 
             <div class="row mt-3">
                 <div class="col-6">
-                    <ul>
+                    <ul class="ps-3">
                         <li>Arthritis</li>
                         <li>Backaches, sciatica, disc prolapsed</li>
                         <li>Biomechanics</li>
@@ -131,7 +131,7 @@ get_header();
                     </ul>
                 </div>
                 <div class="col-6">
-                    <ul>
+                    <ul class="ps-3">
                         <li>Postural abnormalities</li>
                         <li>Pre/post pregnancy</li>
                         <li>Repetitive strain injuries</li>
