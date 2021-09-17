@@ -445,21 +445,59 @@ get_header();
         <div class="col-6"><img style="height:400px" class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
         </div>
-        <div class="col-6 gold">
-            <div class="person-name">
-                Dr. Tong Chun Kit
+        <div class="col-6">
+
+            <div class="gold">
+                <div class="person-name">
+                    Charlie S.K Lau
+                </div>
+
+                <div class="mt-3">
+                    Registered Podiatrist (NZ) <br>
+                    BHsc Podiatry (NZ)<br>
+                    PgD in Musculoskeletal Medicine and Rehabilitation (CUHK)<br>
+                    Member of PodiatryNZ<br>
+                    Member of International Podiatrists Association of Hong Kong (IPAHK)
+                </div>
             </div>
 
-            <div class="mt-3">
-                Specialist in Orthopaedics & Traumatology <br>
-                MB BS (HK)<br>
-                PgD MMR (CUHK)<br>
-                MRCSEd<br>
-                FRCSEd (Orth)<br>
-                FHKCOS<br>
-                FHKAM (Orthopaedic Surgery)
-            </div>
+            <div class="mt-3">Charlie is a podiatrist registered under the International Podiatrists Association of Hong
+                Kong and
+                registered with the Podiatrists Board of New Zealand. He received professional training in podiatry from
+                the Auckland university technology in New Zealand and furthered his education and obtained his
+                Postgraduate Diploma in Musculoskeletal Medicine and Rehabilitation from the Chinese University of Hong
+                Kong.
+                <br><br>
+                Charlie is currently working at the Matilda international hospital/ Matilda Medical Centre (Central) ,
+                Hong Kong Adventist Hospital- Tsuen wan and Gleneagles Hospital Hong Kong. He had worked in two
+                multidisciplinary clinics in Shanghai. He also volunteered at the HKSKH Lady MacLehose Centre and
+                provided podiatry education for the disadvantaged.
+                Charlie work closely in partnership with consultant orthopedic surgeons, general practitioner and
+                physiotherapist. They ensure each patient is thoroughly assessed; diagnosed and optimum treatment is
+                selected.
+                <br><br>
+                His experience in a private practice in New Zealand and at the Matilda International Hospital in Hong
+                Kong has provided him with a comprehensive understanding of diagnosis and treatment of a wide array of
+                pathologies of the foot and lower leg, including:
 
+                <ul>
+                    <li>Athletic and sports injuries of the foot, knee, and hip</li>
+                    <li>Biomechanical assessments (examination of the lower limbs, looking at their structure,
+                        alignment,
+                        strengths and weaknesses)</li>
+                    <li>Chronic pathologies</li>
+                    <li>Diabetic foot care</li>
+                    <li>Footwear assessment</li>
+                    <li>Nail & skin pathologies (callus / cracked heels, corns, in-growing toenails, fungal nails,
+                        verrucae, foot warts, etc.)</li>
+                    <li>Neurological disorders</li>
+                    <li>Orthotic prescription</li>
+                    <li>Paediatric assessment</li>
+                    <li>Rheumatoid arthritis</li>
+                    <li>Vascular & musculoskeletal disorders</li>
+
+                </ul>
+            </div>
         </div>
     </div>
 
