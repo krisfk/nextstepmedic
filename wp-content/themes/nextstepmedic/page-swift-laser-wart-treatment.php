@@ -212,7 +212,7 @@ get_header();
 
             </div>
 
-            <ul class="ps-3">
+            <ul class="ps-3 mt-3">
                 <li>Curettage, which involves cutting out the wart</li>
                 <li>Liquid nitrogen, which can be used to “freeze” off the wart</li>
                 <li>Laser therapy</li>
