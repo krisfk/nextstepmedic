@@ -738,6 +738,10 @@ a.ui-button:active,
     color: #bf9d81 !important;
 }
 
+.accordion {
+    padding: 0;
+}
+
 .accordion li {
     list-style-type: none;
     border-bottom: 1px solid #b9bbbd;
