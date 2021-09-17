@@ -22,7 +22,8 @@ get_header();
 
             <div class="content-div service-title-div">
 
-                <h1 class="service-h1-title">Swift Laser Wart Treatment</h1>
+                <h1 class="service-h1-title">Lunula Laser Fungal Nail Treatment
+                </h1>
             </div>
         </div>
     </div>
