@@ -404,9 +404,13 @@ get_header();
     <div>
         <div class="row">
             <div class="col-3"><img class="leaflet-img"
-                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@2x-50-2.jpg" alt=""></div>
+                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@2x-50-2.jpg" alt="">
+                <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
+            </div>
             <div class="col-3"><img class="leaflet-img"
-                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-11@2x-50-1.jpg" alt=""></div>
+                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-11@2x-50-1.jpg" alt="">
+                <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
+            </div>
         </div>
     </div>
 
