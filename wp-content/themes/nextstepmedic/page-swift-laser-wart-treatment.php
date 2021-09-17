@@ -235,8 +235,7 @@ get_header();
 
             </a>
             <div class="accordion-content">
-                <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50-1-scaled.jpg"
-                    alt="">
+
                 <div class="mt-3">
                     <ul class="grey-bold">
                         <li>Faster</li>
