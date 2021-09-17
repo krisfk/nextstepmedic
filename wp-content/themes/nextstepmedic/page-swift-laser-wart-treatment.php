@@ -244,7 +244,7 @@ get_header();
                     (usually 2 seconds in duration). SWIFT delivers a precise, highly controlled dose of microwave
                     energy to a pre-determined depth into the skin.
 
-                    <ul class="grey-bold">
+                    <ul class="grey-bold mt-4">
                         <li>Cleaner</li>
                     </ul>
                     Microwave therapy does not produce smoke, plume, or smell that laser or electrocautery devices
@@ -260,7 +260,7 @@ get_header();
                     The precision treatment of SWIFT does not break the skin – meaning no blisters, no padding, no
                     scarring – overall resulting to a cleaner, safer alternative.
 
-                    <ul class="grey-bold">
+                    <ul class="grey-bold  mt-4">
                         <li>Digital Time and Power dials: ensure consistent and precise energy delivery</li>
                         <li>Advanced alarm systems: ensure maximum safety for patients</li>
                         <li>Internal components: similar to those used in interventional oncology</li>
