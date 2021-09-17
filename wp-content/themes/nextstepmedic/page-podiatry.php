@@ -222,18 +222,48 @@ get_header();
                 <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
 
                 <div class="hide-content">
-                    Common foot problems that your child may suffer from are:
-                    <ul class="ps-3">
-                        <li>Club foot</li>
-                        <li>Heel pain (Sever’s Disease)</li>
-                        <li>Ingrown toenails</li>
-                        <li>Knee pain (Osgood Schlatter’s disease)</li>
-                        <li>Metatarsus Adductus</li>
-                        <li>Sprained ankle</li>
-                        <li>Tarsal coalitions</li>
-                        <li>Tinea athletes foot</li>
-                        <li>Warts (verrucae)</li>
+
+
+                    Poor glucose control generally causes two main complications in the feet:
+                    <ul>
+                        <li>Nerve damage that results in peripheral neuropathy</li>
+                        <li>Poor blood supply & circulation</li>
                     </ul>
+                    If nerve damage occurs, you may experience some of the following symptoms in your feet:
+                    <ul>
+                        <li>Numbness or altered sensation</li>
+                        <li>Pins & needles in the feet</li>
+                        <li>Burning pain in the legs and feet, usually more noticeable at night</li>
+                        <li>Coldness in the legs and feet. </li>
+                    </ul>
+                    Long Term Lower Limb Complications of Diabetes:
+                    <ul>
+                        <li>Loss of protective sensation</li>
+                        <li>Decreased blood supply to the feet</li>
+                        <li>Increased risk of infection</li>
+                        <li>Diabetic foot ulcers, amputations and gangrene.</li>
+                    </ul>
+                    A diabetes foot assessment performed by a podiatrist every 3 to 12 months is advisable, depending on
+                    your risk category, the podiatrist will use the following validated assessment tools to establish a
+                    foot risk status:
+                    <ul>
+
+                        <li>Neurological Assessment </li>
+                        <li>Vascular Assessment</li>
+                        <li>Footwear assessment </li>
+                        <li>Dermatological Assessment</li>
+                        <li>Screen for skin cancers</li>
+                        <li>General foot and Nail care </li>
+                        <li>Diabetic foot health education and information </li>
+                    </ul>
+
+                    Once a foot risk status is determined, the podiatrist may make recommendations based on the results.
+                    This may include recommendations for footwear modifications and orthotics to reduce high plantar
+                    pressure sites that are at risk of ulceration. 
+                    <br> <br>
+                    Recommendations are made to help you achieve your goal and follow up appointments are scheduled
+                    based on your specific needs and desired outcomes.
+
                 </div>
             </div>
         </div>
