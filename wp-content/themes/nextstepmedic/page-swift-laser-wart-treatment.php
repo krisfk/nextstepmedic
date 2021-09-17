@@ -195,6 +195,9 @@ get_header();
 
     </ul>
 
+
+    <div class="service-title">Treatments for Plantar Warts and Palmar Warts</div>
+
     <div class="sep"></div>
 
     <div class="row mt-4">
