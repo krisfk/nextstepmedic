@@ -48,7 +48,7 @@ get_header();
 
                 They can also treat and alleviate day-to-day foot problems, including:
 
-                <ul class="mt-3 ps-4">
+                <ul class="mt-3 ps-3">
                     <li>Athlete's foot</li>
                     <li>Ageing feet</li>
                     <li>Blisters</li>
