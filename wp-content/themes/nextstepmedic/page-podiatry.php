@@ -37,16 +37,36 @@ get_header();
     <div class="row mt-5">
 
 
-        <div class="col-6"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-1@2x-50.jpg
-        " alt=""></div>
+        <div class="col-6"><img class="w-100"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-1@2x-50-1.jpg" alt=""></div>
         <div class="col-6">
-            <div class="service-subtitle">What is Orthopaedics & Traumatology?</div>
-            <div class="mt-3">Orthopaedics focuses on injuries and diseases of the musculoskeletal system (the body’s
-                muscles,
-                skeleton and related connective tissues), including the spine, joints, ligaments, tendons and nerves.
-                <br> <br>
-                Explore our available private orthopaedics treatment options below and book your appointment today so
-                that you can start to feel good again.
+            <div class="service-subtitle">What Does A Podiatrist Treat?</div>
+            <div class="mt-3">
+
+                Are you looking for a foot doctor? Podiatrists are healthcare professionals who have been trained to
+                diagnose and treat abnormal conditions of the feet and lower limbs. <br> <br>
+
+                They can also treat and alleviate day-to-day foot problems, including:
+
+                <ul>
+                    <li>Athlete's foot</li>
+                    <li>Ageing feet</li>
+                    <li>Blisters</li>
+                    <li>Bunions</li>
+                    <li>Corns and calluses</li>
+                    <li>Dry and cracked heels</li>
+                    <li>Flat feet</li>
+                    <li>Gout</li>
+                    <li>Heel pain</li>
+                    <li>Smelly feet</li>
+                    <li>Sports injuries</li>
+                    <li>Toenail problems (thickened toenails, fungal nail infections or
+                        ingrown toenails)</li>
+                    <li>Verrucas</li>
+                </ul>
+
+
+
             </div>
             <div class="mt-3">
                 <a href="#" class="brown-round-btn">Book an Appointment</a>
