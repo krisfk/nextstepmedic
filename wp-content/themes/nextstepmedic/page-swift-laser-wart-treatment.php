@@ -126,25 +126,21 @@ get_header();
             </a>
             <div class="accordion-content">
 
+
                 <div class="row">
-
-                    <div class="col-6"> A manipulation is a technique that can be applied to patients whose
-                        condition is not easily irritated, if there is local muscle guarding then this must be
-                        addressed first. Manipulations are quicker techniques performed at the end of the joints
-                        range of motion, this helps to break down scar tissue and release pressure within the joint
-                        which sometimes causes this technique to make a ‘crack’ known as a cavitation. Most commonly
-                        spinal joints are those that we may choose to treat with manipulation, although these
-                        treatment techniques can be used with other joints.
-                        <br> <br>
-                        Manipulations can demonstrate immediate improvements in the range and quality of movement
-                        for the right category of patient, your Physiotherapist will assess your suitability for
-                        these techniques and ensure you are fully aware of what to expect.
-
-                    </div>
                     <div class="col-6">
-                        <img class="w-100"
-                            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-1.jpg" alt="">
+                        The HPV strains that cause plantar warts are not highly contagious. The virus is not easily
+                        transmitted by direct contact from one person to another. But it thrives in warm, moist
+                        environments. Consequently, you may contract the virus by walking barefoot around swimming pools
+                        or locker rooms. If the virus spreads from the first site of infection, more warts may appear.
+
+
                     </div>
+                    <div class="col-6"><img class="w-100"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-13@2x-50-1.jpg" alt="">
+                    </div>
+
+
                 </div>
 
 
