@@ -40,10 +40,10 @@ get_header();
         <div class="col-6"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-2.jpg
         " alt=""></div>
         <div class="col-6">
-            <div class="service-subtitle">What is Physiotherapy?</div>
-            <div class="mt-3">Physiotherapy is a health care profession which provides direct patient care to persons
-                who have musculoskeletal condition like backaches, sciatica, headaches, pregnancy back pain, neck pain,
-                whiplash, frozen shoulder, postural abnormality, sports injuries and work-related injuries, RSI, etc.
+            <div class="service-subtitle">What Are Plantar Warts?</div>
+            <div class="mt-3">Plantar warts or verruca are small growths that usually appear on the heels or other
+                weight-bearing areas of your feet. This pressure may also cause plantar warts to grow inward beneath a
+                hard, thick layer of skin (callus).
 
             </div>
             <div class="mt-3">
