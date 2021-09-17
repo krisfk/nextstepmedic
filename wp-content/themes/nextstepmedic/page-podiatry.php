@@ -199,6 +199,46 @@ get_header();
     </div>
 
 
+    <div class="row mt-5">
+
+        <div class="col-6"><img class="w-100"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50-3.jpg" alt=""></div>
+
+        <div class="col-6">
+            <div class="grey-bold">Children's Foot Assessments
+
+
+            </div>
+            <div class="mt-3">
+
+
+                As children and toddlers grow and develop, they can suffer from a range of foot problems. We believe by
+                assessing children’s feet early in their lives that any issues can be picked up and addressed before
+                becoming more problematic. Prevention is always better than cure!
+
+            </div>
+            <div class="mt-3">
+                <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
+
+                <div class="hide-content">
+                    Common foot problems that your child may suffer from are:
+                    <ul class="ps-3">
+                        <li>Club foot</li>
+                        <li>Heel pain (Sever’s Disease)</li>
+                        <li>Ingrown toenails</li>
+                        <li>Knee pain (Osgood Schlatter’s disease)</li>
+                        <li>Metatarsus Adductus</li>
+                        <li>Sprained ankle</li>
+                        <li>Tarsal coalitions</li>
+                        <li>Tinea athletes foot</li>
+                        <li>Warts (verrucae)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
 
 
 
