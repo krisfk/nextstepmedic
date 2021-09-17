@@ -206,9 +206,9 @@ get_header();
 
 
         <div class="col-6">
-            <div class="service-subtitle"> In some cases, a plantar wart will resolve naturally. Other cases may require
+            <div class="">
+                In some cases, a plantar wart will resolve naturally. Other cases may require
                 treatment. The Next Step Medical Clinic provide you alternative treatment options:
-
 
             </div>
 
