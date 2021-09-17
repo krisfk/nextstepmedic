@@ -118,7 +118,7 @@ get_header();
         </div>
     </div>
 
-    <div class="service-subtitle">Podiatry Services</div>
+    <div class="service-subtitle text-center mt-5">Podiatry Services</div>
 
 
 
