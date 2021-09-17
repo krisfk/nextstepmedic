@@ -205,16 +205,17 @@ get_header();
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x-50-2.jpg" alt=""></div>
 
         <div class="col-6">
-            <div class="grey-bold">Children's Foot Assessments
+            <div class="grey-bold">Diabetic Foot Care
+
 
 
             </div>
             <div class="mt-3">
 
+                Diabetes can reduce the blood supply and damage the nerves in your feet, leading to a number of serious
+                foot problems which is why it is recommended to have a diabetes foot assessment performed by a
+                podiatrist and ongoing podiatry care if necessary.
 
-                As children and toddlers grow and develop, they can suffer from a range of foot problems. We believe by
-                assessing children’s feet early in their lives that any issues can be picked up and addressed before
-                becoming more problematic. Prevention is always better than cure!
 
             </div>
             <div class="mt-3">
