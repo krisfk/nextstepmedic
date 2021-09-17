@@ -399,7 +399,14 @@ get_header();
         </div>
     </div>
 
+    <div class="service-subtitle mt-5">For More Details</div>
 
+    <div>
+        <div class="row">
+            <div class="col-3"></div>
+            <div class="col-3"></div>
+        </div>
+    </div>
 
     <div class="sep"></div>
 
