@@ -248,7 +248,8 @@ get_header();
 
 
     <ul class="accordion">
-        <li><a href="javascript:void(0);"> What are the symptoms of plantar warts?
+        <li><a href="javascript:void(0);">How does SWIFT Wart Therapy work?
+
             </a>
 
             <div class="accordion-content">
@@ -283,7 +284,8 @@ get_header();
 
             </div>
         </li>
-        <li><a href="javascript:void(0);">What are the causes of warts?
+        <li><a href="javascript:void(0);">How is SWIFT a better wart therapy than other treatments?
+
             </a>
             <div class="accordion-content">
                 <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50-1-scaled.jpg"
@@ -326,7 +328,8 @@ get_header();
             </div>
 
         </li>
-        <li><a href="javascript:void(0);"> Is the virus transmissible?
+        <li><a href="javascript:void(0);">Does SWIFT Wart Treatment hurt?
+
             </a>
             <div class="accordion-content">
 
@@ -358,7 +361,17 @@ get_header();
         </li>
 
 
+        <li><a href="javascript:void(0);">How will I feel after SWIFT Wart Treatment?
 
+
+            </a>
+        </li>
+        <li><a href="javascript:void(0);">How many treatments will I need?
+
+
+
+            </a>
+        </li>
     </ul>
 
 
