@@ -226,7 +226,7 @@ get_header();
 
     </div>
 
-    <div class="mt-3">
+    <div class="mt-5">
 
         <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x-50-3-scaled.jpg"
             alt="">
