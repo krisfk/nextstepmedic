@@ -202,7 +202,7 @@ get_header();
     <div class="row mt-5">
 
         <div class="col-6"><img class="w-100"
-                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50-3.jpg" alt=""></div>
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x-50-2.jpg" alt=""></div>
 
         <div class="col-6">
             <div class="grey-bold">Children's Foot Assessments
