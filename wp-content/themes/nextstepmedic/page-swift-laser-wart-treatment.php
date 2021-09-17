@@ -198,6 +198,34 @@ get_header();
 
     <div class="service-subtitle mt-5">Treatments for Plantar Warts and Palmar Warts</div>
 
+    <div class="row mt-5">
+
+
+        <div class="col-6"><img class="w-100"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-3.jpg" alt=""></div>
+
+
+        <div class="col-6">
+            <div class="service-subtitle"> Why Choose The Next Step?
+
+            </div>
+            <div class="mt-3">
+
+                Our close-knit team of Consultant Surgeons and Specialists work together in a multidisciplinary
+                fashion, enabling us to offer patients something truly unique: the feeling of trust and safety of a
+                small family practice with the convenience and accessibility of a state-of-the-art treatment centre
+                in the heart of Central, Hong Kong.
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+
     <div class="sep"></div>
 
     <div class="row mt-4">
