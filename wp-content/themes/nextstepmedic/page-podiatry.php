@@ -305,6 +305,42 @@ get_header();
     </div>
 
 
+    <div class="row mt-5">
+
+        <div class="col-6"><img class="w-100"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-2.jpg" alt=""></div>
+
+        <div class="col-6">
+            <div class="grey-bold">Gait and Biomechanical Assessment
+
+            </div>
+            <div class="mt-3">
+
+                Our body parts are interconnected, and pain in one area can often originate elsewhere. By examining the
+                entire body, Biomechanical Assessments can help diagnose and resolve associative pain and injuries.
+
+            </div>
+            <div class="mt-3">
+                <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
+
+                <div class="hide-content">
+
+                    A static and dynamic biomechanics assessment is an investigation into your lower limb function –
+                    looking closely for abnormalities and compensations. The assessment will focus on the structure,
+                    posture, range of motion, plantar pressure, alignment, strengths and weaknesses of the foot and will
+                    include the pelvis, legs and knees and how they work together as pain in one area can indicate a
+                    weakness or structural problem in another. The information gained from a biomechanical assessment
+                    forms the basis for a rehabilitation programme, or if the problem is mechanical, an orthotic will be
+                    prescribed.
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
 
 
 
