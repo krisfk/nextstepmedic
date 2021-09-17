@@ -225,19 +225,19 @@ get_header();
 
 
                     Poor glucose control generally causes two main complications in the feet:
-                    <ul>
+                    <ul class=" ps-3">
                         <li>Nerve damage that results in peripheral neuropathy</li>
                         <li>Poor blood supply & circulation</li>
                     </ul>
                     If nerve damage occurs, you may experience some of the following symptoms in your feet:
-                    <ul>
+                    <ul class=" ps-3">
                         <li>Numbness or altered sensation</li>
                         <li>Pins & needles in the feet</li>
                         <li>Burning pain in the legs and feet, usually more noticeable at night</li>
                         <li>Coldness in the legs and feet. </li>
                     </ul>
                     Long Term Lower Limb Complications of Diabetes:
-                    <ul>
+                    <ul class=" ps-3">
                         <li>Loss of protective sensation</li>
                         <li>Decreased blood supply to the feet</li>
                         <li>Increased risk of infection</li>
@@ -246,7 +246,7 @@ get_header();
                     A diabetes foot assessment performed by a podiatrist every 3 to 12 months is advisable, depending on
                     your risk category, the podiatrist will use the following validated assessment tools to establish a
                     foot risk status:
-                    <ul>
+                    <ul class=" ps-3">
 
                         <li>Neurological Assessment </li>
                         <li>Vascular Assessment</li>
@@ -410,7 +410,7 @@ get_header();
 
 
                     We have put together a list of common conditions that benefit from the use of orthotics.
-                    <ul>
+                    <ul class=" ps-3">
                         <li>Achilles Tendinopathy</li>
                         <li>Aching feet</li>
                         <li>Arch soreness</li>
@@ -480,7 +480,7 @@ get_header();
                 Kong has provided him with a comprehensive understanding of diagnosis and treatment of a wide array of
                 pathologies of the foot and lower leg, including:
 
-                <ul>
+                <ul class=" ps-3">
                     <li>Athletic and sports injuries of the foot, knee, and hip</li>
                     <li>Biomechanical assessments (examination of the lower limbs, looking at their structure,
                         alignment,
