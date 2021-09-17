@@ -95,6 +95,29 @@ get_header();
         </div>
     </div>
 
+    <div class="row mt-5">
+
+
+        <div class="col-6"><img class="w-100"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-4.jpg" alt=""></div>
+        <div class="col-6">
+            <div class="service-subtitle">What Happens During A Podiatry
+                Treatment?
+
+            </div>
+            <div class="mt-3">
+
+                Our routine podiatry appointments are around 30 minutes long. During your first appointment, a full
+                medical record including any medication is needed. A foot health assessment is performed which used in
+                combination with your concerns allows the Podiatrist to tailor the treatment to your needs. Any foot
+                complaints you have can be addressed and further advice provided if needed.
+
+
+            </div>
+
+        </div>
+    </div>
+
 
 
 
