@@ -137,6 +137,23 @@ get_header();
             </div>
             <div class="mt-3">
                 <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
+
+                <div class="hide-content">
+                    We offer routine foot care and foot health, as well as treatments for:
+                    <ul>
+                        <li>Athlete’s foot</li>
+                        <li>Biomechanics (arch supports)</li>
+                        <li>Bunion treatment</li>
+                        <li>Corn / Callus removal</li>
+                        <li>Cracked heels</li>
+                        <li>Foot pain related problems</li>
+                        <li>Fungal nails</li>
+                        <li>Hard skin removal</li>
+                        <li>Nail cutting</li>
+                        <li>Nail surgery</li>
+                        <li>Verrucae treatment</li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
