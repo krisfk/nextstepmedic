@@ -342,6 +342,99 @@ get_header();
     </div>
 
 
+    <div class="row mt-5">
+
+        <div class="col-6">
+            <div class="grey-bold">Orthotics / Insoles / Footwear
+
+            </div>
+            <div class="mt-3">
+
+                Custom foot orthotics are specialized shoe inserts that can help treating your foot and leg problems.
+                Many ‘biomechanical’ (walking) complaints such as heel pain, knee pain and lower back pain are caused by
+                poor foot function.
+
+
+            </div>
+            <div class="mt-3">
+                <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
+
+                <div class="hide-content">
+
+                    Orthotics re-aligns the foot and ankle bones to their neutral position, thereby restoring natural
+                    foot function. In turn this helps alleviate problems in other parts of the body.
+                    <br> <br>
+                    In addition, orthotics gives a more even weight distribution, taking pressure of sore spots (e.g.,
+                    the ball of the foot, corns in between toes, bunions) and they provide some shock absorption.
+
+
+
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-6"><img class="w-100"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-2.jpg" alt=""></div>
+
+
+    </div>
+
+
+
+
+    <div class="row mt-5">
+
+
+        <div class="col-6"><img class="w-100"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@2x-50-1.jpg" alt=""></div>
+
+
+        <div class="col-6">
+            <div class="grey-bold">Orthotics Management, 3D Scanning for Orthotics
+
+            </div>
+            <div class="mt-3">
+
+                Our custom orthoses are designed to support, align and improve the function of your feet and lower
+                limbs. This service includes casting, one pair of custom orthoses, standard covers, dispensing, and a
+                follow-up appointment. We also provide prefabricated orthotic and repair services.
+
+
+
+            </div>
+            <div class="mt-3">
+                <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
+
+                <div class="hide-content">
+
+
+                    We have put together a list of common conditions that benefit from the use of orthotics.
+                    <ul>
+                        <li>Achilles Tendinopathy</li>
+                        <li>Aching feet</li>
+                        <li>Arch soreness</li>
+                        <li>Bunions</li>
+                        <li>Bursitis</li>
+                        <li>Flat feet (excessive foot pronation)</li>
+                        <li>Heel pain and spurs</li>
+                        <li>High arched feet (excessive foot supination)</li>
+                        <li>Morton’s Neuroma</li>
+                        <li>Plantar Fasciitis</li>
+                        <li>Sore shins (shin splints)</li>
+                    </ul>
+                    If you are experiencing any kind of foot or lower limb pain or discomfort, then orthotics may play
+                    an important part in your treatment.
+
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+
+
 
 
 
