@@ -305,7 +305,7 @@ get_header();
         </div>
 
         <div class="col-6"><img class="w-100"
-                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-4.jpg" alt=""></div>
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-2.jpg" alt=""></div>
 
     </div>
 
