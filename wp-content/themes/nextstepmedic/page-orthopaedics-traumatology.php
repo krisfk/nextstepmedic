@@ -108,7 +108,7 @@ get_header();
             <div class="grey-bold mt-3">
                 Common Musculoskeletal Problems
             </div>
-            <ul class="mt-3">
+            <ul class="mt-3 ps-3">
                 <li>Elbow Pain</li>
                 <li>Foot & Ankle
                     Pain</li>
@@ -139,7 +139,7 @@ get_header();
             <div class="service-subtitle">Extensive Treatments Available
             </div>
 
-            <ul class="mt-3">
+            <ul class="mt-3 ps-3">
                 <li>Arthroscopy</li>
                 <li>Assistive Devices</li>
                 <li>Casts - Pediatric</li>
