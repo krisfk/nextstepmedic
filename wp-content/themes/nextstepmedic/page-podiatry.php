@@ -120,6 +120,26 @@ get_header();
 
     <div class="service-subtitle text-center mt-5">Podiatry Services</div>
 
+    <div class="row mt-5">
+
+
+        <div class="col-6"><img class="w-100"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-4.jpg" alt=""></div>
+        <div class="col-6">
+            <div class="">General Podiatry Care
+
+            </div>
+            <div class="mt-3">
+
+                We diagnose and treat all foot disorders and deformities, as well as providing general foot treatment
+                and advice. We treat all problems on feet of all ages as well as all problems associated with a wide
+                range of medical conditions.
+
+
+            </div>
+
+        </div>
+    </div>
 
 
 
