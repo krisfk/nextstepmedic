@@ -55,7 +55,7 @@ get_header();
 
         </div>
         <div class="col-6">
-            <div class="service-subtitle">FAQ</div>
+            <div class="service-subtitle">What Are Plantar ?</div>
             <div class="mt-3">Plantar warts or verruca are small growths that usually appear on the heels or other
                 weight-bearing areas of your feet. This pressure may also cause plantar warts to grow inward beneath a
                 hard, thick layer of skin (callus).
