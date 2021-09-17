@@ -37,8 +37,18 @@ get_header();
     <div class="row mt-5">
 
 
-        <div class="col-6"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-2.jpg
-        " alt=""></div>
+        <div class="col-6">a
+
+
+            <div class="row">
+                <div class="col-6"><img class="w-100"
+                        src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-5.jpg" alt=""></div>
+                <div class="col-6"><img class="w-100"
+                        src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-5.jpg" alt=""></div>
+            </div>
+
+
+        </div>
         <div class="col-6">
             <div class="service-subtitle">What Are Plantar Warts?</div>
             <div class="mt-3">Plantar warts or verruca are small growths that usually appear on the heels or other
