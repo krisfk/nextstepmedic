@@ -140,7 +140,7 @@ get_header();
 
                 <div class="hide-content">
                     We offer routine foot care and foot health, as well as treatments for:
-                    <ul>
+                    <ul class="ps-3">
                         <li>Athlete’s foot</li>
                         <li>Biomechanics (arch supports)</li>
                         <li>Bunion treatment</li>
