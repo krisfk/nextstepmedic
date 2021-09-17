@@ -162,38 +162,39 @@ get_header();
     <div class="row mt-5">
 
         <div class="col-6">
-            <div class="grey-bold">General Podiatry Care
+            <div class="grey-bold">Children's Foot Assessments
+
 
             </div>
             <div class="mt-3">
 
-                We diagnose and treat all foot disorders and deformities, as well as providing general foot treatment
-                and advice. We treat all problems on feet of all ages as well as all problems associated with a wide
-                range of medical conditions.
+
+                As children and toddlers grow and develop, they can suffer from a range of foot problems. We believe by
+                assessing children’s feet early in their lives that any issues can be picked up and addressed before
+                becoming more problematic. Prevention is always better than cure!
+
             </div>
             <div class="mt-3">
                 <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
 
                 <div class="hide-content">
-                    We offer routine foot care and foot health, as well as treatments for:
+                    Common foot problems that your child may suffer from are:
                     <ul class="ps-3">
-                        <li>Athlete’s foot</li>
-                        <li>Biomechanics (arch supports)</li>
-                        <li>Bunion treatment</li>
-                        <li>Corn / Callus removal</li>
-                        <li>Cracked heels</li>
-                        <li>Foot pain related problems</li>
-                        <li>Fungal nails</li>
-                        <li>Hard skin removal</li>
-                        <li>Nail cutting</li>
-                        <li>Nail surgery</li>
-                        <li>Verrucae treatment</li>
+                        <li>Club foot</li>
+                        <li>Heel pain (Sever’s Disease)</li>
+                        <li>Ingrown toenails</li>
+                        <li>Knee pain (Osgood Schlatter’s disease)</li>
+                        <li>Metatarsus Adductus</li>
+                        <li>Sprained ankle</li>
+                        <li>Tarsal coalitions</li>
+                        <li>Tinea athletes foot</li>
+                        <li>Warts (verrucae)</li>
                     </ul>
                 </div>
             </div>
         </div>
         <div class="col-6"><img class="w-100"
-                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-4.jpg" alt=""></div>
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50-3.jpg" alt=""></div>
 
     </div>
 
