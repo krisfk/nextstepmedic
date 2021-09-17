@@ -87,30 +87,28 @@ get_header();
 
             <div class="accordion-content">
 
-                <div class="row">
+                <ul>
+                    <li>A small, fleshy, rough, grainy growth (lesion) on the bottom of your foot, usually the base of
+                        the
+                        toes and forefoot or the heel</li>
+                    <li>Hard, thickened skin (callus) over a well-defined "spot" on the skin, where a wart has grown
+                        inward</li>
+                    <li>Black pinpoints, which are commonly called wart seeds but are actually small, clotted blood
+                        vessels</li>
+                    <li>A lesion that interrupts the normal lines and ridges in the skin of your foot</li>
+                    <li>Pain or tenderness when walking or standing</li>
+                </ul>
 
-                    <div class="col-6"> Mobilisations of joints and soft tissues are very useful techniques in
-                        helping restore normal
-                        movement. Mobilisations increase movement at stiff joints and thus allow you to access
-                        better
-                        movement patterns, postures and simply feel looser. <br> <br>
 
-                        Mobilisations are graded by fully trained therapist accordingly and therefore can be applied
-                        at
-                        virtually any stage of the healing process to ensure good quality healing takes place. A
-                        low-grade
-                        mobilisation helps to reduce pain and stimulate healing, higher grades help to break down
-                        unwanted
-                        scar tissue, promote nutrition and increase range of motion. Mobilisations can be applied
-                        with
-                        movement. Such treatment is very effective as it encompasses activity within your muscles
-                        with a
-                        hands on technique to help return your movement back to ‘normal’.</div>
-                    <div class="col-6">
-                        <img class="w-100"
-                            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-1.jpg" alt="">
-                    </div>
-                </div>
+
+
+
+
+
+
+
+
+
 
 
 
