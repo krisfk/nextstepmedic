@@ -333,7 +333,8 @@ get_header();
 
 
     <ul class="accordion">
-        <li><a href="javascript:void(0);">How does SWIFT Wart Therapy work?
+        <li><a href="javascript:void(0);">How does the Lunula Laser work?
+
 
             </a>
 
@@ -344,7 +345,10 @@ get_header();
 
             </div>
         </li>
-        <li><a href="javascript:void(0);">How is SWIFT a better wart therapy than other treatments?
+        <li><a href="javascript:void(0);">
+
+
+                What Patients Should expect During Laser Treatment?
 
             </a>
             <div class="accordion-content">
@@ -354,7 +358,8 @@ get_header();
             </div>
 
         </li>
-        <li><a href="javascript:void(0);">Does SWIFT Wart Treatment hurt?
+        <li><a href="javascript:void(0);">What are the possible side effects?
+
 
             </a>
             <div class="accordion-content">
@@ -366,7 +371,8 @@ get_header();
         </li>
 
 
-        <li><a href="javascript:void(0);">How will I feel after SWIFT Wart Treatment?
+        <li><a href="javascript:void(0);">How effective is the treatment?
+
 
 
             </a>
@@ -376,7 +382,8 @@ get_header();
 
             </div>
         </li>
-        <li><a href="javascript:void(0);">How many treatments will I need?
+        <li><a href="javascript:void(0);">Does it hurt?
+
 
 
 
