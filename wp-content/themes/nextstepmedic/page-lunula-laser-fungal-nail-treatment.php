@@ -475,9 +475,9 @@ get_header();
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-18@2x-50-1.jpg"
                                     alt="">
                             </td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
+                            <td class="grey-bold">10.41</td>
+                            <td class="grey-bold">16.24</td>
+                            <td class="gold-bg"></td>
                             <td></td>
                         </tr>
                         <!-- <tr>

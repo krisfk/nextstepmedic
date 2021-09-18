@@ -834,3 +834,7 @@ a.ui-button:active,
 .nail-before-after-table td img {
     margin: 0.5rem 0 0 0;
 }
+
+.gold-bg {
+    background: #bf9d81;
+}
