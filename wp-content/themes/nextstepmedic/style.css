@@ -823,5 +823,8 @@ a.ui-button:active,
     color: #fff;
     font-family: 'Futura-Bold';
     width: 25%;
+}
+
+.nail-before-after-table td {
     padding: 2rem;
 }
