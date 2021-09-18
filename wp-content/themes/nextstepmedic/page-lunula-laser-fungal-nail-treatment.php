@@ -249,7 +249,8 @@ get_header();
 
 
     <div class="row">
-        <div class="col-6"> <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x.png" alt="">
+        <div class="col-6"> <img class="circle-icon"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x.png" alt="">
             <div class="grey-bold">100% Pain Free
             </div>
 
