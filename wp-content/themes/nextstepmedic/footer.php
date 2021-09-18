@@ -28,7 +28,7 @@
 
                 <ul>
                     <li class="footer-subtitle">
-                        <a href="#">
+                        <a href="<?php echo get_site_url()?>/about-us">
                             Our Team</a>
                     </li>
                 </ul>
@@ -36,7 +36,7 @@
                 <ul class="mt-5">
 
                     <li class="footer-subtitle">
-                        <a href="#">
+                        <a href="<?php echo get_site_url()?>/services">
                             Our Services</a>
                     </li>
 
