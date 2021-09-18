@@ -414,18 +414,6 @@ get_header();
                 The procedure is quick and painless, and each foot takes about 12 minutes to treat. Most patients have
                 multiple sessions to see optimal results, and sessions are usually spaced out about seven days apart.
 
-
-
-
-
-
-
-
-
-
-
-
-
             </div>
 
         </li>
@@ -436,6 +424,9 @@ get_header();
             <div class="accordion-content">
 
 
+                No significant side effects have been reported.
+                <img class="circle-icon" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-16@2x.png"
+                    alt="">
 
 
             </div>
