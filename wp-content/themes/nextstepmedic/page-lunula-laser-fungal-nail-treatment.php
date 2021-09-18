@@ -510,6 +510,25 @@ get_header();
                             <td class="gold-bg">4.41</td>
                         </tr>
 
+                        <tr>
+                            <td>#196
+                                <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
+                                    alt="">
+                            </td>
+                            <td>#118
+                                <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
+                                    alt="">
+                            </td>
+                            <td class="grey-bold">4.48</td>
+                            <td class="grey-bold">11.48</td>
+                            <td class="gold-bg">6.63</td>
+                        </tr>
+
+
+
+
 
 
 
