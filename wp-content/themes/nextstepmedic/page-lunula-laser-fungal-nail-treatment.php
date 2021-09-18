@@ -248,7 +248,7 @@ get_header();
 
 
 
-    <div class="row">
+    <div class="row mt-5">
         <div class="col-6">
 
             <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x.png"
