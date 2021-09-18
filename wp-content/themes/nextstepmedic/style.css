@@ -799,4 +799,6 @@ a.ui-button:active,
 
 .circle-icon {
     width: 120px;
+    margin: 0 auto;
+    display: block;
 }
