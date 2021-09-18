@@ -58,14 +58,14 @@ get_header();
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50.jpg" alt="">
             <div class="service-title-div">
                 <div class="service-title">Physiotherapy</div>
-                <a href="javascript:void(0);" class="read-more-btn">Read More</a>
+                <a href="<?php get_site_url()?>/physiotherapy" class="read-more-btn">Read More</a>
             </div>
         </div>
         <div class="col-4 service-col"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x-50.jpg" alt="">
             <div class="service-title-div">
                 <div class="service-title">Podiatry </div>
-                <a href="javascript:void(0);" class="read-more-btn">Read More</a>
+                <a href="<?php get_site_url()?>/podiatry" class="read-more-btn">Read More</a>
             </div>
         </div>
 
@@ -80,7 +80,7 @@ get_header();
                     For Wart Treatment
 
                 </div>
-                <a href="javascript:void(0);" class="read-more-btn">Read More</a>
+                <a href="<?php get_site_url()?>/swift-laser-wart-treatment" class="read-more-btn">Read More</a>
             </div>
         </div>
         <div class="col-4 service-col">
@@ -89,7 +89,7 @@ get_header();
             <div class="service-title-div">
                 <div class="service-title">Lunula Laser - For Fungal Nails
                 </div>
-                <a href="javascript:void(0);" class="read-more-btn">Read More</a>
+                <a href="<?php get_site_url()?>/lunula-laser-fungal-nail-treatment" class="read-more-btn">Read More</a>
             </div>
         </div>
 
