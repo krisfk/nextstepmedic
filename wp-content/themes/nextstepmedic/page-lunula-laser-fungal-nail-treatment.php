@@ -266,8 +266,22 @@ get_header();
             </ul>
         </div>
 
-        <div class="col-6"></div>
+        <div class="col-6">
 
+            <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x.png"
+                alt="">
+
+            <div class="grey-bold">100% Pain Free
+            </div>
+
+            <ul class="mt-4 ps-3">
+                <li>The first and only non-thermal (Cold Laser) FDA Market Cleared laser device for the temporary
+                    increase
+                    of clear nail for patients with Onychomycosis</li>
+                <li>The patient will feel NO heat or pain from the laser</li>
+
+            </ul>
+        </div>
     </div>
 
     <div class="service-subtitle mt-5">FAQ</div>
