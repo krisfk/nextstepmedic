@@ -447,7 +447,7 @@ get_header();
                 <div class="gold-bold">Before / After:
                 </div>
 
-                <table class="nail-before-after-table">
+                <table class="nail-before-after-table w-100">
                     <thead>
                         <tr>
                             <th>Photo Code#: <br>
@@ -463,14 +463,14 @@ get_header();
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
+                        <!-- <tr>
                             <td>January</td>
                             <td>$100</td>
                         </tr>
                         <tr>
                             <td>February</td>
                             <td>$80</td>
-                        </tr>
+                        </tr> -->
                     </tbody>
                     <!-- <tfoot>
                         <tr>
