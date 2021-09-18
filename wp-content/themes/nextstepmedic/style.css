@@ -727,6 +727,12 @@ a.ui-button:active,
     font-family: 'Futura-Bold';
 }
 
+.grey-bold {
+    font-weight: bold;
+    font-family: 'Futura-Bold';
+    color: #bf9d81;
+}
+
 .sep {
     display: block;
     height: 1px;

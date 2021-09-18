@@ -441,6 +441,11 @@ get_header();
             </a>
             <div class="accordion-content">
 
+                Clinical studies show the Lunula laser course of treatment has the highest success rates of all the
+                treatments available with around an 85% success rate.
+
+                <div class="gold-bold">Before / After:
+                </div>
 
 
             </div>
