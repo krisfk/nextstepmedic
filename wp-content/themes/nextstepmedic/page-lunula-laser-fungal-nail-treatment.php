@@ -403,18 +403,26 @@ get_header();
     <div class="service-subtitle mt-5">Latest Research on Fungal Laser Treatment
     </div>
 
-    <div class="row mt-2">
 
-        <div class="col-6"><img class="w-100"
-                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-3.jpg" alt="">
-        </div>
-        <div class="col-6"><img class="w-100"
-                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50-3.jpg" alt="">
-        </div>
+
+
+    <div class="service-subtitle mt-5">Patient Reviews</div>
+
+    <div>
+        <a href="javascript:void(0);" class="brown-round-btn">A Retrospective Study of Non-thermal Laser Therapy for the
+            Treatment of Toenail
+            Onychomycosis
+        </a>
     </div>
+    <div>
+        <a href="javascript:void(0);" class="brown-round-btn">Clearing Onychomycosis through Low-Level Laser Therapy
 
-    <div class="service-subtitle mt-5">Patient Reviews
+        </a>
+    </div>
+    <div>
+        <a href="javascript:void(0);" class="brown-round-btn">Erchonia Laser Therapy in the Treatment of Onychomycosis
 
+        </a>
     </div>
 
     <div class="row mt-2">
