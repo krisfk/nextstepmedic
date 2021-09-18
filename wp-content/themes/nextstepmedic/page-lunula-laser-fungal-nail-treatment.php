@@ -425,8 +425,9 @@ get_header();
 
 
                 No significant side effects have been reported.
-                <img class="circle-icon" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-16@2x.png"
-                    alt="">
+                <!-- 1rem 0 0 0 -->
+                <img class="circle-icon mt-1 me-0 ms-0 mb-0"
+                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-16@2x.png" alt="">
 
 
             </div>
