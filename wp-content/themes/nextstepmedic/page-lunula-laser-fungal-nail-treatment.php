@@ -434,8 +434,9 @@ get_header();
     <a href="javascript:void(0);" class="mt-3 d-inline-block">
         <img class="rect-img" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-25@2x-50.jpg" alt="">
     </a>
-    <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
-
+    <div class="mt-3">
+        <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
+    </div>
 
     <div class="sep mt-4"></div>
 
