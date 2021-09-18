@@ -90,7 +90,22 @@ get_header();
             </a>
 
             <div class="accordion-content">
+                <div class="row">
 
+                    <div class="col-6"><img class="w-100"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x-50-2.jpg" alt="">
+                    </div>
+                    <div class="col-6">You may have nail fungus if one or more of your nails are:
+                        <ul>
+                            <li>Thickened</li>
+                            <li>Whitish to yellow-brown discoloration</li>
+                            <li>Brittle, crumbly or ragged</li>
+                            <li>Distorted in shape</li>
+                            <li>A dark color, caused by debris building up under your nail</li>
+                            <li>Smelling slightly foul</li>
+                        </ul>
+                    </div>
+                </div>
 
             </div>
         </li>
