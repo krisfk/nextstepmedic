@@ -814,6 +814,10 @@ a.ui-button:active,
     height: auto;
 }
 
+.nail-before-after-table {
+    text-align: center;
+}
+
 .nail-before-after-table th {
     background: #bf9d81;
     color: #fff;
