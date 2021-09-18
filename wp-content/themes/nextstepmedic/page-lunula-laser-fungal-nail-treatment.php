@@ -398,7 +398,9 @@ get_header();
     </ul>
 
 
-    <div class="service-subtitle mt-5">Feedback From Practitioners
+
+
+    <div class="service-subtitle mt-5">Latest Research on Fungal Laser Treatment
     </div>
 
     <div class="row mt-2">
