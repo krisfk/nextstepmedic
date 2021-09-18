@@ -110,32 +110,27 @@ get_header();
     </ul>
 
 
-    <div class="service-subtitle mt-5">Treatments for Plantar Warts and Palmar Warts</div>
-
-    <div class="row mt-5">
+    <div class="service-subtitle mt-5">Treatments for Fungal Nails</div>
 
 
-        <div class="col-6"><img class="w-100"
-                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50-4.jpg" alt=""></div>
+    <div class="mt-4">A typical Fungal Nail Consultation would involve the Podiatrist assessing and diagnosing the
+        infected nails. In
+        some cases, clippings or scrapings are taken and sent off site to be tested. The Podiatrist would then prep the
+        nails, by cutting them back and grinding them down to remove some of the thickness. <br> <br>
+
+        We would then run through the best treatment options for you, whether that be topical, oral or laser therapy,
+        you’ll also be coached on how best to self-manage your issue so that it does not reoccur.<br><br>
+
+        Fungal nail infections can be difficult to treat. Treatment depends on the severity of your condition and the
+        type of fungus causing it.
 
 
-        <div class="col-6">
-            <div class="">
-                In some cases, a plantar wart will resolve naturally. Other cases may require
-                treatment. The Next Step Medical Clinic provide you alternative treatment options:
 
-            </div>
 
-            <ul class="ps-3 mt-3">
-                <li>Curettage, which involves cutting out the wart</li>
-                <li>Liquid nitrogen, which can be used to “freeze” off the wart</li>
-                <li>Laser therapy</li>
-                <li>Natural remedies</li>
-                <li>Salicylic acid cream, a topical cream that can “burn” off the wart</li>
-                <li>Topical medication applied directly to the wart</li>
-            </ul>
 
-        </div>
+
+
+
 
 
     </div>
