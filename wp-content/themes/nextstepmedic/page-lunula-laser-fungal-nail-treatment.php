@@ -310,8 +310,8 @@ get_header();
         </div>
         <div class="col-6">
 
-            <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x.png"
-                alt="">
+            <img class="circle-icon mt-4 mb-4"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-16@2x.png" alt="">
 
             <div class="grey-bold">No significant side effects
 
