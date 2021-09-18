@@ -230,19 +230,20 @@ get_header();
 
     </div>
 
-    <!-- <div class="row big-banner-central-row position-relative gx-0 align-items-center"> -->
+</div>
+<div class="row big-banner-central-row position-relative gx-0 align-items-center">
 
-    <!-- <div class="col-12"> -->
+    <div class="col-12">
 
-    <div class="content-div service-title-div">
+        <div class="content-div service-title-div">
 
-        <h1 class="service-h1-title">Lunula Laser Fungal Nail Treatment
-        </h1>
+            <h1 class="service-h1-title">Lunula Laser Fungal Nail Treatment
+            </h1>
+        </div>
     </div>
-    <!-- </div> -->
-    <!-- </div> -->
+</div>
 
-
+<div class="container">
 
     <div class="mt-5">
 
