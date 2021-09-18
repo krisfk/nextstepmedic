@@ -43,23 +43,25 @@ get_header();
 
             <div class="row">
                 <div class="col-6">
-                    <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-5.jpg"
+                    <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-1@2x-50-2.jpg"
                         alt="">
-                    <div class="mt-2">Deep plantar wart</div>
+                    <div class="mt-2">Lateral fungal nail involvement
+                        in onychomycosis
+                    </div>
                 </div>
                 <div class="col-6"><img class="w-100"
-                        src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-5.jpg" alt="">
-                    <div class="mt-2">Young plantar warts</div>
+                        src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-4.jpg" alt="">
+                    <div class="mt-2">Superficial white onychomycosis</div>
                 </div>
             </div>
 
 
         </div>
         <div class="col-6">
-            <div class="service-subtitle">What Are Plantar Warts?</div>
-            <div class="mt-3">Plantar warts or verruca are small growths that usually appear on the heels or other
-                weight-bearing areas of your feet. This pressure may also cause plantar warts to grow inward beneath a
-                hard, thick layer of skin (callus).
+            <div class="service-subtitle">What Are Fungal Nail Infections?</div>
+            <div class="mt-3">Nail fungus is a common condition that begins as a white or yellow spot under the tip of
+                your fingernail or toenail. As the fungal infection goes deeper, nail fungus may cause your nail to
+                discolour, thicken and crumble at the edge. It can affect several nails.
 
             </div>
             <div class="mt-3">
