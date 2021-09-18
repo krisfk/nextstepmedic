@@ -431,7 +431,7 @@ get_header();
     <div class="service-subtitle mt-5">For More Details</div>
 
 
-    <a href="">
+    <a href="javascript:void(0);" class="mt-3">
         <img class="rect-img" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-25@2x-50.jpg" alt="">
     </a>
     <div class="sep mt-4"></div>
