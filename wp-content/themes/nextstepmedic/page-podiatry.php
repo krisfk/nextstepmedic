@@ -69,7 +69,8 @@ get_header();
 
             </div>
             <div class="mt-3">
-                <a href="#" class="brown-round-btn">Book an Appointment</a>
+                <a href="<?php echo get_site_url();?>/contact-us-book-online" class="brown-round-btn">Book an
+                    Appointment</a>
             </div>
         </div>
     </div>
