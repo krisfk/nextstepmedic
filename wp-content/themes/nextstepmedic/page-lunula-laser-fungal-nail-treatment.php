@@ -470,7 +470,10 @@ get_header();
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-17@2x-50-1.jpg"
                                     alt="">
                             </td>
-                            <td></td>
+                            <td>#049
+                                <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-18@2x-50-1.jpg"
+                                    alt="">
+                            </td>
                             <td></td>
                             <td></td>
                             <td></td>
