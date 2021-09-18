@@ -210,16 +210,15 @@ get_header();
 
         <div class="col-6">
 
-            <div class="grey-bold">Nail Surgery / Nail Avulsion
+            <div class="grey-bold">What is Lunula Laser?
+
 
 
             </div>
             <div class="mt-3">
-                In cases where a nail infection has progressed to the “severe” stage and is extremely painful, your
-                doctor may recommend removing your nail. A new nail will usually grow in its place, but it will come in
-                slowly and may take as long as a year to grow back completely.  Sometimes surgery is used in combination
-                with a topical solution that treats the nail bed to further inhibit the fungus.
-
+                The Erchonia Lunula laser device is a Low-Level Laser Light that is specifically designed for treating
+                onychomycosis – toenail fungus. Lunula Laser poses none of the risks and harmful side effects of oral
+                anti-fungal medications and is painless, unlike other laser therapies.
 
             </div>
         </div>
