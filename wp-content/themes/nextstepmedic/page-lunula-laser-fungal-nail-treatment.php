@@ -408,18 +408,18 @@ get_header();
 
     <div class="service-subtitle mt-5">Patient Reviews</div>
 
-    <div>
+    <div class="mt-3">
         <a href="javascript:void(0);" class="brown-round-btn">A Retrospective Study of Non-thermal Laser Therapy for the
             Treatment of Toenail
             Onychomycosis
         </a>
     </div>
-    <div>
+    <div class="mt-3">
         <a href="javascript:void(0);" class="brown-round-btn">Clearing Onychomycosis through Low-Level Laser Therapy
 
         </a>
     </div>
-    <div>
+    <div class="mt-3">
         <a href="javascript:void(0);" class="brown-round-btn">Erchonia Laser Therapy in the Treatment of Onychomycosis
 
         </a>
