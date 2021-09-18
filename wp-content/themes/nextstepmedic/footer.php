@@ -197,7 +197,10 @@
                                 </g>
                             </svg>
                         </td>
-                        <td> nextstepclinic@gmail.com
+                        <td>
+                            <a target="_blank" href="mailto:nextstepclinic@gmail.com
+"> nextstepclinic@gmail.com
+                            </a>
 
                         </td>
                     </tr>
