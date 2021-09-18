@@ -477,7 +477,6 @@ get_header();
                             <td class="grey-bold">10.41</td>
                             <td class="grey-bold">16.24</td>
                             <td class="gold-bg">5.38</td>
-                            <td></td>
                         </tr>
                         <tr>
                             <td>#104
@@ -490,10 +489,9 @@ get_header();
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-18@2x-50-1.jpg"
                                     alt="">
                             </td>
-                            <td class="grey-bold">10.41</td>
-                            <td class="grey-bold">16.24</td>
-                            <td class="gold-bg">5.38</td>
-                            <td></td>
+                            <td class="grey-bold">12.36</td>
+                            <td class="grey-bold">18.05</td>
+                            <td class="gold-bg">5.69</td>
                         </tr>
 
 
