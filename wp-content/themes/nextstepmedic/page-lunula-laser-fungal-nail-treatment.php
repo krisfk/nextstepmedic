@@ -127,17 +127,17 @@ get_header();
 
     </div>
 
-    <div class="row">
-
+    <div class="row mt-5">
+        <div class="col-6">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-14@2x-50-1.jpg" alt="">
+        </div>
         <div class="col-6">Wart Therapy delivers a precise, highly controlled energy dose to the infected
             tissue. As microwaves travel into the tissue, water molecules begin colliding and creating
             localized heat energy. Within seconds, the treatment is complete and the immune response begins.
             Heat shock proteins within HPV infected cells are released, alerting the body to the presence of
             the virus.
         </div>
-        <div class="col-6">
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-14@2x-50-1.jpg" alt="">
-        </div>
+
     </div>
 
 
