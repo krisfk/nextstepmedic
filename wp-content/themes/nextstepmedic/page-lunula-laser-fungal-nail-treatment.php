@@ -299,67 +299,69 @@ get_header();
 
             </ul>
         </div>
+        <div class="col-6">
+
+            <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x.png"
+                alt="">
+
+            <div class="grey-bold">Risk Free
+            </div>
+
+            <ul class="mt-4 ps-3">
+
+                <li>Made in USA</li>
+                <li>No heat used and therefore there are ZERO risks involved with it is usage</li>
+                <li>The machine is computer automated to ensure consistency of coverage of the nail (Comparatively, hot
+                    lasers
+                    are generally handheld and run the risk of inconsistent application)</li>
+
+
+
+            </ul>
+        </div>
     </div>
 
+    <div class="row">
 
-    <div class="col-6">
+        <div class="col-6">
 
-        <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x.png"
-            alt="">
+            <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x.png"
+                alt="">
 
-        <div class="grey-bold">Risk Free
+            <div class="grey-bold">Effective outcomes supported by research, clinical trials and anecdotal evidence
+
+            </div>
+
+            <ul class="mt-4 ps-3">
+                <li>Receive FDA-clearance based on a double-blind, randomized, multi-site and placebo-controlled
+                    clinical
+                    trial</li>
+                <li>Clinical trial proved 89% of the Lunula Laser patients respond to treatment</li>
+                <li>Have a higher success rate and better patient outcomes than other conventional treatments, such as
+                    hot
+                    laser therapy which other clinics use</li>
+                <li>No recovery period after - you can wear socks and shoes immediately after treatment</li>
+
+
+            </ul>
         </div>
+        <div class="col-6">
 
-        <ul class="mt-4 ps-3">
+            <img class="circle-icon mt-4 mb-4"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-16@2x.png" alt="">
 
-            <li>Made in USA</li>
-            <li>No heat used and therefore there are ZERO risks involved with it is usage</li>
-            <li>The machine is computer automated to ensure consistency of coverage of the nail (Comparatively, hot
-                lasers
-                are generally handheld and run the risk of inconsistent application)</li>
+            <div class="grey-bold">No significant side effects
+
+            </div>
+
+            <ul class="mt-4 ps-3">
+
+                <li>No chance for liver toxicity</li>
+                <li>Do not interfere or interact with any systemic medicine</li>
 
 
-
-        </ul>
-    </div>
-    <div class="col-6">
-
-        <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x.png"
-            alt="">
-
-        <div class="grey-bold">Effective outcomes supported by research, clinical trials and anecdotal evidence
-
+            </ul>
         </div>
-
-        <ul class="mt-4 ps-3">
-            <li>Receive FDA-clearance based on a double-blind, randomized, multi-site and placebo-controlled
-                clinical
-                trial</li>
-            <li>Clinical trial proved 89% of the Lunula Laser patients respond to treatment</li>
-            <li>Have a higher success rate and better patient outcomes than other conventional treatments, such as
-                hot
-                laser therapy which other clinics use</li>
-            <li>No recovery period after - you can wear socks and shoes immediately after treatment</li>
-
-
-        </ul>
-    </div>
-    <div class="col-6">
-
-        <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-16@2x.png"
-            alt="">
-
-        <div class="grey-bold">No significant side effects
-
-        </div>
-
-        <ul class="mt-4 ps-3">
-
-            <li>No chance for liver toxicity</li>
-            <li>Do not interfere or interact with any systemic medicine</li>
-
-
-        </ul>
     </div>
 
 </div>
