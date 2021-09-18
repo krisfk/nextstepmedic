@@ -177,6 +177,31 @@ get_header();
 
     </div>
 
+    <div class="row mt-5">
+        <div class="col-6">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50-5.jpg" alt="">
+        </div>
+
+        <div class="col-6">
+
+            <div class="grey-bold">Nail Surgery / Nail Avulsion
+
+
+            </div>
+            <div class="mt-3">
+                In cases where a nail infection has progressed to the “severe” stage and is extremely painful, your
+                doctor may recommend removing your nail. A new nail will usually grow in its place, but it will come in
+                slowly and may take as long as a year to grow back completely.  Sometimes surgery is used in combination
+                with a topical solution that treats the nail bed to further inhibit the fungus.
+
+
+            </div>
+        </div>
+
+
+    </div>
+
+
 
 
 
