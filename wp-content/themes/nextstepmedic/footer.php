@@ -63,7 +63,7 @@
 
                 <ul>
                     <li class="footer-subtitle">
-                        <a href="#">
+                        <a href="<?php echo get_site_url()?>/contact-us-book-online">
                             Contact Us</a>
                     </li>
                 </ul>
