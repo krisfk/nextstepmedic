@@ -224,7 +224,7 @@ get_header();
         </div>
 
         <div class="col-6">
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50-5.jpg" alt="">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-24@2x-50.jpg" alt="">
         </div>
 
 
