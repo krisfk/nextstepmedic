@@ -114,7 +114,25 @@ get_header();
             </a>
             <div class="accordion-content">
 
+                <div class="row">
 
+                    <div class="col-6">Fungal nail infections are caused by various fungal organisms (fungi). The most
+                        common cause is a type of fungus called dermatophyte. Yeast and molds also can cause nail
+                        infections. <br><br>
+
+                        It can develop in people at any age, but it's more common in older adults. As the nail ages, it
+                        can become brittle and dry. The resulting cracks in the nails allow fungi to enter. Other
+                        factors — such as reduced blood circulation to the feet and a weakened immune system — also may
+                        play a role.<br><br>
+
+                        Toenail fungal infection can also start from athlete's foot (foot fungus), and it can spread
+                        from one nail to another. But it is uncommon to get an infection from someone else.
+
+                    </div>
+                    <div class="col-6"><img class="w-100"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-13@2x-50-2.jpg" alt="">
+                    </div>
+                </div>
             </div>
 
         </li>
