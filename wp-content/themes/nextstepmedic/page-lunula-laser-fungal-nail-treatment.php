@@ -373,7 +373,24 @@ get_header();
 
             <div class="accordion-content">
 
+                <div class="row">
+                    <div class="col-6">This FDA-approved toenail fungus treatment is revolutionary. With low-level laser
+                        energy, the Lunula Laser uses photochemistry to target the toenail fungus and stimulate blood
+                        flow. Photochemistry is the science of light and colour.
+                        <br><br>
+                        With red and violet laser lights, the photochemical reaction caused by the laser kills the
+                        fungus and stimulates new, clear toenail growth. While the laser aggressively treats the fungus,
+                        it does not affect the rest of the toe or foot.
 
+
+
+                    </div>
+                    <div class="col-6">
+                        <img class="w-100"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-15@2x-50-2.jpg" alt="">
+
+                    </div>
+                </div>
 
 
             </div>
