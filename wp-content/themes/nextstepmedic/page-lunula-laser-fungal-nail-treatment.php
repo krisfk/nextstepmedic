@@ -231,7 +231,7 @@ get_header();
     </div>
 
 
-    <div>Lunula Laser is Better Than Other Treatments in the Market Because it is…
+    <div class="gold-bg">Lunula Laser is Better Than Other Treatments in the Market Because it is…
     </div>
 
 
