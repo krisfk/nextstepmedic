@@ -134,7 +134,7 @@ get_header();
         <div class="col-6">
 
             <div class="grey-bold">Topical Anti-fungal Solutions
-            </div>
+            </div class="mt-3">
             Topical treatment is usually the first line therapy for fungal nails. The condition of the nail can reflect
             the effectiveness of the treatment, so it is recommended you visit a Podiatrist before starting treatment.
             It is advised for all topical treatments, to gain the best results, that the nail is thinned as much as
