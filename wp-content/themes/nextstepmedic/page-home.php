@@ -116,7 +116,8 @@ get_header();
                 musculoskeletal diagnostic services with surgical or non-surgical treatments that are tailored to the
                 individual needs of our patients.</div>
 
-            <a href="" class="brown-round-btn mt-5 d-inline-block">Read More</a>
+            <a href="<?php echo get_site_url();?>/orthopaedics-traumatology"
+                class="brown-round-btn mt-5 d-inline-block">Read More</a>
         </div>
 
     </div>
@@ -135,7 +136,8 @@ get_header();
                 health and posture to prevent re-occurrence of same injury or complication and other conditions by
                 specified techniques.</div>
 
-            <a href="" class="brown-round-btn mt-5 d-inline-block">Read More</a>
+            <a href="<?php echo get_site_url();?>/physiotherapy" class="brown-round-btn mt-5 d-inline-block">Read
+                More</a>
         </div>
 
     </div>
@@ -153,7 +155,7 @@ get_header();
                 and ankles can be a huge obstacle. We treat with professional experience, specialized technology and
                 equipment as we understand getting your body back to normal is of the utmost importance to you. </div>
 
-            <a href="" class="brown-round-btn mt-5 d-inline-block">Read More</a>
+            <a href="<?php echo get_site_url();?>/podiatry" class="brown-round-btn mt-5 d-inline-block">Read More</a>
         </div>
 
     </div>
@@ -171,7 +173,8 @@ get_header();
                 body. It addresses the root cause and not the symptoms of plantar warts, thus preventing its recurrence.
             </div>
 
-            <a href="" class="brown-round-btn mt-5 d-inline-block">Read More</a>
+            <a href="<?php echo get_site_url();?>/swift-laser-wart-treatment"
+                class="brown-round-btn mt-5 d-inline-block">Read More</a>
         </div>
         <div class="col-6 pe-4">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x.png" alt="">
@@ -194,7 +197,8 @@ get_header();
                 therapies.
             </div>
 
-            <a href="" class="brown-round-btn mt-5 d-inline-block">Read More</a>
+            <a href="<?php echo get_site_url();?>/lunula-laser-fungal-nail-treatment"
+                class="brown-round-btn mt-5 d-inline-block">Read More</a>
         </div>
         <div class="col-4 pe-4">
             <img class="lunula-laser-img" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x.png"
