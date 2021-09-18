@@ -250,7 +250,7 @@ get_header();
 
     <div class="row">
         <div class="col-6"> <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x.png" alt="">
-            <div>100% Pain Free
+            <div class="grey-bold">100% Pain Free
             </div>
 
             <ul class="mt-4 ps-3">
