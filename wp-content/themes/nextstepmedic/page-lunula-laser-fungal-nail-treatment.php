@@ -268,17 +268,28 @@ get_header();
 
         <div class="col-6">
 
-            <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x.png"
+            <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x.png"
                 alt="">
 
-            <div class="grey-bold">100% Pain Free
+
+
+
+
+
+
+
+            <div class="grey-bold">Risk Free
             </div>
 
             <ul class="mt-4 ps-3">
-                <li>The first and only non-thermal (Cold Laser) FDA Market Cleared laser device for the temporary
-                    increase
-                    of clear nail for patients with Onychomycosis</li>
-                <li>The patient will feel NO heat or pain from the laser</li>
+
+                <li>Made in USA</li>
+                <li>No heat used and therefore there are ZERO risks involved with it is usage</li>
+                <li>The machine is computer automated to ensure consistency of coverage of the nail (Comparatively, hot
+                    lasers
+                    are generally handheld and run the risk of inconsistent application)</li>
+
+
 
             </ul>
         </div>
