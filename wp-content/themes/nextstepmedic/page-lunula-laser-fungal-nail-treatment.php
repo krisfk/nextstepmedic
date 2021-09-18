@@ -403,6 +403,27 @@ get_header();
             </a>
             <div class="accordion-content">
 
+                There have been no reported adverse reactions to the laser treatment. It is well-tolerated, quick, safe,
+                and painless
+                <ul>
+                    <li>Sit comfortably on the examination chair</li>
+                    <li>Place the foot in the Lunula Laser</li>
+                    <li>The laser targets the treatment area on the foot for 12 minutes</li>
+                    <li>After the treatment there is no downtime nor additional medicine</li>
+                </ul> <br>
+                The procedure is quick and painless, and each foot takes about 12 minutes to treat. Most patients have
+                multiple sessions to see optimal results, and sessions are usually spaced out about seven days apart.
+
+
+
+
+
+
+
+
+
+
+
 
 
             </div>
