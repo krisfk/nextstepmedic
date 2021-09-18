@@ -246,22 +246,25 @@ get_header();
 
 <div class="container">
 
-    <div class="mt-5">
 
-        <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x-50-3-scaled.jpg"
-            alt="">
+
+    <div class="row">
+        <div class="col-6"> <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x.png" alt="">
+            <div>100% Pain Free
+            </div>
+
+            <ul class="mt-4 ps-3">
+                <li>The first and only non-thermal (Cold Laser) FDA Market Cleared laser device for the temporary
+                    increase
+                    of clear nail for patients with Onychomycosis</li>
+                <li>The patient will feel NO heat or pain from the laser</li>
+
+            </ul>
+        </div>
+
+        <div class="col-6"></div>
+
     </div>
-
-
-    <div class="service-subtitle mt-5">What is SWIFT?</div>
-
-    <div class="mt-5">SWIFT is a cutting-edge, FDA cleared technology that has proven to be highly effective in the
-        removal of
-        plantar warts. It delivers low dose microwave energy through a specialized probe that targets and treats the
-        underlying HPV virus by stimulating a natural immune response in the body. SWIFT technology addresses the root
-        cause and not the symptoms of plantar warts, thus preventing its recurrence.
-    </div>
-
 
     <div class="service-subtitle mt-5">FAQ</div>
 
