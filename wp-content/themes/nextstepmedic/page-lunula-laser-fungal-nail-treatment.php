@@ -150,6 +150,34 @@ get_header();
 
     </div>
 
+    <div class="row mt-5">
+        <div class="col-6">
+
+            <div class="grey-bold">Oral Medication
+
+            </div>
+            <div class="mt-3">
+                Oral anti-fungal medication is still considered the gold standard in nail fungus treatment and it is
+                reported to have a 70% success rate. A course on oral anti-fungal medication can last up to 12 weeks.
+                The reason why its success is greater is because the medication is circulated in your blood stream and
+                this treats the nail fungus 24 hrs around the clock. <br> <br>
+
+                The main draw back with oral anti-fungal medication is that it is very strong medication and can often
+                have nasty side effects, including liver damage. For this reason oral anti-fungal drugs are usually only
+                prescribed following confirmation of diagnosis through pathology and treatment should be carefully
+                monitored. Oral anti-fungal medication is best used for severe or chronic nail fungus infections or
+                those which haven’t responded to conservative treatment. 
+
+            </div>
+        </div>
+        <div class="col-6">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-6.jpg" alt="">
+        </div>
+
+
+    </div>
+
+
 
 
     <div class="mt-5">
