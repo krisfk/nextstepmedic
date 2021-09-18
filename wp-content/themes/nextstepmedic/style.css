@@ -802,3 +802,8 @@ a.ui-button:active,
     margin: 0 auto;
     display: block;
 }
+
+.rect-img {
+    width: 200px;
+    height: auto;
+}
