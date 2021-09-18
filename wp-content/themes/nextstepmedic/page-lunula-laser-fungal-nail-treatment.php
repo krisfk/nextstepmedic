@@ -299,6 +299,7 @@ get_header();
 
             </ul>
         </div>
+
         <div class="col-6">
 
             <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x.png"
@@ -319,13 +320,9 @@ get_header();
 
             </ul>
         </div>
-    </div>
-
-    <div class="row">
-
         <div class="col-6">
 
-            <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Untitled-1.png"
+            <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x.png"
                 alt="">
 
             <div class="grey-bold">Effective outcomes supported by research, clinical trials and anecdotal evidence
@@ -362,305 +359,312 @@ get_header();
 
             </ul>
         </div>
+
     </div>
 
-</div>
-
-<div class="service-subtitle mt-5">FAQ</div>
+    <div class="service-subtitle mt-5">FAQ</div>
 
 
 
-<ul class="accordion">
-    <li><a href="javascript:void(0);">How does the Lunula Laser work?
+    <ul class="accordion">
+        <li><a href="javascript:void(0);">How does the Lunula Laser work?
 
 
-        </a>
+            </a>
 
-        <div class="accordion-content">
+            <div class="accordion-content">
 
-            <div class="row">
-                <div class="col-6">This FDA-approved toenail fungus treatment is revolutionary. With low-level laser
-                    energy, the Lunula Laser uses photochemistry to target the toenail fungus and stimulate blood
-                    flow. Photochemistry is the science of light and colour.
-                    <br><br>
-                    With red and violet laser lights, the photochemical reaction caused by the laser kills the
-                    fungus and stimulates new, clear toenail growth. While the laser aggressively treats the fungus,
-                    it does not affect the rest of the toe or foot.
+                <div class="row">
+                    <div class="col-6">This FDA-approved toenail fungus treatment is revolutionary. With low-level laser
+                        energy, the Lunula Laser uses photochemistry to target the toenail fungus and stimulate blood
+                        flow. Photochemistry is the science of light and colour.
+                        <br><br>
+                        With red and violet laser lights, the photochemical reaction caused by the laser kills the
+                        fungus and stimulates new, clear toenail growth. While the laser aggressively treats the fungus,
+                        it does not affect the rest of the toe or foot.
 
 
 
+                    </div>
+                    <div class="col-6">
+                        <img class="" style="height: 300px;width: auto;position: relative;margin: -5rem 0 0 0;"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-15@2x-50-2.jpg" alt="">
+
+                    </div>
                 </div>
-                <div class="col-6">
-                    <img class="" style="height: 300px;width: auto;position: relative;margin: -5rem 0 0 0;"
-                        src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-15@2x-50-2.jpg" alt="">
 
-                </div>
+
+            </div>
+        </li>
+        <li><a href="javascript:void(0);">
+
+
+                What Patients Should expect During Laser Treatment?
+
+            </a>
+            <div class="accordion-content">
+
+                There have been no reported adverse reactions to the laser treatment. It is well-tolerated, quick, safe,
+                and painless
+                <ul>
+                    <li>Sit comfortably on the examination chair</li>
+                    <li>Place the foot in the Lunula Laser</li>
+                    <li>The laser targets the treatment area on the foot for 12 minutes</li>
+                    <li>After the treatment there is no downtime nor additional medicine</li>
+                </ul> <br>
+                The procedure is quick and painless, and each foot takes about 12 minutes to treat. Most patients have
+                multiple sessions to see optimal results, and sessions are usually spaced out about seven days apart.
+
             </div>
 
-
-        </div>
-    </li>
-    <li><a href="javascript:void(0);">
+        </li>
+        <li><a href="javascript:void(0);">What are the possible side effects?
 
 
-            What Patients Should expect During Laser Treatment?
-
-        </a>
-        <div class="accordion-content">
-
-            There have been no reported adverse reactions to the laser treatment. It is well-tolerated, quick, safe,
-            and painless
-            <ul>
-                <li>Sit comfortably on the examination chair</li>
-                <li>Place the foot in the Lunula Laser</li>
-                <li>The laser targets the treatment area on the foot for 12 minutes</li>
-                <li>After the treatment there is no downtime nor additional medicine</li>
-            </ul> <br>
-            The procedure is quick and painless, and each foot takes about 12 minutes to treat. Most patients have
-            multiple sessions to see optimal results, and sessions are usually spaced out about seven days apart.
-
-        </div>
-
-    </li>
-    <li><a href="javascript:void(0);">What are the possible side effects?
+            </a>
+            <div class="accordion-content">
 
 
-        </a>
-        <div class="accordion-content">
+                No significant side effects have been reported.
+                <!-- 1rem 0 0 0 -->
+                <img class="circle-icon mt-3 me-0 ms-0 mb-0"
+                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-16@2x.png" alt="">
 
 
-            No significant side effects have been reported.
-            <!-- 1rem 0 0 0 -->
-            <img class="circle-icon mt-3 me-0 ms-0 mb-0"
-                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-16@2x.png" alt="">
-
-
-        </div>
-    </li>
-
-
-    <li><a href="javascript:void(0);">How effective is the treatment?
-
-
-
-        </a>
-        <div class="accordion-content">
-
-            Clinical studies show the Lunula laser course of treatment has the highest success rates of all the
-            treatments available with around an 85% success rate.
-
-            <div class="gold-bold">Before / After:
             </div>
+        </li>
 
-            <table class="nail-before-after-table w-100">
-                <thead>
-                    <tr>
-                        <th>Photo Code#: <br>
-                            Baseline</th>
-                        <th>Photo Code#: <br>
-                            6 Months</th>
-                        <th>mm Clear Nail: <br>
-                            Baseline</th>
-                        <th>mm Clear Nail: <br>
-                            6 Months</th>
-                        <th>Baseline to <br>
-                            6 months change</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>#032
-                            <img class="w-100"
-                                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-17@2x-50-1.jpg" alt="">
-                        </td>
-                        <td>#049
-                            <img class="w-100"
-                                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-18@2x-50-1.jpg" alt="">
-                        </td>
-                        <td class="grey-bold">10.41</td>
-                        <td class="grey-bold">16.24</td>
-                        <td class="gold-bg">5.38</td>
-                    </tr>
-                    <tr>
-                        <td>#104
-                            <img class="w-100"
-                                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg" alt="">
-                        </td>
-                        <td>#066
-                            <img class="w-100"
-                                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg" alt="">
-                        </td>
-                        <td class="grey-bold">12.36</td>
-                        <td class="grey-bold">18.05</td>
-                        <td class="gold-bg">5.69</td>
-                    </tr>
 
-                    <tr>
-                        <td>#143
-                            <img class="w-100"
-                                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg" alt="">
-                        </td>
-                        <td>#129
-                            <img class="w-100"
-                                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg" alt="">
-                        </td>
-                        <td class="grey-bold">4.52</td>
-                        <td class="grey-bold">8.93</td>
-                        <td class="gold-bg">4.41</td>
-                    </tr>
-
-                    <tr>
-                        <td>#196
-                            <img class="w-100"
-                                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg" alt="">
-                        </td>
-                        <td>#118
-                            <img class="w-100"
-                                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg" alt="">
-                        </td>
-                        <td class="grey-bold">4.48</td>
-                        <td class="grey-bold">11.48</td>
-                        <td class="gold-bg">6.63</td>
-                    </tr>
+        <li><a href="javascript:void(0);">How effective is the treatment?
 
 
 
+            </a>
+            <div class="accordion-content">
+
+                Clinical studies show the Lunula laser course of treatment has the highest success rates of all the
+                treatments available with around an 85% success rate.
+
+                <div class="gold-bold">Before / After:
+                </div>
+
+                <table class="nail-before-after-table w-100">
+                    <thead>
+                        <tr>
+                            <th>Photo Code#: <br>
+                                Baseline</th>
+                            <th>Photo Code#: <br>
+                                6 Months</th>
+                            <th>mm Clear Nail: <br>
+                                Baseline</th>
+                            <th>mm Clear Nail: <br>
+                                6 Months</th>
+                            <th>Baseline to <br>
+                                6 months change</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>#032
+                                <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-17@2x-50-1.jpg"
+                                    alt="">
+                            </td>
+                            <td>#049
+                                <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-18@2x-50-1.jpg"
+                                    alt="">
+                            </td>
+                            <td class="grey-bold">10.41</td>
+                            <td class="grey-bold">16.24</td>
+                            <td class="gold-bg">5.38</td>
+                        </tr>
+                        <tr>
+                            <td>#104
+                                <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
+                                    alt="">
+                            </td>
+                            <td>#066
+                                <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
+                                    alt="">
+                            </td>
+                            <td class="grey-bold">12.36</td>
+                            <td class="grey-bold">18.05</td>
+                            <td class="gold-bg">5.69</td>
+                        </tr>
+
+                        <tr>
+                            <td>#143
+                                <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
+                                    alt="">
+                            </td>
+                            <td>#129
+                                <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
+                                    alt="">
+                            </td>
+                            <td class="grey-bold">4.52</td>
+                            <td class="grey-bold">8.93</td>
+                            <td class="gold-bg">4.41</td>
+                        </tr>
+
+                        <tr>
+                            <td>#196
+                                <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
+                                    alt="">
+                            </td>
+                            <td>#118
+                                <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
+                                    alt="">
+                            </td>
+                            <td class="grey-bold">4.48</td>
+                            <td class="grey-bold">11.48</td>
+                            <td class="gold-bg">6.63</td>
+                        </tr>
 
 
 
 
 
-                </tbody>
-                <!-- <tfoot>
+
+
+
+                    </tbody>
+                    <!-- <tfoot>
                         <tr>
                             <td>Sum</td>
                             <td>$180</td>
                         </tr>
                     </tfoot> -->
-            </table>
+                </table>
 
 
-        </div>
-    </li>
-    <li><a href="javascript:void(0);">Does it hurt?
+            </div>
+        </li>
+        <li><a href="javascript:void(0);">Does it hurt?
 
 
 
+
+            </a>
+            <div class="accordion-content">
+
+
+            </div>
+
+
+        </li>
+    </ul>
+
+
+
+
+    <div class="service-subtitle mt-5">Latest Research on Fungal Laser Treatment
+    </div>
+
+
+
+
+    <div class="service-subtitle mt-5">Patient Reviews</div>
+
+    <div class="mt-3">
+        <a href="javascript:void(0);" class="brown-round-btn">A Retrospective Study of Non-thermal Laser Therapy for the
+            Treatment of Toenail
+            Onychomycosis
+        </a>
+    </div>
+    <div class="mt-3">
+        <a href="javascript:void(0);" class="brown-round-btn">Clearing Onychomycosis through Low-Level Laser Therapy
 
         </a>
-        <div class="accordion-content">
-
-
-        </div>
-
-
-    </li>
-</ul>
-
-
-
-
-<div class="service-subtitle mt-5">Latest Research on Fungal Laser Treatment
-</div>
-
-
-
-
-<div class="service-subtitle mt-5">Patient Reviews</div>
-
-<div class="mt-3">
-    <a href="javascript:void(0);" class="brown-round-btn">A Retrospective Study of Non-thermal Laser Therapy for the
-        Treatment of Toenail
-        Onychomycosis
-    </a>
-</div>
-<div class="mt-3">
-    <a href="javascript:void(0);" class="brown-round-btn">Clearing Onychomycosis through Low-Level Laser Therapy
-
-    </a>
-</div>
-<div class="mt-3">
-    <a href="javascript:void(0);" class="brown-round-btn">Erchonia Laser Therapy in the Treatment of Onychomycosis
-
-    </a>
-</div>
-
-
-
-
-<div class="service-subtitle mt-5">For More Details</div>
-
-
-<a href="javascript:void(0);" class="mt-3 d-inline-block">
-    <img class="rect-img" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-25@2x-50.jpg" alt="">
-</a>
-<div class="mt-3">
-    <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
-</div>
-
-<div class="sep mt-4"></div>
-
-<div class="row mt-4">
-    <div class="col-6"><img style="height:400px" class="w-100"
-            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
     </div>
-    <div class="col-6">
+    <div class="mt-3">
+        <a href="javascript:void(0);" class="brown-round-btn">Erchonia Laser Therapy in the Treatment of Onychomycosis
 
-        <div class="gold">
-            <div class="person-name">
-                Charlie S.K Lau
-            </div>
+        </a>
+    </div>
 
-            <div class="mt-3">
-                Registered Podiatrist (NZ) <br>
-                BHsc Podiatry (NZ)<br>
-                PgD in Musculoskeletal Medicine and Rehabilitation (CUHK)<br>
-                Member of PodiatryNZ<br>
-                Member of International Podiatrists Association of Hong Kong (IPAHK)
-            </div>
+
+
+
+    <div class="service-subtitle mt-5">For More Details</div>
+
+
+    <a href="javascript:void(0);" class="mt-3 d-inline-block">
+        <img class="rect-img" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-25@2x-50.jpg" alt="">
+    </a>
+    <div class="mt-3">
+        <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
+    </div>
+
+    <div class="sep mt-4"></div>
+
+    <div class="row mt-4">
+        <div class="col-6"><img style="height:400px" class="w-100"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
         </div>
+        <div class="col-6">
 
-        <div class="mt-3">Charlie is a podiatrist registered under the International Podiatrists Association of Hong
-            Kong and
-            registered with the Podiatrists Board of New Zealand. He received professional training in podiatry from
-            the Auckland university technology in New Zealand and furthered his education and obtained his
-            Postgraduate Diploma in Musculoskeletal Medicine and Rehabilitation from the Chinese University of Hong
-            Kong.
-            <br><br>
-            Charlie is currently working at the Matilda international hospital/ Matilda Medical Centre (Central) ,
-            Hong Kong Adventist Hospital- Tsuen wan and Gleneagles Hospital Hong Kong. He had worked in two
-            multidisciplinary clinics in Shanghai. He also volunteered at the HKSKH Lady MacLehose Centre and
-            provided podiatry education for the disadvantaged.
-            Charlie work closely in partnership with consultant orthopedic surgeons, general practitioner and
-            physiotherapist. They ensure each patient is thoroughly assessed; diagnosed and optimum treatment is
-            selected.
-            <br><br>
-            His experience in a private practice in New Zealand and at the Matilda International Hospital in Hong
-            Kong has provided him with a comprehensive understanding of diagnosis and treatment of a wide array of
-            pathologies of the foot and lower leg, including:
+            <div class="gold">
+                <div class="person-name">
+                    Charlie S.K Lau
+                </div>
 
-            <ul class=" ps-3">
-                <li>Athletic and sports injuries of the foot, knee, and hip</li>
-                <li>Biomechanical assessments (examination of the lower limbs, looking at their structure,
-                    alignment,
-                    strengths and weaknesses)</li>
-                <li>Chronic pathologies</li>
-                <li>Diabetic foot care</li>
-                <li>Footwear assessment</li>
-                <li>Nail & skin pathologies (callus / cracked heels, corns, in-growing toenails, fungal nails,
-                    verrucae, foot warts, etc.)</li>
-                <li>Neurological disorders</li>
-                <li>Orthotic prescription</li>
-                <li>Paediatric assessment</li>
-                <li>Rheumatoid arthritis</li>
-                <li>Vascular & musculoskeletal disorders</li>
+                <div class="mt-3">
+                    Registered Podiatrist (NZ) <br>
+                    BHsc Podiatry (NZ)<br>
+                    PgD in Musculoskeletal Medicine and Rehabilitation (CUHK)<br>
+                    Member of PodiatryNZ<br>
+                    Member of International Podiatrists Association of Hong Kong (IPAHK)
+                </div>
+            </div>
 
-            </ul>
+            <div class="mt-3">Charlie is a podiatrist registered under the International Podiatrists Association of Hong
+                Kong and
+                registered with the Podiatrists Board of New Zealand. He received professional training in podiatry from
+                the Auckland university technology in New Zealand and furthered his education and obtained his
+                Postgraduate Diploma in Musculoskeletal Medicine and Rehabilitation from the Chinese University of Hong
+                Kong.
+                <br><br>
+                Charlie is currently working at the Matilda international hospital/ Matilda Medical Centre (Central) ,
+                Hong Kong Adventist Hospital- Tsuen wan and Gleneagles Hospital Hong Kong. He had worked in two
+                multidisciplinary clinics in Shanghai. He also volunteered at the HKSKH Lady MacLehose Centre and
+                provided podiatry education for the disadvantaged.
+                Charlie work closely in partnership with consultant orthopedic surgeons, general practitioner and
+                physiotherapist. They ensure each patient is thoroughly assessed; diagnosed and optimum treatment is
+                selected.
+                <br><br>
+                His experience in a private practice in New Zealand and at the Matilda International Hospital in Hong
+                Kong has provided him with a comprehensive understanding of diagnosis and treatment of a wide array of
+                pathologies of the foot and lower leg, including:
+
+                <ul class=" ps-3">
+                    <li>Athletic and sports injuries of the foot, knee, and hip</li>
+                    <li>Biomechanical assessments (examination of the lower limbs, looking at their structure,
+                        alignment,
+                        strengths and weaknesses)</li>
+                    <li>Chronic pathologies</li>
+                    <li>Diabetic foot care</li>
+                    <li>Footwear assessment</li>
+                    <li>Nail & skin pathologies (callus / cracked heels, corns, in-growing toenails, fungal nails,
+                        verrucae, foot warts, etc.)</li>
+                    <li>Neurological disorders</li>
+                    <li>Orthotic prescription</li>
+                    <li>Paediatric assessment</li>
+                    <li>Rheumatoid arthritis</li>
+                    <li>Vascular & musculoskeletal disorders</li>
+
+                </ul>
+            </div>
+
         </div>
 
     </div>
-
-</div>
 
 
 
