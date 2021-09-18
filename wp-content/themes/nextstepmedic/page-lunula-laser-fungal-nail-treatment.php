@@ -129,13 +129,19 @@ get_header();
 
     <div class="row mt-5">
         <div class="col-6">
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-14@2x-50-1.jpg" alt="">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-6.jpg" alt="">
         </div>
-        <div class="col-6">Wart Therapy delivers a precise, highly controlled energy dose to the infected
-            tissue. As microwaves travel into the tissue, water molecules begin colliding and creating
-            localized heat energy. Within seconds, the treatment is complete and the immune response begins.
-            Heat shock proteins within HPV infected cells are released, alerting the body to the presence of
-            the virus.
+        <div class="col-6">
+
+            <div class="grey-bold">Topical Anti-fungal Solutions
+            </div>
+            Topical treatment is usually the first line therapy for fungal nails. The condition of the nail can reflect
+            the effectiveness of the treatment, so it is recommended you visit a Podiatrist before starting treatment.
+            It is advised for all topical treatments, to gain the best results, that the nail is thinned as much as
+            possible and, nail that may have lifted or become brittle, is cut away and exposes the nail bed. Without
+            this, it may delay or lower the effectiveness of treatment. This allows the solution to penetrate the nail
+            bed more effectively.
+
         </div>
 
     </div>
