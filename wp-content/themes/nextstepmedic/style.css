@@ -829,6 +829,7 @@ a.ui-button:active,
 
 .nail-before-after-table td {
     padding: 1rem;
+    border: 1px solid #58595b;
 }
 
 .nail-before-after-table td img {
