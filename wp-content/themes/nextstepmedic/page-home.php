@@ -27,8 +27,9 @@ get_header();
                             injury, foot pain and other related conditions.
                             <div class="text-center mt-5">
 
-                                <a href="#" class="slide-btns">Learn More</a>
-                                <a href="#" class="slide-btns">Book an Appointment</a>
+                                <a href="<?php echo get_site_url();?>/services" class="slide-btns">Learn More</a>
+                                <a href="<?php echo get_site_url();?>/contact-us-book-online" class="slide-btns">Book an
+                                    Appointment</a>
                             </div>
                         </div>
 
@@ -54,8 +55,9 @@ get_header();
 
                             <div class="text-center mt-5">
 
-                                <a href="#" class="slide-btns">Learn More</a>
-                                <a href="#" class="slide-btns">Book an Appointment</a>
+                                <a href="<?php echo get_site_url();?>/services" class="slide-btns">Learn More</a>
+                                <a href="<?php echo get_site_url();?>/contact-us-book-online" class="slide-btns">Book an
+                                    Appointment</a>
                             </div>
                         </div>
 
@@ -79,8 +81,9 @@ get_header();
 
                             <div class="text-center mt-5">
 
-                                <a href="#" class="slide-btns">Learn More</a>
-                                <a href="#" class="slide-btns">Book an Appointment</a>
+                                <a href="<?php echo get_site_url();?>/services" class="slide-btns">Learn More</a>
+                                <a href="<?php echo get_site_url();?>/contact-us-book-online" class="slide-btns">Book an
+                                    Appointment</a>
                             </div>
                         </div>
 
