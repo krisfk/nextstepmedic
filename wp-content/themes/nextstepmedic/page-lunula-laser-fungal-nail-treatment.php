@@ -231,7 +231,7 @@ get_header();
     </div>
 
 </div>
-<div class="row big-banner-central-row position-relative gx-0 align-items-center">
+<div class="row big-banner-central-row position-relative gx-0 align-items-center mt-5">
 
     <div class="col-12">
 
