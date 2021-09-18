@@ -813,3 +813,9 @@ a.ui-button:active,
     width: 150px;
     height: auto;
 }
+
+.nail-before-after-table th {
+    background: #bf9d81;
+    color: #fff;
+    font-family: 'Futura-Bold';
+}
