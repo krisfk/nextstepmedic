@@ -41,15 +41,18 @@
                     </li>
 
 
-                    <li><a href="#">Orthopaedics & Traumatology</a></li>
+                    <li><a href="<?php echo get_site_url();?>/orthopaedics-traumatology">Orthopaedics & Traumatology</a>
+                    </li>
 
-                    <li><a href="#">Physiotherapy</a></li>
+                    <li><a href="<?php echo get_site_url();?>/physiotherapy">Physiotherapy</a></li>
 
-                    <li><a href="#">Podiatry</a></li>
+                    <li><a href="<?php echo get_site_url();?>/podiatry">Podiatry</a></li>
 
-                    <li><a href="#">Swift Laser - Wart Treatment</a></li>
+                    <li><a href="<?php echo get_site_url();?>/page-swift-laser-wart-treatment">Swift Laser - Wart
+                            Treatment</a></li>
 
-                    <li><a href="#">Lunula Laser - Fungal Nails</a></li>
+                    <li><a href="<?php echo get_site_url();?>/lunula-laser-fungal-nail-treatment">Lunula Laser - Fungal
+                            Nails</a></li>
 
 
                 </ul>
