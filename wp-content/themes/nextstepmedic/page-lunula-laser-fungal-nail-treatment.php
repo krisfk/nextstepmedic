@@ -464,7 +464,6 @@ get_header();
                     </thead>
                     <tbody>
                         <tr>
-
                             <td>#032
                                 <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-17@2x-50-1.jpg"
@@ -477,17 +476,27 @@ get_header();
                             </td>
                             <td class="grey-bold">10.41</td>
                             <td class="grey-bold">16.24</td>
-                            <td class="gold-bg"></td>
+                            <td class="gold-bg">5.38</td>
                             <td></td>
                         </tr>
-                        <!-- <tr>
-                            <td>January</td>
-                            <td>$100</td>
-                        </tr>
                         <tr>
-                            <td>February</td>
-                            <td>$80</td>
-                        </tr> -->
+                            <td>#104
+                                <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-17@2x-50-1.jpg"
+                                    alt="">
+                            </td>
+                            <td>#066
+                                <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-18@2x-50-1.jpg"
+                                    alt="">
+                            </td>
+                            <td class="grey-bold">10.41</td>
+                            <td class="grey-bold">16.24</td>
+                            <td class="gold-bg">5.38</td>
+                            <td></td>
+                        </tr>
+
+
                     </tbody>
                     <!-- <tfoot>
                         <tr>
