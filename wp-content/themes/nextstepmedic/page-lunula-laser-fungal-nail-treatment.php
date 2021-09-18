@@ -85,72 +85,25 @@ get_header();
 
 
     <ul class="accordion">
-        <li><a href="javascript:void(0);"> What are the symptoms of plantar warts?
+        <li><a href="javascript:void(0);"> What are the symptoms of fungal nail?
+
             </a>
 
             <div class="accordion-content">
 
-                <ul>
-                    <li>A small, fleshy, rough, grainy growth (lesion) on the bottom of your foot, usually the base of
-                        the
-                        toes and forefoot or the heel</li>
-                    <li>Hard, thickened skin (callus) over a well-defined "spot" on the skin, where a wart has grown
-                        inward</li>
-                    <li>Black pinpoints, which are commonly called wart seeds but are actually small, clotted blood
-                        vessels</li>
-                    <li>A lesion that interrupts the normal lines and ridges in the skin of your foot</li>
-                    <li>Pain or tenderness when walking or standing</li>
-                </ul>
+
             </div>
         </li>
-        <li><a href="javascript:void(0);">What are the causes of warts?
-            </a>
-            <div class="accordion-content">
+        <li><a href="javascript:void(0);">What are the causes of fungal nail?
 
-                <div class="row">
-                    <div class="col-6"><img class="w-100"
-                            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x-50-1.jpg" alt="">
-                    </div>
-                    <div class="col-6">
-                        Plantar warts are caused by an infection with HPV in the outer layer of skin on the soles of
-                        your feet. They develop when the virus enters your body through tiny cuts, breaks or other weak
-                        spots on the bottoms of your feet. HPV is very common, and more than 100 kinds of the virus
-                        exist. But only a few of them cause warts on the feet. Other types of HPV are more likely to
-                        cause warts on other areas of your skin or on mucous membranes.
-
-
-                    </div>
-
-                </div>
-            </div>
-
-        </li>
-        <li><a href="javascript:void(0);"> Is the virus transmissible?
             </a>
             <div class="accordion-content">
 
 
-                <div class="row">
-                    <div class="col-6">
-                        The HPV strains that cause plantar warts are not highly contagious. The virus is not easily
-                        transmitted by direct contact from one person to another. But it thrives in warm, moist
-                        environments. Consequently, you may contract the virus by walking barefoot around swimming pools
-                        or locker rooms. If the virus spreads from the first site of infection, more warts may appear.
-
-
-                    </div>
-                    <div class="col-6"><img class="w-100"
-                            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-13@2x-50-1.jpg" alt="">
-                    </div>
-
-
-                </div>
-
-
-
-
             </div>
+
         </li>
+
 
 
 
