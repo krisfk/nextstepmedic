@@ -313,19 +313,14 @@ get_header();
             <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x.png"
                 alt="">
 
-            <div class="grey-bold">Effective outcomes supported by research, clinical trials and anecdotal evidence
+            <div class="grey-bold">No significant side effects
 
             </div>
 
             <ul class="mt-4 ps-3">
-                <li>Receive FDA-clearance based on a double-blind, randomized, multi-site and placebo-controlled
-                    clinical
-                    trial</li>
-                <li>Clinical trial proved 89% of the Lunula Laser patients respond to treatment</li>
-                <li>Have a higher success rate and better patient outcomes than other conventional treatments, such as
-                    hot
-                    laser therapy which other clinics use</li>
-                <li>No recovery period after - you can wear socks and shoes immediately after treatment</li>
+
+                <li>No chance for liver toxicity</li>
+                <li>Do not interfere or interact with any systemic medicine</li>
 
 
             </ul>
