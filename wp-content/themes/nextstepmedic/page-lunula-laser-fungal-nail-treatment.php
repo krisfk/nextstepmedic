@@ -339,20 +339,6 @@ get_header();
 
             <div class="accordion-content">
 
-                <div class="row">
-
-                    <div class="col-6">Wart Therapy delivers a precise, highly controlled energy dose to the infected
-                        tissue. As microwaves travel into the tissue, water molecules begin colliding and creating
-                        localized heat energy. Within seconds, the treatment is complete and the immune response begins.
-                        Heat shock proteins within HPV infected cells are released, alerting the body to the presence of
-                        the virus.
-                    </div>
-                    <div class="col-6">
-                        <img class="w-100"
-                            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-14@2x-50-1.jpg" alt="">
-                    </div>
-                </div>
-
 
 
 
@@ -363,54 +349,8 @@ get_header();
             </a>
             <div class="accordion-content">
 
-                <div class="mt-3">
-                    <ul class="grey-bold">
-                        <li>Faster</li>
-                    </ul>
-                    Each treatment lasts only 5-10 minutes, consisting of 3-5 very short application of the SWIFT device
-                    (usually 2 seconds in duration). SWIFT delivers a precise, highly controlled dose of microwave
-                    energy to a pre-determined depth into the skin.
-
-                    <ul class="grey-bold mt-4">
-                        <li>Cleaner</li>
-                    </ul>
-                    Microwave therapy does not produce smoke, plume, or smell that laser or electrocautery devices
-                    produce. The SWIFT device has been designed to ensure microwaves travel in straight lines with no
-                    lateral spread, commonly seen in Cryotherapy. This results in a treatment that can be used to
-                    accurately target
-                    tissue and leave healthy tissue undamaged.
-                    <br><br>
-                    The SWIFT device also features a disposable tip – which removes the need for sterilization between
-                    patients and eliminates the risk of cross-contamination.
-                    <br><br>
-
-                    The precision treatment of SWIFT does not break the skin – meaning no blisters, no padding, no
-                    scarring – overall resulting to a cleaner, safer alternative.
-
-                    <ul class="grey-bold  mt-4">
-                        <li>Digital Time and Power dials: ensure consistent and precise energy delivery</li>
-                        <li>Advanced alarm systems: ensure maximum safety for patients</li>
-                        <li>Internal components: similar to those used in interventional oncology</li>
-                    </ul>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                </div>
             </div>
 
         </li>
@@ -418,12 +358,6 @@ get_header();
 
             </a>
             <div class="accordion-content">
-
-
-                As the treatment involves a sudden increase in temperature, It is likely you will feel some discomfort,
-                like a sharp sensation, similar to an injection. However, each dose of energy administered only last 2
-                seconds, so your discomfort will quickly subside. 
-
 
 
 
@@ -438,9 +372,6 @@ get_header();
             </a>
             <div class="accordion-content">
 
-                In some cases, the treated area may feel sore but will not affect you undertaking normal daily
-                activities. 
-
 
 
             </div>
@@ -451,8 +382,7 @@ get_header();
 
             </a>
             <div class="accordion-content">
-                SWIFT protocol involves between 3 and 4 treatments, spaced 4 weeks apart; aligning with the body’s
-                natural immune cycle. Each treatment lasts 15 minutes.
+
 
             </div>
 
