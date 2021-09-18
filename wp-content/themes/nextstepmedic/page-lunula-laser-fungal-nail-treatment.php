@@ -471,7 +471,8 @@ get_header();
                                     alt="">
                             </td>
                             <td>#049
-                                <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-18@2x-50-1.jpg"
+                                <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-18@2x-50-1.jpg"
                                     alt="">
                             </td>
                             <td></td>
