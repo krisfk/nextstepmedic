@@ -176,7 +176,7 @@ get_header();
                 <div id="datepicker" class="mt-3"></div>
             </div>
             <div class="col-5">
-                <div class="bold">for any enquiries, please leave us your message:</div>
+                <div class="bold">For any enquiries, please leave us your message:</div>
 
 
                 <div class="row  mt-3">
