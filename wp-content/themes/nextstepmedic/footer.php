@@ -48,7 +48,7 @@
 
                     <li><a href="<?php echo get_site_url();?>/podiatry">Podiatry</a></li>
 
-                    <li><a href="<?php echo get_site_url();?>/page-swift-laser-wart-treatment">Swift Laser - Wart
+                    <li><a href="<?php echo get_site_url();?>/swift-laser-wart-treatment">Swift Laser - Wart
                             Treatment</a></li>
 
                     <li><a href="<?php echo get_site_url();?>/lunula-laser-fungal-nail-treatment">Lunula Laser - Fungal
