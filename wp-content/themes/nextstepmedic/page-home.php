@@ -167,7 +167,7 @@ get_header();
     <div class="row pt-4 pb-4  service-row gx-0">
         <div class="col-6">
 
-            <div class="service-title">Swift Laser Wart Treatmen
+            <div class="service-title">Swift Laser Wart Treatment
             </div>
 
             <div class="mt-4">SWIFT is a cutting-edge technology that has proven to be highly effective, faster and
