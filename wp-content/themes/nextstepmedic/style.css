@@ -321,14 +321,14 @@ body {
 }
 
 a.book-an-appointment-a-btn {
-    color: #bf9d81;
+    color: #fff;
     text-decoration: none;
-    background: #fff;
+    background: #bf9d81;
     display: block;
     margin: 0 auto;
     width: fit-content;
     padding: 0.5rem 2rem 0.5rem 5rem;
-    background: url(./assets/images/book-icon.png) #fff no-repeat;
+    background: url(./assets/images/book-icon-2.png) #bf9d81 no-repeat;
     background-size: 33px auto;
     background-position: 2rem center;
     border-radius: 8px;
