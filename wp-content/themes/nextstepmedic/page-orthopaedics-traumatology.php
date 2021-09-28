@@ -129,7 +129,7 @@ get_header();
                 <li>Shoulder Pain</li>
                 <li>Spine Pain</li>
                 <li>Sports Medicine</li>
-                <li>Paediatrics</li>
+                <!-- <li>Paediatrics</li> -->
             </ul>
 
 
