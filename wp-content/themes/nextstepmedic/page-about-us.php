@@ -81,12 +81,12 @@ get_header();
             Registered Physiotherapist (NZ)
         </div>
 
-        <div class="team-member-subtitle mt-4">
+        <!-- <div class="team-member-subtitle mt-4">
 
             BPhty (NZ) <br>
             MPNZ - Member of Physiotherapy New Zealand
 
-        </div>
+        </div> -->
 
         <div class="team-member-description mt-4">Jeff gained his Bachelor of Physiotherapy at University of Otago, New
             Zealand. After graduation, he completed postgraduate courses in Dry Needling, Sports Rehabilitation,
