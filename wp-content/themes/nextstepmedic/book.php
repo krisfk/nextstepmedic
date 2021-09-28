@@ -3,7 +3,7 @@
         Book an Appointment
     </a>
 
-    <div class="container white fw-bolder fst-italic mt-3">
+    <div class="container white fw-bolder fst-italic mt-3 text-center">
         Take your NEXT STEP to consult our team and treat your problems proactively.
     </div>
 </div>
