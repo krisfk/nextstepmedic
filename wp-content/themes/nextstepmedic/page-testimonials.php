@@ -40,9 +40,9 @@ get_header();
 
 <div class="container testimonials-container mt-5 mb-5">
 
-    <div class="slides">
+    <div class="slides row">
 
-        <div class="slide">
+        <div class="slide col-4">
 
 
             <a href="#">
@@ -56,7 +56,7 @@ get_header();
                 <div class="person-name mt-3">Jen Esposito</div>
             </a>
         </div>
-        <div class="slide">
+        <div class="slide  col-4">
             <a href="#">
 
                 <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
@@ -70,7 +70,7 @@ get_header();
             </a>
 
         </div>
-        <div class="slide">
+        <div class="slide  col-4">
             <a href="#">
 
                 <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
