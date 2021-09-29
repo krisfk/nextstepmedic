@@ -224,12 +224,14 @@ get_header();
                         Heat shock proteins within HPV infected cells are released, alerting the body to the presence of
                         the virus.
                     </div>
-                    <div class="col-6">
-
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/9y2-T_HRwto"
+                    <div class="col-6 position-relative">
+                        <iframe class="youtube-iframe" src="https://www.youtube.com/embed/9y2-T_HRwto"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
+
+                        <img class="w-100"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-14@2x-50-1.jpg" alt="">
                     </div>
                 </div>
 
