@@ -134,10 +134,13 @@ get_header();
 
                     </div>
 
-                    <div>Reference from MayoClinic</div>
                     <div class="col-6"><img class="w-100"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-13@2x-50-2.jpg" alt="">
                     </div>
+
+                    <div class="small">Reference from MayoClinic</div>
+
+
                 </div>
             </div>
 
