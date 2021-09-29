@@ -573,7 +573,7 @@ get_header();
             </a>
             <div class="accordion-content">
 
-
+                Treatment with Lunula ‘Cold laser’ is completely pain-free.
             </div>
 
 
