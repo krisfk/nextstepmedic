@@ -166,8 +166,7 @@ get_header();
 
     <div class="row mt-5">
         <div class="col-12">
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-3-scaled.jpg"
-                alt="">
+            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Untitled-2.jpg" alt="">
             <div class="brown-bg pt-4 pe-5 ps-5 pb-4">
 
                 <div class="service-subtitle white">Our Physiotherapeutic Services
