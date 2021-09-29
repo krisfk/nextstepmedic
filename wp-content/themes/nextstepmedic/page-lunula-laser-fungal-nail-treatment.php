@@ -267,8 +267,17 @@ get_header();
             </div>
         </div>
 
-        <div class="col-6">
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-24@2x-50.jpg" alt="">
+        <div class="col-6 position-relative">
+
+
+            <iframe class="vimeo-iframe" src="https://player.vimeo.com/video/174575646?h=64b2315f11" frameborder="0"
+                allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+
+
+            <img class="w-100 opacity-0" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-24@2x-50.jpg"
+                alt="">
+
         </div>
 
 
