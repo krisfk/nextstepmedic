@@ -878,7 +878,8 @@ a.ui-button:active,
     opacity: 0.85;
 }
 
-.youtube-iframe {
+.youtube-iframe,
+.vimeo-iframe {
     position: absolute;
     top: 0;
     left: 0;
