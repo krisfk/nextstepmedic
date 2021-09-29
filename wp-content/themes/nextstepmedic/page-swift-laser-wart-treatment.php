@@ -225,8 +225,11 @@ get_header();
                         the virus.
                     </div>
                     <div class="col-6">
-                        <img class="w-100"
-                            src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-14@2x-50-1.jpg" alt="">
+
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/9y2-T_HRwto"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
                     </div>
                 </div>
 
