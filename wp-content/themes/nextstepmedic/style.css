@@ -882,6 +882,10 @@ a.ui-button:active,
     z-index: 100;
 }
 
+.before-after-skin-div {
+    background: url(./assets/images/arrow-r.png);
+}
+
 .before-after-skin-div img {
     width: 60%;
 }
