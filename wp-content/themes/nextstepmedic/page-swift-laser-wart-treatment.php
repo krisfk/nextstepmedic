@@ -495,7 +495,7 @@ get_header();
 
     <div class="mt-2">
         <div class="row g-0">
-            <a href="https://sa1s3.patientpop.com/assets/docs/294799.pdf" target="_blank" class="col-3"><img
+            <a class="col-3" href="https://sa1s3.patientpop.com/assets/docs/294799.pdf" target="_blank"><img
                     class="leaflet-img" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@2x-50-2.jpg"
                     alt="">
                 <div class="mt-2">New Patient Brochure</div>
