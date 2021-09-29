@@ -532,7 +532,8 @@ $(function() {
 
     $('.find-out-more-btn').click(function() {
 
-        $(this).next('.hide-content').fadeIn(0);
+        $(this).fadeOut(0)
+        $(this).next('.hide-content').slideDown(200);
 
     })
 })
