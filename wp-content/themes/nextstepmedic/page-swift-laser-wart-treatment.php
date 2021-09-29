@@ -498,16 +498,16 @@ get_header();
             <div class="col-3"><img class="leaflet-img"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@2x-50-2.jpg" alt="">
                 <div class="mt-2">New Patient Brochure</div>
-                <div class="mt-3"> <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out
-                        More</a>
+                <div class="mt-3"> <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">
+                        Learn more</a>
                 </div>
             </div>
             <div class="col-3"><img class="leaflet-img"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-11@2x-50-1.jpg" alt="">
                 <div class="mt-2">Swift Warts Research Study
                 </div>
-                <div class="mt-3"> <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out
-                        More</a>
+                <div class="mt-3"> <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Learn more
+                    </a>
                 </div>
             </div>
         </div>
