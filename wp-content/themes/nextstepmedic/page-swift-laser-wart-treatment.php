@@ -495,13 +495,14 @@ get_header();
 
     <div class="mt-2">
         <div class="row g-0">
-            <div class="col-3"><img class="leaflet-img"
-                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@2x-50-2.jpg" alt="">
+            <a href="https://sa1s3.patientpop.com/assets/docs/294799.pdf" target="_blank" class="col-3"><img
+                    class="leaflet-img" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@2x-50-2.jpg"
+                    alt="">
                 <div class="mt-2">New Patient Brochure</div>
                 <div class="mt-3"> <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">
                         Learn More</a>
                 </div>
-            </div>
+            </a>
             <div class="col-3"><img class="leaflet-img"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-11@2x-50-1.jpg" alt="">
                 <div class="mt-2">Swift Warts Research Study
