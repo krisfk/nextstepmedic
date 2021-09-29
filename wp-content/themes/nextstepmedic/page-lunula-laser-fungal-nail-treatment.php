@@ -84,7 +84,7 @@ get_header();
 
 
 
-    <div class="service-subtitle mt-5">FAQ</div>
+    <div class="service-subtitle mt-5">FAQs</div>
 
 
 
@@ -365,7 +365,7 @@ get_header();
 
     </div>
 
-    <div class="service-subtitle mt-5">FAQ</div>
+    <div class="service-subtitle mt-5">FAQs</div>
 
 
 
@@ -695,15 +695,18 @@ get_header();
 $(function() {
 
     $('.accordion a').click(function() {
-        $('.accordion a').removeClass('active');
-        $(this).addClass('active');
-        $('.accordion-content').fadeOut(0);
-        $(this).next('.accordion-content').slideDown(200);
 
-        // $('body,html').
-        $("body,html").scrollTop($(this).offset().top);
+        if ($(this).hasClass('active')) {
+            $('.accordion a').removeClass('active');
 
-
+            $(this).next('.accordion-content').slideUp(200);
+        } else {
+            $('.accordion a').removeClass('active');
+            $(this).addClass('active');
+            $('.accordion-content').fadeOut(0);
+            $(this).next('.accordion-content').slideDown(200);
+            $("body,html").scrollTop($(this).offset().top);
+        }
     })
 })
 </script>
