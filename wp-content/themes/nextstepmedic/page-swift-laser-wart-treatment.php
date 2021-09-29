@@ -351,7 +351,7 @@ get_header();
                             <div class="gold big">Before Treatment
                             </div>
 
-                            <ul>
+                            <ul class="mt-2">
                                 <li>Pain level of 7-8/10</li>
                                 <li> Needling treatment failed</li>
                                 <li>3 treatment of 10W for 5 seconds</li>
