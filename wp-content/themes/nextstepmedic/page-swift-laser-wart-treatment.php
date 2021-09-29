@@ -459,12 +459,35 @@ get_header();
 
     </div>
 
+
+
+
     <div class="row mt-2">
 
-        <div class="col-6"><img class="w-100"
-                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-3.jpg" alt="">
+        <div class="col-6 position-relative
+">
+
+
+            <iframe src="https://player.vimeo.com/video/203867791?h=91ec8079e0&title=0&byline=0&portrait=0" width="640"
+                height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+
+            <img class="w-100 opacity-0" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-3.jpg"
+                alt="">
+        </div>
+        <div class="col-6 position-relative
+">
+
+
+            <iframe src="https://player.vimeo.com/video/203867791?h=91ec8079e0&title=0&byline=0&portrait=0" width="640"
+                height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+
+            <img class="w-100 opacity-0" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-3.jpg"
+                alt="">
         </div>
     </div>
+
 
     <div class="service-subtitle mt-5">For More Details</div>
 
