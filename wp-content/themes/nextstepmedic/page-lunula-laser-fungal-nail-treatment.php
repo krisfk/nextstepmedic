@@ -275,7 +275,8 @@ get_header();
 
 
 
-            <img class="w-100 " src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-24@2x-50.jpg" alt="">
+            <img class="w-100 opacity-0" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-24@2x-50.jpg"
+                alt="">
 
         </div>
 
