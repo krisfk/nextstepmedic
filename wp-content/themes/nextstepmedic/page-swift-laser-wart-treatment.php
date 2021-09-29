@@ -386,12 +386,39 @@ get_header();
                         <div class="before-after-skin-div">
                             <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/skin-3.png" alt="">
                         </div>
+                        <div class="mt-3">
+
+                            <div class="gold big">After 8 weeks
+
+                            </div>
+
+                            <div class="mt-2 w-75">
+                                4 weeks after 2nd treatment
+
+                            </div>
+
+
+                        </div>
                     </div>
 
                     <div class="col-3">
                         <div class="before-after-skin-div">
                             <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/skin-4.png" alt="">
                         </div>
+                        <div class="mt-3">
+
+                            <div class="gold big">After 12 weeks
+
+                            </div>
+
+                            <div class="mt-2 w-75">
+                                4 weeks after 3rd treatment
+
+                            </div>
+
+
+                        </div>
+
                     </div>
 
                 </div>
