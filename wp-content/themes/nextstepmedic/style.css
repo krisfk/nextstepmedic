@@ -878,6 +878,10 @@ a.ui-button:active,
     opacity: 0.85;
 }
 
+.italic {
+    font-style: italic;
+}
+
 .youtube-iframe,
 .vimeo-iframe {
     position: absolute;
