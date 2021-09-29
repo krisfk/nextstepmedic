@@ -139,6 +139,10 @@ get_header();
                 and advice. We treat all problems on feet of all ages as well as all problems associated with a wide
                 range of medical conditions.
             </div>
+            <div class="mt-3">Perhaps you have a painful lesion or hard skin on your foot or maybe you have thickened
+                nails that you cannot manage, general podiatry care will help give pain relief and allow you to walk
+                pain free.
+            </div>
             <div class="mt-3">
                 <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Find Out More</a>
 
