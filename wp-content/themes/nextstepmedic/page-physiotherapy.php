@@ -506,12 +506,13 @@ get_header();
 
             <div class="gold">
                 <div class="person-name">
-                    Jeff Law Lok Way
+                    Jeff Law Lok Way <br>
+                    Registered Physiotherapist (NZ)
+
                 </div>
 
                 <div class="mt-3">
                     BPhty (NZ) <br>
-                    NZ Registered Physiotherapist<br>
                     MPNZ - Member of Physiotherapy New Zealand
                 </div>
             </div>
