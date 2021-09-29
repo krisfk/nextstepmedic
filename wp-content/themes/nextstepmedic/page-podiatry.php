@@ -527,6 +527,16 @@ get_header();
 </div>
 
 
+<script type="text/javascript">
+$(function() {
+
+    $('.find-out-more-btn').click(function() {
+
+        $(this).next('.hide-content').fadeIn(0);
+
+    })
+})
+</script>
 <?php
 
 
