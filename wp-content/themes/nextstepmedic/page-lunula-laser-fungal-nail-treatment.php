@@ -627,7 +627,7 @@ get_header();
     </div>
     <div class="mt-3">
 
-        <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">LEARN MORE</a>
+        <a href="javascript:void(0);" class="find-out-more-btn brown-round-btn ">Learn More</a>
     </div>
 
     <div class="sep mt-4"></div>
