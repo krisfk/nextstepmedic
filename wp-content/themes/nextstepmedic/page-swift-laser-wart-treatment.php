@@ -338,6 +338,17 @@ get_header();
 
                 <div class="gold bold mt-3">Before & After Treatment
                 </div>
+                <div class="row">
+
+                    <div class="col-3"><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/skin-1.png"
+                            alt=""></div>
+                    <div class="col-3"><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/skin-2.png"
+                            alt=""></div>
+                    <div class="col-3"><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/skin-3.png"
+                            alt=""></div>
+                    <div class="col-3"><img src="https://nextstepmedic.com/wp-content/uploads/2021/09/skin-4.png"
+                            alt=""></div>
+                </div>
             </div>
 
 
