@@ -860,3 +860,7 @@ a.ui-button:active,
     background: #bf9d81;
     color: #fff;
 }
+
+.hide-content {
+    display: none;
+}
