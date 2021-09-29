@@ -338,7 +338,7 @@ get_header();
 
                 <div class="gold bold mt-3">Before & After Treatment
                 </div>
-                <div class="row">
+                <div class="row mt-3">
 
                     <div class="col-3">
 
