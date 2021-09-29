@@ -138,7 +138,7 @@ get_header();
                             src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-13@2x-50-2.jpg" alt="">
                     </div>
 
-                    <div class="small font-italic">Reference from MayoClinic</div>
+                    <div class="small italic">Reference from MayoClinic</div>
 
 
                 </div>
