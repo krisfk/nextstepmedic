@@ -348,7 +348,7 @@ get_header();
 
                         <div>
 
-                            <div class="gold">Before Treatment
+                            <div class="gold big">Before Treatment
                             </div>
 
                             <ul>
