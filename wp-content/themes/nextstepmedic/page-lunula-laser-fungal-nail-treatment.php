@@ -592,18 +592,24 @@ get_header();
     <div class="service-subtitle mt-5">Patient Reviews</div>
 
     <div class="mt-3">
-        <a href="javascript:void(0);" class="brown-round-btn">A Retrospective Study of Non-thermal Laser Therapy for the
+        <a target="_blank"
+            href="https://www.erchonia.com/wp-content/uploads/2017/07/Zang_A-Retrospective-Study-of-Non-thermal-Laser-Therapy-for-the-Treatment-of-Toenail-Onychomycosis_JCAD_05_17.pdf"
+            class="brown-round-btn">A Retrospective Study of Non-thermal Laser Therapy for the
             Treatment of Toenail
             Onychomycosis
         </a>
     </div>
     <div class="mt-3">
-        <a href="javascript:void(0);" class="brown-round-btn">Clearing Onychomycosis through Low-Level Laser Therapy
+        <a target="_blank"
+            href="https://www.erchonia.com/wp-content/uploads/2017/07/Tumulo_Clearing-Onychomycosis-through-Low-Level-Laser-Therapy_Podiatry-Management_01_17.pdf"
+            class="brown-round-btn">Clearing Onychomycosis through Low-Level Laser Therapy
 
         </a>
     </div>
     <div class="mt-3">
-        <a href="javascript:void(0);" class="brown-round-btn">Erchonia Laser Therapy in the Treatment of Onychomycosis
+        <a target="_blank"
+            href="https://www.erchonia.com/wp-content/uploads/2017/07/Sullivan_Erchonia-Laser-Therapy-in-the-Treatment-of-Onychomycosis-Preliminary-Report_Podiatry-Review-Vol-71_2_03_14.pdf"
+            class="brown-round-btn">Erchonia Laser Therapy in the Treatment of Onychomycosis
 
         </a>
     </div>
