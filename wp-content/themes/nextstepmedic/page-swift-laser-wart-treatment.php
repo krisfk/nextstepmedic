@@ -345,6 +345,21 @@ get_header();
                         <div class="before-after-skin-div">
                             <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/skin-1.png" alt="">
                         </div>
+
+                        <div>
+
+                            <div>Before Treatment
+                            </div>
+
+                            <ul>
+                                <li>Pain level of 7-8/10</li>
+                                <li> Needling treatment failed</li>
+                                <li>3 treatment of 10W for 5 seconds</li>
+                                <li>Pain reduced to 3/10 after 2nd treatment</li>
+                            </ul>
+
+
+                        </div>
                     </div>
                     <div class="col-3">
                         <div class="before-after-skin-div">
