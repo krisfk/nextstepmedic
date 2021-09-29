@@ -372,10 +372,10 @@ get_header();
 
                             </div>
 
-                            <ul class="mt-2 w-75">
-                                <li>4 weeks after 1st treatment
-                                </li>
-                            </ul>
+                            <div class="mt-2 w-75">
+                                4 weeks after 1st treatment
+
+                            </div>
 
 
                         </div>
