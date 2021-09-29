@@ -881,3 +881,7 @@ a.ui-button:active,
     height: 100%;
     z-index: 100;
 }
+
+.before-after-skin-div img {
+    width: 60%;
+}
