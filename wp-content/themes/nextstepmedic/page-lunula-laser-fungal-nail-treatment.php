@@ -166,7 +166,7 @@ get_header();
         you’ll also be coached on how best to self-manage your issue so that it does not reoccur.<br><br>
 
         Fungal nail infections can be difficult to treat. Treatment depends on the severity of your condition and the
-        type of fungus causing it
+        type of fungus causing it.
 
 
     </div>
