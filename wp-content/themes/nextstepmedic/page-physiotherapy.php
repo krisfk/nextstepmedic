@@ -189,6 +189,16 @@ get_header();
                     options will be discussed with you at this point.
 
                 </div>
+                <div class="mt-3">
+                    <div class="bold">Treatment and Exercise Plans
+
+                    </div>
+                    The treatment plan is tailored to you.  Follow-up sessions will continue the treatment process and
+                    any adjustments, based on how you present, can be made to the plan.
+
+
+                </div>
+
 
             </div>
         </div>
