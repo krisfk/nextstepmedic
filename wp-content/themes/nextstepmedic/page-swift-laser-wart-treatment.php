@@ -336,6 +336,8 @@ get_header();
                 SWIFT protocol involves between 3 and 4 treatments, spaced 4 weeks apart; aligning with the body’s
                 natural immune cycle. Each treatment lasts 15 minutes.
 
+                <div class="gold  bold">Before & After Treatment
+                </div>
             </div>
 
 
