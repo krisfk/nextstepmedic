@@ -468,7 +468,8 @@ get_header();
 ">
 
 
-            <iframe src="https://player.vimeo.com/video/203867791?h=91ec8079e0&title=0&byline=0&portrait=0" width="640"
+            <iframe class="vimeo-iframe"
+                src="https://player.vimeo.com/video/203867791?h=91ec8079e0&title=0&byline=0&portrait=0" width="640"
                 height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -479,7 +480,8 @@ get_header();
 ">
 
 
-            <iframe src="https://player.vimeo.com/video/203867791?h=91ec8079e0&title=0&byline=0&portrait=0" width="640"
+            <iframe class="vimeo-iframe"
+                src="https://player.vimeo.com/video/203867791?h=91ec8079e0&title=0&byline=0&portrait=0" width="640"
                 height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
