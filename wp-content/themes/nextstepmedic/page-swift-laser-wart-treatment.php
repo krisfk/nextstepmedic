@@ -230,7 +230,7 @@ get_header();
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
 
-                        <img class="w-100"
+                        <img class="w-100 opacity-0"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-14@2x-50-1.jpg" alt="">
                     </div>
                 </div>
