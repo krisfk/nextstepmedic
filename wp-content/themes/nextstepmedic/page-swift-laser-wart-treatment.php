@@ -475,8 +475,9 @@ $(function() {
     $('.accordion a').click(function() {
 
         if ($(this).hasClass('active')) {
-            $(this).next('.accordion-content').slideUp(200);
+            $('.accordion a').removeClass('active');
 
+            $(this).next('.accordion-content').slideUp(200);
         } else {
             $('.accordion a').removeClass('active');
             $(this).addClass('active');
