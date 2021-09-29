@@ -346,7 +346,7 @@ get_header();
                             <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/skin-1.png" alt="">
                         </div>
 
-                        <div>
+                        <div class="mt-3">
 
                             <div class="gold big">Before Treatment
                             </div>
