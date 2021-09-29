@@ -443,10 +443,17 @@ get_header();
                     href="https://vimeo.com/emblationmicrowave">Emblation</a> on <a href="https://vimeo.com">Vimeo</a>.
             </p>
 
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-3.jpg" alt="">
+            <img class="w-100 opacity-0" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-3.jpg"
+                alt="">
         </div>
-        <div class="col-6 position-relative"><img class="w-100"
-                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50-3.jpg" alt="">
+        <div class="col-6 position-relative">
+            <iframe class="vimeo-iframe" src="https://player.vimeo.com/video/144472345?h=eb848d9485" frameborder="0"
+                allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+            <p><a href="https://vimeo.com/144472345">Swift</a> from <a
+                    href="https://vimeo.com/emblationmicrowave">Emblation</a> on <a href="https://vimeo.com">Vimeo</a>.
+            </p>
+            <img class="w-100 opacity-0" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50-3.jpg"
+                alt="">
         </div>
     </div>
 
