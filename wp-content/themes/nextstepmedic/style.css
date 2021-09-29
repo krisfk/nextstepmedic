@@ -883,7 +883,8 @@ a.ui-button:active,
 }
 
 .before-after-skin-div {
-    background: url(./assets/images/arrow-r.png);
+    background: url(./assets/images/right-arrow.png) no-repeat;
+    background-position: 100% center;
 }
 
 .before-after-skin-div img {
