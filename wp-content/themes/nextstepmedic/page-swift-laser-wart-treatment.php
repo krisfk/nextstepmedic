@@ -366,6 +366,20 @@ get_header();
 
                             <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/skin-2.png" alt="">
                         </div>
+                        <div class="mt-3">
+
+                            <div class="gold big">After 4 weeks
+
+                            </div>
+
+                            <ul class="mt-2 w-75">
+                                <li>4 weeks after 1st treatment
+                                </li>
+                            </ul>
+
+
+                        </div>
+
                     </div>
 
                     <div class="col-3">
