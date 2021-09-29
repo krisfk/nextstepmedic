@@ -864,3 +864,11 @@ a.ui-button:active,
 .hide-content {
     display: none;
 }
+
+.find-out-more-btn {
+    transition: 0.2s all;
+}
+
+.find-out-more-btn:hover {
+    opacity: 0.85;
+}
