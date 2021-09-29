@@ -439,9 +439,8 @@ get_header();
 
             <iframe class="vimeo-iframe" src="https://player.vimeo.com/video/144006785?h=5ed96da456" frameborder="0"
                 allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-            <p><a href="https://vimeo.com/144006785">Advantages of using Swift</a> from <a
-                    href="https://vimeo.com/emblationmicrowave">Emblation</a> on <a href="https://vimeo.com">Vimeo</a>.
-            </p>
+
+
 
             <img class="w-100 opacity-0" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-3.jpg"
                 alt="">
@@ -449,9 +448,8 @@ get_header();
         <div class="col-6 position-relative">
             <iframe class="vimeo-iframe" src="https://player.vimeo.com/video/144472345?h=eb848d9485" frameborder="0"
                 allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-            <p><a href="https://vimeo.com/144472345">Swift</a> from <a
-                    href="https://vimeo.com/emblationmicrowave">Emblation</a> on <a href="https://vimeo.com">Vimeo</a>.
-            </p>
+
+
             <img class="w-100 opacity-0" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50-3.jpg"
                 alt="">
         </div>
