@@ -169,16 +169,27 @@ get_header();
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Untitled-2.jpg" alt="">
             <div class="brown-bg pt-4 pe-5 ps-5 pb-4">
 
-                <div class="service-subtitle white">Our Physiotherapeutic Services
+                <div class="service-subtitle white">Our Comprehensive Physiotherapy Process
 
                 </div>
-                <div class="mt-3">Our physiotherapists are chartered and Hong Kong registered with extensive
-                    experiences in musculoskeletal condition, sport injuries and work related conditions. Prevention
-                    and evidence-based practice are our desired objectives in all applied interventions. We educate
-                    our clients about general health and posture, especially how to prevent re-occurrence of same
-                    injury or complication and other conditions by specified techniques.
+
+                <div class="mt-3">
+                    <div class="bold">Assessments</div>
+                    On your first visit, you will be asked about your current problem and the impact on your life and
+                    activities. Your physiotherapists will want to know about your previous injuries, general medical
+                    heath, and physical goals.  They will then perform a physical examination to establish what
+                    anatomical structure(s) are the source of your pain, and what underlying factors might be
+                    contributing to the problem, such as weakness or biomechanical issues. 
+                </div>
+                <div class="mt-3">
+                    <div class="bold">Report of Findings
+                    </div>
+                    From here, your physio will discuss the findings and consider the treatment options with you to
+                    achieve your specific goals. If X-rays, other images or further testing is required, your referral
+                    options will be discussed with you at this point.
 
                 </div>
+
             </div>
         </div>
     </div>
