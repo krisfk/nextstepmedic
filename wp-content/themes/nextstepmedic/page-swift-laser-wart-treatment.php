@@ -205,7 +205,7 @@ get_header();
     </div>
 
 
-    <div class="service-subtitle mt-5">FAQ</div>
+    <div class="service-subtitle mt-5">FAQs</div>
 
 
 
