@@ -778,6 +778,7 @@ a.ui-button:active,
 
 .accordion a {
     text-decoration: none;
+    font-size: 1.1rem;
     color: #58595b;
     font-family: 'Futura-Bold';
     width: 100%;
