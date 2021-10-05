@@ -41,8 +41,10 @@ get_header();
         </div>
     </div>
 
-    <!-- <div class="position-relative slide">
-        <div class="row position-absolute w-100 h-100 gx-0 ">
+    <div class="position-relative slide">
+        <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-2-scaled.jpg" alt="">
+
+        <div class="row banner-content-row w-100 h-100 gx-0 ">
             <div class="col-6"></div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12  slide-content-txt-div-wrap">
                 <div class="row align-items-center h-100">
@@ -66,11 +68,12 @@ get_header();
                 </div>
             </div>
         </div>
-        <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-2-scaled.jpg" alt="">
     </div>
 
     <div class="position-relative slide">
-        <div class="row position-absolute w-100 h-100 gx-0 ">
+        <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-3-scaled.jpg" alt="">
+
+        <div class="row banner-content-row w-100 h-100 gx-0 ">
             <div class="col-6"></div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12  slide-content-txt-div-wrap">
                 <div class="row align-items-center h-100">
@@ -92,8 +95,7 @@ get_header();
                 </div>
             </div>
         </div>
-        <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-3-scaled.jpg" alt="">
-    </div> -->
+    </div>
 
 </div>
 
