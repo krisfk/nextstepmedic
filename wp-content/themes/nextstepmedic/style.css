@@ -927,6 +927,11 @@ a.ui-button:active,
 }
 
 @media only screen and (max-width: 991px) {
+    .book-an-appointment-div {
+        background: #a4724a;
+        color: #fff;
+        font-size: 1.2rem;
+    }
     .learn-more-book-btns {
         display: none;
     }
