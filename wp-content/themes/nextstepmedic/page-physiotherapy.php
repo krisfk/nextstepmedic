@@ -291,7 +291,7 @@ get_header();
         <li><a href="javascript:void(0);">Manipulations</a>
             <div class="accordion-content">
 
-                <div class="row">
+                <div class="row mobile-reverse">
 
                     <div class="col-lg-6 col-md-12 col-sm-12 col-12"> A manipulation is a technique that can be applied
                         to patients whose
