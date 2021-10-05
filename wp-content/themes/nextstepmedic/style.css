@@ -927,6 +927,9 @@ a.ui-button:active,
 }
 
 @media only screen and (max-width: 991px) {
+    .big-banner-central-row {
+        position: relative;
+    }
     .book-an-appointment-div {
         background: #a4724a;
         color: #fff;
