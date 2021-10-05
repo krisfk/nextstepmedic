@@ -157,7 +157,7 @@ get_header();
     </div>
 
 
-    <div class="row pt-4 pb-4  service-row gx-0">
+    <div class="row pt-4 pb-4  service-row gx-0 mobile-reverse-row">
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
             <div class="service-title">Swift Laser Wart Treatment

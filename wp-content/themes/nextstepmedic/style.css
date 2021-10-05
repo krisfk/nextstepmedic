@@ -914,6 +914,9 @@ a.ui-button:active,
         height: fit-content;
         padding: 1rem;
     }
+    .mobile-reverse-row {
+        flex-direction: column-reverse;
+    }
 }
 
 @media only screen and (max-width: 768px) {}
