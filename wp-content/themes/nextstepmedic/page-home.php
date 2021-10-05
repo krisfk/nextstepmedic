@@ -217,7 +217,7 @@ get_header();
         <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-4">
 
 
-            <a href="#">
+            <a href="#" class="testimonials-foto-a">
                 <img class="w-100 testimonials-foto"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
                 <div class="mt-4">“I have been continually impressed over the past 7 years with the kind care and
@@ -230,7 +230,7 @@ get_header();
             </a>
         </div>
         <div class="col-lg-4 col-md-12 col-sm-12 col-12  mb-4">
-            <a href="#">
+            <a href="#" class="testimonials-foto-a">
 
                 <img class="w-100 testimonials-foto"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
@@ -245,7 +245,7 @@ get_header();
 
         </div>
         <div class="col-lg-4 col-md-12 col-sm-12 col-12  mb-4">
-            <a href="#">
+            <a href="#" class="testimonials-foto-a">
 
                 <img class="w-100  testimonials-foto"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">

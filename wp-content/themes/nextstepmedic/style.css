@@ -901,6 +901,10 @@ a.ui-button:active,
     width: 80%;
 }
 
+.testimonials-foto-a {
+    display: inline-block;
+}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (max-width: 1200px) {
@@ -910,9 +914,12 @@ a.ui-button:active,
 }
 
 @media only screen and (max-width: 991px) {
+    .testimonials-foto-a {
+        display: inline-block;
+        margin: 0 auto;
+    }
     .testimonials-foto {
         max-width: 300px;
-        margin: 0 auto;
     }
     .slide-content-txt-div-wrap {
         height: fit-content;
