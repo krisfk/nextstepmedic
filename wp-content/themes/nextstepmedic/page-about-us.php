@@ -16,6 +16,9 @@ get_header();
 
 <div class="position-relative">
 
+    <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x.jpg" alt="">
+
+
     <div class="row big-banner-central-row gx-0">
 
         <div class="col-12">
@@ -47,7 +50,6 @@ get_header();
         </div>
     </div>
 
-    <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x.jpg" alt="">
 </div>
 
 
