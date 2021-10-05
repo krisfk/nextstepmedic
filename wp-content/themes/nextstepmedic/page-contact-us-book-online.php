@@ -98,7 +98,7 @@ get_header();
 
 
         <div class="row gx-5 justify-content-center contact-us-info-div mt-5">
-            <div class="col-5">
+            <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
 
                 <div class="contact-subtitle">Contact Us
                 </div>
@@ -137,7 +137,7 @@ get_header();
 
 
             </div>
-            <div class="col-5">
+            <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
 
 
                 <div class="contact-subtitle">Opening Hours
