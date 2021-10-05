@@ -71,7 +71,7 @@ get_header();
         </div>
 
     </div>
-    <div class="row justify-content-center mt-5 mb-5">
+    <div class="row justify-content-center mt-lg-5 mt-md-0 mt-sm-0 mt-0 mb-5">
         <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col mb-lg-0 mb-md-4 mb-sm-4 mb-4"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50.jpg" alt="">
             <div class="service-title-div">
