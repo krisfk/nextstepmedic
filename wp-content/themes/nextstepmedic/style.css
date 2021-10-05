@@ -905,7 +905,7 @@ a.ui-button:active,
 
 @media only screen and (max-width: 1200px) {}
 
-@media only screen and (max-width: 976px) {
+@media only screen and (max-width: 991px) {
     .top-menu-ul {
         display: none;
     }
