@@ -914,6 +914,20 @@ a.ui-button:active,
 }
 
 @media only screen and (max-width: 991px) {
+    a.book-an-appointment-a-btn {
+        color: #fff;
+        text-decoration: none;
+        background: #bf9d81;
+        display: block;
+        margin: 0 auto;
+        width: fit-content;
+        padding: 0.5rem 2rem 0.5rem 5rem;
+        background: url(./assets/images/book-icon-2.png) #bf9d81 no-repeat;
+        background-size: 33px auto;
+        background-position: 2rem center;
+        border-radius: 8px;
+        font-size: 1.3rem;
+    }
     .lunula-laser-img {
         display: block;
         margin: 0 auto;
