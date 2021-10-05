@@ -350,7 +350,7 @@ get_header();
     </div>
 
 
-    <div class="row mt-5">
+    <div class="row mt-5 mobile-reverse">
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="grey-bold">Orthotics / Insoles / Footwear
