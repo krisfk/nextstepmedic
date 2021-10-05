@@ -37,9 +37,9 @@ get_header();
     <div class="row mt-lg-5 mt-md-0 mt-sm-0  mt-0">
 
 
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-1@2x-50-1.jpg" alt=""></div>
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
             <div class="service-subtitle">What Does A Podiatrist Treat?</div>
             <div class="mt-3">
 
