@@ -905,18 +905,17 @@ a.ui-button:active,
 
 @media only screen and (max-width: 1200px) {}
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 976px) {
     .top-menu-ul {
         display: none;
     }
-}
-
-@media only screen and (max-width: 768px) {
     .slide-content-txt-div-wrap {
         height: fit-content;
         padding: 1rem;
     }
 }
+
+@media only screen and (max-width: 768px) {}
 
 @media only screen and (max-width: 648px) {}
 
