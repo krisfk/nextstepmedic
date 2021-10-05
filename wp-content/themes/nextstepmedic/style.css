@@ -905,7 +905,9 @@ a.ui-button:active,
 
 @media only screen and (max-width: 1200px) {}
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 991px) {}
+
+@media only screen and (max-width: 768px) {
     .top-menu-ul {
         display: none;
     }
@@ -914,8 +916,6 @@ a.ui-button:active,
         padding: 1rem;
     }
 }
-
-@media only screen and (max-width: 768px) {}
 
 @media only screen and (max-width: 648px) {}
 
