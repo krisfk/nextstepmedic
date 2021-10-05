@@ -86,7 +86,7 @@ get_header();
 
 
             </div>
-            <div class="col-5 position-relative">
+            <div class="col-lg-5 col-md-12 col-sm-12 col-12  position-relative">
 
                 <div id="map"></div>
 
