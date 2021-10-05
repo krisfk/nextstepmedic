@@ -99,6 +99,14 @@ get_header();
 
 </div>
 
+<div class="text-center mt-lg-5 mt-md-3 mt-sm-3 mt-3 ">
+
+    <a href="<?php echo get_site_url();?>/services" class="slide-btns">Learn More</a>
+    <a href="<?php echo get_site_url();?>/contact-us-book-online" class="slide-btns">Book an
+        Appointment</a>
+</div>
+
+
 <div class="container">
 
     <div class="row pt-4 pb-4 service-row  gx-0">
