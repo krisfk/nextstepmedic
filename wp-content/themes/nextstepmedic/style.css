@@ -923,11 +923,10 @@ a.ui-button:active,
         max-width: 70%;
         line-height: 1.5rem;
     }
-    .slide-content-txt-div {
-        display: block;
-        margin: 0 auto;
-        max-width: 70%;
-        line-height: 1.5rem;
+    .page-home .service-title {
+        font-size: 2rem;
+        color: #bf9d81;
+        font-family: 'Playfair Display';
     }
 }
 
