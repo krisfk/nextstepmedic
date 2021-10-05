@@ -388,7 +388,7 @@ get_header();
         <li><a href="javascript:void(0);">Massage</a>
             <div class="accordion-content">
 
-                <div class="row">
+                <div class="row mobile-reverse">
 
                     <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                         Massage is a soft tissue technique with direct influence on the muscles, tendons, ligaments
@@ -398,7 +398,7 @@ get_header();
                         flexibility and ultimately speeding up recovery time.
                     </div>
 
-                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3">
                         <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x-50.jpg"
                             alt="">
                     </div>
