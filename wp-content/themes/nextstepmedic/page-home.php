@@ -99,13 +99,15 @@ get_header();
 
 </div>
 
-<div class="text-center mt-lg-4 mt-md-4 mt-sm-4 mt-4 ">
+<div class="container mobile-learn-more-book-btns">
+    <div class="text-center mt-lg-4 mt-md-4 mt-sm-4 mt-4 ">
 
-    <a href="<?php echo get_site_url();?>/services" class="slide-btns">Learn More</a>
-    <a href="<?php echo get_site_url();?>/contact-us-book-online" class="slide-btns">Book an
-        Appointment</a>
+        <a href="<?php echo get_site_url();?>/services" class="slide-btns">Learn More</a>
+        <a href="<?php echo get_site_url();?>/contact-us-book-online" class="slide-btns">Book an
+            Appointment</a>
+    </div>
+
 </div>
-
 
 <div class="container">
 

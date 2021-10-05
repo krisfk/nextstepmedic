@@ -909,6 +909,10 @@ a.ui-button:active,
     position: absolute;
 }
 
+.mobile-learn-more-book-btns {
+    display: none;
+}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (max-width: 1200px) {
@@ -918,6 +922,9 @@ a.ui-button:active,
 }
 
 @media only screen and (max-width: 991px) {
+    .mobile-learn-more-book-btns {
+        display: block;
+    }
     .banner-content-row {
         position: relative;
     }
