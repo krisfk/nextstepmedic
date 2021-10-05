@@ -180,7 +180,7 @@ get_header();
     </div>
 
     <div class="row pt-4 pb-4  service-row gx-0 mobile-reverse">
-        <div class="col-lg-8 col-md-12 col-sm-12 col-12 ">
+        <div class="col-lg-8 col-md-12 col-sm-12 col-12 mt-lg-0 mt-md-2 mt-sm-2 mt-2   ">
 
             <div class="service-title">Lunula Laser Fungal Nail Treatment
 
