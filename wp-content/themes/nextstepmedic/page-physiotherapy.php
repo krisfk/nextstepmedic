@@ -235,7 +235,7 @@ get_header();
                         movement. Such treatment is very effective as it encompasses activity within your muscles
                         with a
                         hands on technique to help return your movement back to ‘normal’.</div>
-                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3">
                         <img class="w-100"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-1.jpg" alt="">
                     </div>
