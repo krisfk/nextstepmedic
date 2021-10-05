@@ -914,6 +914,10 @@ a.ui-button:active,
 }
 
 @media only screen and (max-width: 991px) {
+    .lunula-laser-img {
+        display: block;
+        margin: 0 auto;
+    }
     .testimonials-foto-a {
         /* display: inline-block; */
         /* margin: 0 auto; */
