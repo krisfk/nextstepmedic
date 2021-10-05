@@ -902,7 +902,7 @@ a.ui-button:active,
 }
 
 .testimonials-foto-a {
-    display: inline-block;
+    /* display: inline-block; */
 }
 
 @media only screen and (max-width: 1920px) {}
