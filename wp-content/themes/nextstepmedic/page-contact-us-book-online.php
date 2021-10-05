@@ -19,7 +19,7 @@ get_header();
     <div class="container">
         <div class="row  gx-5 justify-content-center">
 
-            <div class="col-5">
+            <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
                 <div class="subtitle">Getting to The Next Step Medical Clinic
                 </div>
                 <div class="contact-bold-txt text-start">3-Minute Walking Distance from Central MTR Station
