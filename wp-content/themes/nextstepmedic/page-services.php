@@ -48,21 +48,21 @@ get_header();
 
     <div class="row mt-5">
 
-        <div class="col-4 service-col">
+        <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-1.jpg" alt="">
             <div class="service-title-div">
                 <div class="service-title">Orthopaedics & Traumatology</div>
                 <a href="<?php get_site_url()?>/orthopaedics-traumatology" class="read-more-btn">Read More</a>
             </div>
         </div>
-        <div class="col-4 service-col"><img class="w-100"
+        <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50.jpg" alt="">
             <div class="service-title-div">
                 <div class="service-title">Physiotherapy</div>
                 <a href="<?php get_site_url()?>/physiotherapy" class="read-more-btn">Read More</a>
             </div>
         </div>
-        <div class="col-4 service-col"><img class="w-100"
+        <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x-50.jpg" alt="">
             <div class="service-title-div">
                 <div class="service-title">Podiatry </div>
@@ -72,7 +72,7 @@ get_header();
 
     </div>
     <div class="row justify-content-center mt-5 mb-5">
-        <div class="col-4 service-col"><img class="w-100"
+        <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50.jpg" alt="">
             <div class="service-title-div">
                 <div class="service-title">
@@ -84,7 +84,7 @@ get_header();
                 <a href="<?php get_site_url()?>/swift-laser-wart-treatment" class="read-more-btn">Read More</a>
             </div>
         </div>
-        <div class="col-4 service-col">
+        <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50.jpg
         " alt="">
             <div class="service-title-div">
