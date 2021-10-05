@@ -37,9 +37,9 @@ get_header();
     <div class="row mt-5">
 
 
-        <div class="col-6"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-1@2x-50.jpg
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-1@2x-50.jpg
         " alt=""></div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="service-subtitle">What is Orthopaedics & Traumatology?</div>
             <div class="mt-3">Orthopaedics focuses on injuries and diseases of the musculoskeletal system (the body’s
                 muscles,
@@ -81,7 +81,7 @@ get_header();
     </div>
     <div class="row mt-5">
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="service-subtitle">Why Choose The Next Step?
             </div>
             <div class="mt-3">
@@ -96,18 +96,18 @@ get_header();
         </div>
 
 
-        <div class="col-6"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-2.jpg" alt=""></div>
     </div>
 
 
     <div class="row mt-5">
 
-        <div class="col-6"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-2.jpg" alt=""></div>
 
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="service-subtitle">What Do We Treat?
             </div>
 
@@ -141,7 +141,7 @@ get_header();
 
     <div class="row mt-5">
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="service-subtitle">Extensive Treatments Available
             </div>
 
@@ -172,7 +172,7 @@ get_header();
         </div>
 
 
-        <div class="col-6"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50-1.jpg" alt=""></div>
     </div>
 
@@ -180,10 +180,10 @@ get_header();
     <div class="sep"></div>
 
     <div class="row mt-4">
-        <div class="col-6"><img style="height:400px" class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img style="height:400px" class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
         </div>
-        <div class="col-6 gold">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 gold">
             <div class="person-name">
                 Dr. Tong Chun Kit
             </div>
