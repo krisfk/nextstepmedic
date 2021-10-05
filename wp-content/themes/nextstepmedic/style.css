@@ -930,6 +930,12 @@ a.ui-button:active,
 }
 
 @media only screen and (max-width: 991px) {
+    .service-h1-title {
+        font-size: 1.6rem;
+        color: #fff;
+        font-family: 'Playfair Display';
+        padding: 1rem;
+    }
     .big-banner-central-row .content-div {
         padding: 0;
         max-width: 720px;
