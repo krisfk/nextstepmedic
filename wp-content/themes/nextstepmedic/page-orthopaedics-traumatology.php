@@ -40,7 +40,7 @@ get_header();
         <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-1@2x-50.jpg
         " alt=""></div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-            <div class="service-subtitle">What is Orthopaedics & Traumatology?</div>
+            <div class="service-subtitle mt-lg-0 mt-md-2 mt-sm-2  mt-2">What is Orthopaedics & Traumatology?</div>
             <div class="mt-3">Orthopaedics focuses on injuries and diseases of the musculoskeletal system (the body’s
                 muscles,
                 skeleton and related connective tissues), including the spine, joints, ligaments, tendons and nerves.
@@ -66,7 +66,7 @@ get_header();
                 alt="">
             <div class="brown-bg pt-4 pe-5 ps-5 pb-4">
 
-                <div class="service-subtitle white">Our Orthopaedics Services
+                <div class="service-subtitle mt-lg-0 mt-md-2 mt-sm-2  mt-2 white">Our Orthopaedics Services
                 </div>
                 <div class="mt-3">The Next Step provides musculoskeletal diagnostic services, surgical and
                     non-surgical
@@ -82,7 +82,7 @@ get_header();
     <div class="row mt-5 mobile-reverse">
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-            <div class="service-subtitle">Why Choose The Next Step?
+            <div class="service-subtitle mt-lg-0 mt-md-2 mt-sm-2  mt-2">Why Choose The Next Step?
             </div>
             <div class="mt-3">
                 Our close-knit team of Consultant Surgeons and Specialists work together in a multidisciplinary
@@ -108,7 +108,7 @@ get_header();
 
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-            <div class="service-subtitle">What Do We Treat?
+            <div class="service-subtitle mt-lg-0 mt-md-2 mt-sm-2  mt-2">What Do We Treat?
             </div>
 
             <div class="grey-bold mt-3">
@@ -142,7 +142,7 @@ get_header();
     <div class="row mt-5 mobile-reverse">
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-            <div class="service-subtitle">Extensive Treatments Available
+            <div class="service-subtitle mt-lg-0 mt-md-2 mt-sm-2  mt-2">Extensive Treatments Available
             </div>
 
             <ul class="mt-3 ps-3">
