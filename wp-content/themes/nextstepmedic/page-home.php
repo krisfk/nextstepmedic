@@ -142,7 +142,7 @@ get_header();
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 pe-4">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50.jpg" alt="">
         </div>
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 mt-lg-0 mt-md-0 mt-sm-0 mt-4  ">
 
             <div class="service-title">Podiatry</div>
 
