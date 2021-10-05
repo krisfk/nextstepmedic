@@ -34,7 +34,7 @@ get_header();
 <div class="container">
 
 
-    <div class="row mt-5">
+    <div class="row mt-lg-5 mt-md-0 mt-sm-0  mt-0">
 
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-2.jpg
