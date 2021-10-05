@@ -24,7 +24,7 @@
 
         <div class="row">
 
-            <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
 
                 <ul>
                     <li class="footer-subtitle">
@@ -57,7 +57,7 @@
 
                 </ul>
             </div>
-            <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
 
 
 
@@ -211,7 +211,7 @@
                 </table>
 
             </div>
-            <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5">
 
 
                 <ul>
