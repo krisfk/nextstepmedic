@@ -914,7 +914,7 @@ a.ui-button:active,
         height: fit-content;
         padding: 1rem;
     }
-    .mobile-reverse-row {
+    .mobile-reverse {
         flex-direction: column-reverse;
     }
 }
