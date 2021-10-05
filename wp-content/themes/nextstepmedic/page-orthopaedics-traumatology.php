@@ -184,7 +184,7 @@ get_header();
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 gold">
-            <div class="person-name">
+            <div class="person-name mt-lg-0 mt-md-2 mt-sm-2  mt-2">
                 Dr. Tong Chun Kit
             </div>
 
