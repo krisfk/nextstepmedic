@@ -905,6 +905,10 @@ a.ui-button:active,
     /* display: inline-block; */
 }
 
+.banner-content-row {
+    position: absolute;
+}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (max-width: 1200px) {
@@ -914,6 +918,9 @@ a.ui-button:active,
 }
 
 @media only screen and (max-width: 991px) {
+    .banner-content-row {
+        position: absolute;
+    }
     .logo {
         height: 70px;
     }
