@@ -503,8 +503,8 @@ get_header();
     <div class="sep"></div>
 
     <div class="row mt-4">
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img style="height:400px" class="w-100"
-                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img style="height:400px"
+                class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
