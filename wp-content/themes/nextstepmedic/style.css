@@ -907,6 +907,7 @@ a.ui-button:active,
 
 .banner-content-row {
     position: absolute;
+    top: 0;
 }
 
 .mobile-learn-more-book-btns {
