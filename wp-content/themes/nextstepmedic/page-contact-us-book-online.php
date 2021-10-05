@@ -169,13 +169,13 @@ get_header();
     <form class="contact-us-form">
         <div class="row  gx-5 justify-content-center">
 
-            <div class="col-5">
+            <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
                 <div class="bold">Book an Appointment</div>
                 <!-- <img class="w-100 mt-3" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x.png"
                     alt=""> -->
                 <div id="datepicker" class="mt-3"></div>
             </div>
-            <div class="col-5">
+            <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
                 <div class="bold">For any enquiries, please leave us your message:</div>
 
 
