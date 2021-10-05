@@ -903,12 +903,13 @@ a.ui-button:active,
 
 @media only screen and (max-width: 1920px) {}
 
-@media only screen and (max-width: 1200px) {}
-
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 1200px) {
     .top-menu-ul {
         display: none;
     }
+}
+
+@media only screen and (max-width: 991px) {
     .slide-content-txt-div-wrap {
         height: fit-content;
         padding: 1rem;
