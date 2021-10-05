@@ -927,8 +927,14 @@ a.ui-button:active,
 }
 
 @media only screen and (max-width: 991px) {
+    .big-banner-central-row .content-div {
+        padding: 0;
+        max-width: 720px;
+        padding: 0 12px;
+    }
     .big-banner-central-row {
         position: relative;
+        padding: 1rem 0 0 0;
     }
     .book-an-appointment-div {
         background: #a4724a;
