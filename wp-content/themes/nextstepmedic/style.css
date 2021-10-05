@@ -931,6 +931,7 @@ a.ui-button:active,
         padding: 0;
         max-width: 720px;
         padding: 0 12px;
+        width: auto;
     }
     .big-banner-central-row {
         position: relative;
