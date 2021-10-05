@@ -961,8 +961,9 @@ a.ui-button:active,
     .slide-content-txt-div {
         display: block;
         margin: 0 auto;
-        max-width: 70%;
+        max-width: 100%;
         line-height: 1.5rem;
+        padding: 0 12px;
     }
     .page-home .service-title {
         font-size: 2rem;
