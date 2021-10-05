@@ -915,11 +915,13 @@ a.ui-button:active,
 
 @media only screen and (max-width: 991px) {
     .testimonials-foto-a {
-        display: inline-block;
-        margin: 0 auto;
+        /* display: inline-block; */
+        /* margin: 0 auto; */
     }
     .testimonials-foto {
         max-width: 300px;
+        display: block;
+        margin: 0 auto;
     }
     .slide-content-txt-div-wrap {
         height: fit-content;
