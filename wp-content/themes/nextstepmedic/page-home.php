@@ -218,7 +218,8 @@ get_header();
 
 
             <a href="#">
-                <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
+                <img class="w-100 testimonials-foto"
+                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
                 <div class="mt-4">“I have been continually impressed over the past 7 years with the kind care and
                     attention that I
                     have
@@ -231,7 +232,8 @@ get_header();
         <div class="col-lg-4 col-md-12 col-sm-12 col-12  mb-4">
             <a href="#">
 
-                <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
+                <img class="w-100 testimonials-foto"
+                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
 
                 <div class="mt-4">"My physio, Jeff, was super-efficient in dealing with my problems and helping me to
                     obtain optimum
@@ -245,7 +247,8 @@ get_header();
         <div class="col-lg-4 col-md-12 col-sm-12 col-12  mb-4">
             <a href="#">
 
-                <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
+                <img class="w-100  testimonials-foto"
+                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
 
                 <div class="mt-4">“As usual, get to the source of the issue and provide good exercises to remedy.”
                 </div>
