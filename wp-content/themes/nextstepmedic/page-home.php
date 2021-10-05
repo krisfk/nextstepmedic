@@ -16,7 +16,7 @@ get_header();
     <div class="position-relative slide">
         <div class="row position-absolute w-100 h-100 gx-0 ">
             <div class="col-6"></div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-12  slide-content-txt-div-wrap">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12  slide-content-txt-div-wrap">
                 <div class="row align-items-center h-100">
 
                     <div class="col-12">
@@ -43,7 +43,7 @@ get_header();
     <div class="position-relative slide">
         <div class="row position-absolute w-100 h-100 gx-0 ">
             <div class="col-6"></div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-12  slide-content-txt-div-wrap">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12  slide-content-txt-div-wrap">
                 <div class="row align-items-center h-100">
 
                     <div class="col-12">
@@ -71,7 +71,7 @@ get_header();
     <div class="position-relative slide">
         <div class="row position-absolute w-100 h-100 gx-0 ">
             <div class="col-6"></div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-12  slide-content-txt-div-wrap">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12  slide-content-txt-div-wrap">
                 <div class="row align-items-center h-100">
 
                     <div class="col-12">
