@@ -99,7 +99,7 @@ get_header();
 <div class="container">
 
     <div class="row pt-4 pb-4 service-row  gx-0">
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12  col-6 col-6  pe-4">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12  col-6 col-6  pe-lg-4 pe-md-0 pe-sm-0  pe-0  ">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50.jpg" alt="">
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 mt-lg-0 mt-md-2 mt-sm-2 mt-2 ">
@@ -119,7 +119,7 @@ get_header();
     </div>
 
     <div class="row pt-4 pb-4  service-row gx-0">
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12 pe-4">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 pe-lg-4 pe-md-0 pe-sm-0  pe-0  ">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50.jpg" alt="">
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 mt-lg-0 mt-md-2 mt-sm-2 mt-2 ">
@@ -139,7 +139,7 @@ get_header();
     </div>
 
     <div class="row pt-4 pb-4  service-row gx-0">
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12 pe-4">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 pe-lg-4 pe-md-0 pe-sm-0  pe-0  ">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50.jpg" alt="">
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 mt-lg-0 mt-md-2 mt-sm-2 mt-2  ">
@@ -172,7 +172,7 @@ get_header();
             <a href="<?php echo get_site_url();?>/swift-laser-wart-treatment"
                 class="brown-round-btn mt-5 d-inline-block">Read More</a>
         </div>
-        <div class="col-lg-6 col-md-12 col-sm-12 pe-4">
+        <div class="col-lg-6 col-md-12 col-sm-12 pe-lg-4 pe-md-0 pe-sm-0  pe-0  ">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x.png" alt="">
         </div>
 
@@ -196,7 +196,7 @@ get_header();
             <a href="<?php echo get_site_url();?>/lunula-laser-fungal-nail-treatment"
                 class="brown-round-btn mt-5 d-inline-block">Read More</a>
         </div>
-        <div class="col-lg-4 col-md-12 col-sm-12 col-12  pe-4">
+        <div class="col-lg-4 col-md-12 col-sm-12 col-12  pe-lg-4 pe-md-0 pe-sm-0  pe-0  ">
             <img class="lunula-laser-img" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x.png"
                 alt="">
         </div>
