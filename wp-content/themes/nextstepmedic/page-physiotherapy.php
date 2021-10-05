@@ -37,9 +37,9 @@ get_header();
     <div class="row mt-5">
 
 
-        <div class="col-6"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-2.jpg
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-2.jpg
         " alt=""></div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="service-subtitle">What is Physiotherapy?</div>
             <div class="mt-3">Physiotherapy is a health care profession which provides direct patient care to persons
                 who have musculoskeletal condition like backaches, sciatica, headaches, pregnancy back pain, neck pain,
@@ -81,7 +81,7 @@ get_header();
 
 
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="service-subtitle"> Why Choose The Next Step?
 
             </div>
@@ -98,18 +98,18 @@ get_header();
         </div>
 
 
-        <div class="col-6"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-3.jpg" alt=""></div>
     </div>
 
 
     <div class="row mt-5">
 
-        <div class="col-6"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Untitled-1.jpg"
-                alt=""></div>
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Untitled-1.jpg" alt=""></div>
 
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="service-subtitle">What Do We Treat?
             </div>
 
@@ -118,7 +118,7 @@ get_header();
             </div>
 
             <div class="row mt-3">
-                <div class="col-6">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                     <ul class="ps-3">
                         <li>Arthritis</li>
                         <li>Backaches, sciatica, disc prolapsed</li>
@@ -135,7 +135,7 @@ get_header();
                         <li>Post-surgical</li>
                     </ul>
                 </div>
-                <div class="col-6">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                     <ul class="ps-3">
                         <li>Postural abnormalities</li>
                         <li>Pre/post pregnancy</li>
@@ -216,7 +216,8 @@ get_header();
 
                 <div class="row">
 
-                    <div class="col-6"> Mobilisations of joints and soft tissues are very useful techniques in
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12"> Mobilisations of joints and soft tissues are very
+                        useful techniques in
                         helping restore normal
                         movement. Mobilisations increase movement at stiff joints and thus allow you to access
                         better
@@ -233,7 +234,7 @@ get_header();
                         movement. Such treatment is very effective as it encompasses activity within your muscles
                         with a
                         hands on technique to help return your movement back to ‘normal’.</div>
-                    <div class="col-6">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                         <img class="w-100"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-1.jpg" alt="">
                     </div>
@@ -291,7 +292,8 @@ get_header();
 
                 <div class="row">
 
-                    <div class="col-6"> A manipulation is a technique that can be applied to patients whose
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12"> A manipulation is a technique that can be applied
+                        to patients whose
                         condition is not easily irritated, if there is local muscle guarding then this must be
                         addressed first. Manipulations are quicker techniques performed at the end of the joints
                         range of motion, this helps to break down scar tissue and release pressure within the joint
@@ -304,7 +306,7 @@ get_header();
                         these techniques and ensure you are fully aware of what to expect.
 
                     </div>
-                    <div class="col-6">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                         <img class="w-100"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-1.jpg" alt="">
                     </div>
@@ -320,11 +322,12 @@ get_header();
 
                 <div class="row">
 
-                    <div class="col-6">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                         <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@2x-50.jpg"
                             alt="">
                     </div>
-                    <div class="col-6"> Ultrasound is a small electrical device used to send high frequency sound
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12"> Ultrasound is a small electrical device used to
+                        send high frequency sound
                         waves into your problem tissues. The sound waves penetrate the tissue and stimulate the
                         cells involved in healing to reduce inflammation and promote tissue repair. Ultrasound can
                         be applied at any stage of healing, your therapist will alter the dose according to your
@@ -386,7 +389,7 @@ get_header();
 
                 <div class="row">
 
-                    <div class="col-6">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                         Massage is a soft tissue technique with direct influence on the muscles, tendons, ligaments
                         and other connective tissue. Massage has a number of physiological benefits including
                         increasing; circulation and oxygen flow, reducing inflammation and releasing endorphins.
@@ -394,7 +397,7 @@ get_header();
                         flexibility and ultimately speeding up recovery time.
                     </div>
 
-                    <div class="col-6">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                         <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x-50.jpg"
                             alt="">
                     </div>
@@ -413,12 +416,12 @@ get_header();
                 <div class="row">
 
 
-                    <div class="col-6">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                         <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-13@2x-50.jpg"
                             alt="">
                     </div>
 
-                    <div class="col-6">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
                         TENS is a method of electrical stimulation which primarily aims to provide a degree of
                         symptomatic pain relief by exciting sensory nerves and thereby stimulating either the pain
@@ -445,12 +448,12 @@ get_header();
                 <div class="row">
 
 
-                    <div class="col-6">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                         <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-14@2x-50.jpg"
                             alt="">
                     </div>
 
-                    <div class="col-6">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
 
                         Myofascial release is a specialised physical and manual therapy used in the treatment of
@@ -499,10 +502,10 @@ get_header();
     <div class="sep"></div>
 
     <div class="row mt-4">
-        <div class="col-6"><img style="height:400px" class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img style="height:400px" class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
             <div class="gold">
                 <div class="person-name">
