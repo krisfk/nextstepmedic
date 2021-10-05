@@ -76,7 +76,7 @@ get_header();
             </div>
         </div>
     </div>
-    <div class="row mt-5">
+    <div class="row mt-5 mobile-reverse">
 
 
 
