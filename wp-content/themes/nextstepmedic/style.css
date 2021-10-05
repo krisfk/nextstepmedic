@@ -922,6 +922,9 @@ a.ui-button:active,
 }
 
 @media only screen and (max-width: 991px) {
+    .learn-more-book-btns {
+        display: none;
+    }
     .mobile-learn-more-book-btns {
         display: block;
     }

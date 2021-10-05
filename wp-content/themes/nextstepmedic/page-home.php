@@ -27,7 +27,7 @@ get_header();
                             physiotherapy and podiatry centre in Central, Hong Kong for treating musculoskeletal pain,
                             sports
                             injury, foot pain and other related conditions.
-                            <div class="text-center mt-lg-5 mt-md-3 mt-sm-3 mt-3 ">
+                            <div class="text-center mt-lg-5 mt-md-3 mt-sm-3 mt-3 learn-more-book-btns">
 
                                 <a href="<?php echo get_site_url();?>/services" class="slide-btns">Learn More</a>
                                 <a href="<?php echo get_site_url();?>/contact-us-book-online" class="slide-btns">Book an
@@ -56,7 +56,7 @@ get_header();
                             individual problems. We proactively treat the causes of the problems, not only the symptoms.
 
 
-                            <div class="text-center mt-lg-5 mt-md-3 mt-sm-3 mt-3 ">
+                            <div class="text-center mt-lg-5 mt-md-3 mt-sm-3 mt-3 learn-more-book-btns">
 
                                 <a href="<?php echo get_site_url();?>/services" class="slide-btns">Learn More</a>
                                 <a href="<?php echo get_site_url();?>/contact-us-book-online" class="slide-btns">Book an
@@ -83,7 +83,7 @@ get_header();
                             To help your recovery from surgery, your weekend sporting injuries and your everyday pain,
                             get in touch with us.
 
-                            <div class="text-center mt-lg-5 mt-md-3 mt-sm-3 mt-3 ">
+                            <div class="text-center mt-lg-5 mt-md-3 mt-sm-3 mt-3  learn-more-book-btns">
 
                                 <a href="<?php echo get_site_url();?>/services" class="slide-btns">Learn More</a>
                                 <a href="<?php echo get_site_url();?>/contact-us-book-online" class="slide-btns">Book an
