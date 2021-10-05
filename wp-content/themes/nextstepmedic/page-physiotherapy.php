@@ -40,7 +40,7 @@ get_header();
         <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-2.jpg
         " alt=""></div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-            <div class="service-subtitle">What is Physiotherapy?</div>
+            <div class="service-subtitle mt-lg-0 mt-md-2 mt-sm-2  mt-2">What is Physiotherapy?</div>
             <div class="mt-3">Physiotherapy is a health care profession which provides direct patient care to persons
                 who have musculoskeletal condition like backaches, sciatica, headaches, pregnancy back pain, neck pain,
                 whiplash, frozen shoulder, postural abnormality, sports injuries and work-related injuries, RSI, etc.
@@ -63,7 +63,7 @@ get_header();
                 alt="">
             <div class="brown-bg pt-4 pe-5 ps-5 pb-4">
 
-                <div class="service-subtitle white">Our Physiotherapeutic Services
+                <div class="service-subtitle mt-lg-0 mt-md-2 mt-sm-2  mt-2 white">Our Physiotherapeutic Services
 
                 </div>
                 <div class="mt-3">Our physiotherapists are chartered and Hong Kong registered with extensive
@@ -82,7 +82,7 @@ get_header();
 
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-            <div class="service-subtitle"> Why Choose The Next Step?
+            <div class="service-subtitle mt-lg-0 mt-md-2 mt-sm-2  mt-2"> Why Choose The Next Step?
 
             </div>
             <div class="mt-3">
@@ -110,7 +110,7 @@ get_header();
 
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-            <div class="service-subtitle">What Do We Treat?
+            <div class="service-subtitle mt-lg-0 mt-md-2 mt-sm-2  mt-2">What Do We Treat?
             </div>
 
             <div class="grey-bold mt-3">
@@ -169,7 +169,8 @@ get_header();
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Untitled-2.jpg" alt="">
             <div class="brown-bg pt-4 pe-5 ps-5 pb-4">
 
-                <div class="service-subtitle white">Our Comprehensive Physiotherapy Process
+                <div class="service-subtitle mt-lg-0 mt-md-2 mt-sm-2  mt-2 white">Our Comprehensive Physiotherapy
+                    Process
 
                 </div>
 
@@ -207,7 +208,7 @@ get_header();
 
 
 
-    <div class="service-subtitle mt-5">What Forms of Treatment Do We Offer?</div>
+    <div class="service-subtitle mt-lg-0 mt-md-2 mt-sm-2  mt-2 mt-5">What Forms of Treatment Do We Offer?</div>
 
     <ul class="accordion">
         <li><a href="javascript:void(0);">Mobilisations</a>
