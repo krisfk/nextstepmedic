@@ -912,6 +912,7 @@ a.ui-button:active,
 @media only screen and (max-width: 991px) {
     .testimonials-foto {
         max-width: 300px;
+        margin: 0 auto;
     }
     .slide-content-txt-div-wrap {
         height: fit-content;
