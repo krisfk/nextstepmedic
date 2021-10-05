@@ -37,9 +37,9 @@ get_header();
     <div class="row mt-5">
 
 
-        <div class="col-6"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-1@2x-50-1.jpg" alt=""></div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="service-subtitle">What Does A Podiatrist Treat?</div>
             <div class="mt-3">
 
@@ -102,9 +102,9 @@ get_header();
     <div class="row mt-5">
 
 
-        <div class="col-6"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-4.jpg" alt=""></div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="service-subtitle">What Happens During A Podiatry
                 Treatment?
 
@@ -127,9 +127,9 @@ get_header();
     <div class="row mt-5">
 
 
-        <div class="col-6"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-4.jpg" alt=""></div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="grey-bold">General Podiatry Care
 
             </div>
@@ -169,7 +169,7 @@ get_header();
 
     <div class="row mt-5">
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="grey-bold">Children's Foot Assessments
 
 
@@ -201,7 +201,7 @@ get_header();
                 </div>
             </div>
         </div>
-        <div class="col-6"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50-3.jpg" alt=""></div>
 
     </div>
@@ -209,10 +209,10 @@ get_header();
 
     <div class="row mt-5">
 
-        <div class="col-6"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x-50-2.jpg" alt=""></div>
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="grey-bold">Diabetic Foot Care
 
 
@@ -280,7 +280,7 @@ get_header();
 
 
     <div class="row mt-5">
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="grey-bold">Gait and Biomechanical Assessment
 
             </div>
@@ -307,7 +307,7 @@ get_header();
             </div>
         </div>
 
-        <div class="col-6"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-2.jpg" alt=""></div>
 
     </div>
@@ -315,10 +315,10 @@ get_header();
 
     <div class="row mt-5">
 
-        <div class="col-6"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50-2.jpg" alt=""></div>
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="grey-bold">Ingrown Toenail Treatment (Onychocryptosis)
 
             </div>
@@ -352,7 +352,7 @@ get_header();
 
     <div class="row mt-5">
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="grey-bold">Orthotics / Insoles / Footwear
 
             </div>
@@ -382,7 +382,7 @@ get_header();
             </div>
         </div>
 
-        <div class="col-6"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-2.jpg" alt=""></div>
 
 
@@ -394,11 +394,11 @@ get_header();
     <div class="row mt-5">
 
 
-        <div class="col-6"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@2x-50-1.jpg" alt=""></div>
 
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="grey-bold">Orthotics Management, 3D Scanning for Orthotics
 
             </div>
@@ -450,10 +450,10 @@ get_header();
     <div class="sep mt-3"></div>
 
     <div class="row mt-4">
-        <div class="col-6"><img style="height:400px" class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img style="height:400px" class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
             <div class="gold">
                 <div class="person-name">
