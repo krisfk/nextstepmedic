@@ -208,7 +208,7 @@ get_header();
 
 
 
-    <div class="service-subtitle mt-lg-0 mt-md-5 mt-sm-5  mt-5">What Forms of Treatment Do We Offer?</div>
+    <div class="service-subtitle mt-lg-5 mt-md-5 mt-sm-5  mt-5">What Forms of Treatment Do We Offer?</div>
 
     <ul class="accordion">
         <li><a href="javascript:void(0);">Mobilisations</a>
