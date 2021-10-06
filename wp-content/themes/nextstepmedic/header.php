@@ -102,7 +102,7 @@
                    ?>
                                         <!-- right-arrow -->
                                         <img class="arrow"
-                                            src="<?php echo get_template_directory_uri()  '/assets/images/right-arrow.png';?>"
+                                            src="<?php echo get_template_directory_uri() . '/assets/images/right-arrow.png';?>"
                                             alt="">
 
                                         <? 
