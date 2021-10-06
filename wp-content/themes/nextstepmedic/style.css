@@ -940,7 +940,7 @@ a.ui-button:active,
     top: 0;
     left: 0;
     width: 100%;
-    background: rgb(255 255 255 / 85%);
+    background: rgb(255 255 255 / 90%);
     z-index: 1000;
 }
 
@@ -1089,7 +1089,7 @@ a.ui-button:active,
         position: absolute;
         left: 0;
         width: 100%;
-        background: rgb(255 255 255 / 85%);
+        background: rgb(255 255 255 / 90%);
         top: 70px;
         padding: 0 0 1rem 0;
     }
