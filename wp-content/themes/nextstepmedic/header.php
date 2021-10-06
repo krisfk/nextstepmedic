@@ -62,24 +62,25 @@
             <div id="primary" class="content-area">
                 <main id="main" class="site-main" role="main">
 
-                    <div class="container">
+                    <div>
+                        <div class="container">
 
-                        <div class="row align-items-center">
+                            <div class="row align-items-center">
 
-                            <div class="col-2">
+                                <div class="col-2">
 
-                                <a href="<?php echo get_site_url();?>" class="d-inline-block">
-                                    <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/logo.png" alt=""
-                                        class="logo">
-                                </a>
-                            </div>
+                                    <a href="<?php echo get_site_url();?>" class="d-inline-block">
+                                        <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/logo.png" alt=""
+                                            class="logo">
+                                    </a>
+                                </div>
 
-                            <div class="col-10 text-end">
+                                <div class="col-10 text-end">
 
-                                <ul class="top-menu-ul">
+                                    <ul class="top-menu-ul">
 
 
-                                    <?php
+                                        <?php
                 
                 $main_menu = wp_get_menu_array('main menu');
                 foreach ($main_menu as $menu_item) {
@@ -103,7 +104,7 @@
                     echo '<ul class="mobile-menu-submenu">';
                 ?>
 
-                                    <?php
+                                        <?php
     
                 foreach ($menu_item['children'] as $sub_menu_item) 
                 {
@@ -133,16 +134,17 @@
 
             ?>
 
-                                    <li>
-                                        <a href="#" class="phone">Call: +852 xxxx xxxx </a>
-                                    </li>
-                                </ul>
+                                        <li>
+                                            <a href="#" class="phone">Call: +852 xxxx xxxx </a>
+                                        </li>
+                                    </ul>
 
 
 
 
 
 
+                                </div>
                             </div>
                         </div>
                     </div>
