@@ -144,7 +144,7 @@ body {
 }
 
 .top-menu-ul {
-    display: block;
+    display: inline-block;
 }
 
 .top-menu-ul li {
@@ -944,8 +944,8 @@ a.ui-button:active,
 }
 
 #nav-icon3 {
-    width: 40px;
-    height: 34px;
+    width: 43px;
+    height: 40px;
     position: relative;
     margin: 50px auto;
     -webkit-transform: rotate(0deg);
@@ -962,15 +962,15 @@ a.ui-button:active,
     position: relative;
     display: block;
     z-index: 2000;
-    margin: 0 0 0 0;
+    margin: 4px 0 0 0;
 }
 
 #nav-icon3 span {
     display: block;
     position: absolute;
-    height: 5px;
+    height: 4px;
     width: 100%;
-    background: #fff;
+    background: #bf9d81;
     border-radius: 9px;
     opacity: 1;
     left: 0;
@@ -990,11 +990,11 @@ a.ui-button:active,
 
 #nav-icon3 span:nth-child(2),
 #nav-icon3 span:nth-child(3) {
-    top: 14px;
+    top: 18px;
 }
 
 #nav-icon3 span:nth-child(4) {
-    top: 28px;
+    top: 36px;
 }
 
 #nav-icon3.open span:nth-child(1) {
