@@ -1023,6 +1023,10 @@ a.ui-button:active,
     left: 50%;
 }
 
+.mobile-menu-btn {
+    display: none;
+}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (max-width: 1200px) {
