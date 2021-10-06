@@ -165,10 +165,14 @@
                     $(function() {
 
                         $('.level-1.parent').mouseenter(function() {
-
                             $(this).next('.mobile-menu-submenu').slideDown(200);
-
                         });
+
+
+                        $('.level-1.parent').mouseleave(function() {
+                            $('.mobile-menu-submenu').fadeOut(0);
+                        });
+
 
                     })
                     </script>
