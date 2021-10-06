@@ -98,15 +98,7 @@
                 if(count($menu_item['children']))
                 {
                 
-                    echo '<li><a class="level-1 parent '.$class.'" href="'.$url.'">'.$title.'>';
-                   ?>
-                                        <!-- right-arrow -->
-                                        <!-- <img class="arrow"
-                                            src="<?php  get_template_directory_uri() . '/assets/images/right-arrow.png';?>"
-                                            alt=""> -->
-
-                                        <? 
-                    echo'</a>';
+                    echo '<li><a class="level-1 parent '.$class.'" href="'.$url.'">'.$title.'</a>';
 
                 
                     echo '<ul class="mobile-menu-submenu">';
