@@ -63,7 +63,7 @@
                 <main id="main" class="site-main" role="main">
 
                     <div class="desktop-menu-div">
-                        <div class="container">
+                        <div class="container position-relative">
 
                             <div class="row align-items-center">
 
@@ -77,11 +77,10 @@
 
                                 <div class="col-10 text-end">
 
-                                    <div class="container">
-                                        <ul class="top-menu-ul">
+                                    <ul class="top-menu-ul">
 
 
-                                            <?php
+                                        <?php
                 
                 $main_menu = wp_get_menu_array('main menu');
                 foreach ($main_menu as $menu_item) {
@@ -105,7 +104,7 @@
                     echo '<ul class="mobile-menu-submenu">';
                 ?>
 
-                                            <?php
+                                        <?php
     
                 foreach ($menu_item['children'] as $sub_menu_item) 
                 {
@@ -135,11 +134,10 @@
 
             ?>
 
-                                            <li>
-                                                <a href="#" class="phone">Call: +852 xxxx xxxx </a>
-                                            </li>
-                                        </ul>
-                                    </div>
+                                        <li>
+                                            <a href="#" class="phone">Call: +852 xxxx xxxx </a>
+                                        </li>
+                                    </ul>
 
                                     <a id="nav-icon3" href="#" class="mobile-menu-btn float-end">
                                         <span></span>
