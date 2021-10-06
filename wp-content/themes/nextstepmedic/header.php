@@ -172,7 +172,7 @@
 
 
                         $('.level-1.parent').mouseleave(function() {
-                            $('.mobile-menu-submenu').delay(500).fadeOut(0);
+                            $('.mobile-menu-submenu').delay(200).fadeOut(0);
                         });
 
                         $('.mobile-menu-submenu').mouseenter(function() {
@@ -181,7 +181,7 @@
                         })
 
                         $('.mobile-menu-submenu').mouseleave(function() {
-                            $('.mobile-menu-submenu').delay(500).fadeOut(0);
+                            $('.mobile-menu-submenu').delay(200).fadeOut(0);
 
                         })
 
