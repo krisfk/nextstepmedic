@@ -99,6 +99,12 @@
                 {
                 
                     echo '<li><a class="level-1 parent '.$class.'" href="'.$url.'">'.$title;
+                    ?>
+
+                                        <img class="arrow"
+                                            src="<?php  get_template_directory_uri() . '/assets/images/right-arrow.png';?>"
+                                            alt="">
+                                        <?php
                     echo '</a>';
 
                 
