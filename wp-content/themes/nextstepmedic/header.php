@@ -170,6 +170,9 @@
 
                             if ($(this).hasClass('open')) {
                                 $('.top-menu-ul').slideDown(200);
+                            } else {
+                                $('.top-menu-ul').fadeOut(200);
+
                             }
 
 
