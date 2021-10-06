@@ -979,12 +979,12 @@ a.ui-button:active,
         display: block;
         margin: 0 auto;
         width: fit-content;
-        padding: 0.5rem 2rem 0.5rem 5rem;
+        padding: 0.5rem 1rem 0.5rem 3rem;
         background: url(./assets/images/book-icon-2.png) #bf9d81 no-repeat;
-        background-size: 33px auto;
-        background-position: 2rem center;
+        background-size: 22px auto;
+        background-position: 1rem center;
         border-radius: 8px;
-        font-size: 1.3rem;
+        font-size: 1.1rem;
     }
     .lunula-laser-img {
         display: block;
