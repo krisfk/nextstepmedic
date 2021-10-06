@@ -1058,6 +1058,8 @@ a.ui-button:active,
 @media only screen and (max-width: 991px) {
     .top-menu-ul li a.contact-us-book-online.contact-us-btn {
         font-size: 1rem;
+        margin: 0.5rem 0 0 0;
+        display: inline-block;
     }
     .top-menu-ul li a.phone {
         font-size: 1rem;
@@ -1069,6 +1071,7 @@ a.ui-button:active,
         width: 100%;
         background: #fff;
         top: 70px;
+        padding: 0 0 1rem 0;
     }
     .top-menu-ul li {
         width: 100%;
