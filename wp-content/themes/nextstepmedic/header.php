@@ -150,7 +150,7 @@
                     </div>
 
 
-                    <div class="mobile-menu-div">
+                    <div class="desktop-menu-div-fixed">
                         <div class="container">
 
                             <div class="row align-items-center">
