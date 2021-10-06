@@ -1033,7 +1033,7 @@ a.ui-button:active,
     display: block;
     position: absolute;
     left: 0;
-    margin: 1rem 0 0 0;
+    margin: 0.5rem 0 0 0;
     background: rgb(191 157 129 / 85%);
 }
 
