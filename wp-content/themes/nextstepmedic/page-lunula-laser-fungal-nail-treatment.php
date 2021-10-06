@@ -38,7 +38,7 @@ get_header();
     <div class="row mt-lg-5 mt-md-3 mt-sm-3 mt-3 ">
 
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
 
             <div class="row">
@@ -57,7 +57,7 @@ get_header();
 
 
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="service-subtitle">What Are Fungal Nail Infections?</div>
             <div class="mt-3">Nail fungus is a common condition that begins as a white or yellow spot under the tip of
                 your fingernail or toenail. As the fungal infection goes deeper, nail fungus may cause your nail to
@@ -96,10 +96,11 @@ get_header();
             <div class="accordion-content">
                 <div class="row">
 
-                    <div class="col-6"><img class="w-100"
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x-50-2.jpg" alt="">
                     </div>
-                    <div class="col-6">You may have nail fungus if one or more of your nails are:
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">You may have nail fungus if one or more of your
+                        nails are:
                         <ul class="mt-3">
                             <li>Thickened</li>
                             <li>Whitish to yellow-brown discoloration</li>
@@ -120,7 +121,8 @@ get_header();
 
                 <div class="row">
 
-                    <div class="col-6">Fungal nail infections are caused by various fungal organisms (fungi). The most
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">Fungal nail infections are caused by various fungal
+                        organisms (fungi). The most
                         common cause is a type of fungus called dermatophyte. Yeast and molds also can cause nail
                         infections. <br><br>
 
@@ -137,7 +139,7 @@ get_header();
 
                     </div>
 
-                    <div class="col-6"><img class="w-100"
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-13@2x-50-2.jpg" alt="">
                     </div>
 
@@ -172,10 +174,10 @@ get_header();
     </div>
 
     <div class="row mt-5">
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-6.jpg" alt="">
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
             <div class="grey-bold">Topical Anti-fungal Solutions
             </div>
@@ -195,7 +197,7 @@ get_header();
     </div>
 
     <div class="row mt-5">
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
             <div class="grey-bold">Oral Medication
 
@@ -214,7 +216,7 @@ get_header();
 
             </div>
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-6.jpg" alt="">
         </div>
 
@@ -222,11 +224,11 @@ get_header();
     </div>
 
     <div class="row mt-5">
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50-5.jpg" alt="">
         </div>
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
             <div class="grey-bold">Nail Surgery / Nail Avulsion
 
@@ -252,7 +254,7 @@ get_header();
 
     <div class="row mt-5">
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
             <div class="grey-bold">What is Lunula Laser?
 
@@ -267,7 +269,7 @@ get_header();
             </div>
         </div>
 
-        <div class="col-6 position-relative">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative">
 
 
             <iframe class="vimeo-iframe" src="https://player.vimeo.com/video/174575646?h=64b2315f11" frameborder="0"
@@ -302,7 +304,7 @@ get_header();
 
 
     <div class="row mt-5">
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
             <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x.png"
                 alt="">
@@ -319,7 +321,7 @@ get_header();
             </ul>
         </div>
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
             <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x.png"
                 alt="">
@@ -339,7 +341,7 @@ get_header();
 
             </ul>
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
             <img class="circle-icon mt-4 mb-4" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Untitled-1.png"
                 alt="">
@@ -361,7 +363,7 @@ get_header();
 
             </ul>
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
             <img class="circle-icon mt-4 mb-4"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-16@2x.png" alt="">
@@ -394,7 +396,8 @@ get_header();
             <div class="accordion-content">
 
                 <div class="row">
-                    <div class="col-6">This FDA-approved toenail fungus treatment is revolutionary. With low-level laser
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">This FDA-approved toenail fungus treatment is
+                        revolutionary. With low-level laser
                         energy, the Lunula Laser uses photochemistry to target the toenail fungus and stimulate blood
                         flow. Photochemistry is the science of light and colour.
                         <br><br>
@@ -405,7 +408,7 @@ get_header();
 
 
                     </div>
-                    <div class="col-6">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                         <img class="" style="height: 300px;width: auto;position: relative;margin: -5rem 0 0 0;"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-15@2x-50-2.jpg" alt="">
 
@@ -633,10 +636,10 @@ get_header();
     <div class="sep mt-4"></div>
 
     <div class="row mt-4">
-        <div class="col-6"><img style="height:400px" class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img style="height:400px" class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
             <div class="gold">
                 <div class="person-name">
