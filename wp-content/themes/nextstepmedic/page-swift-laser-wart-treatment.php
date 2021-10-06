@@ -436,7 +436,7 @@ get_header();
 
     <div class="row mt-2">
 
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative mb-lg-0 mb-md-3 mb-sm-3 mb-3
         ">
 
             <iframe class="vimeo-iframe" src="https://player.vimeo.com/video/144006785?h=5ed96da456" frameborder="0"
