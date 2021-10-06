@@ -172,7 +172,9 @@
                     $(function() {
 
                         $(window).resize(function() {
+                            $('.top-menu-ul').fadeOut(0);
 
+                            $('.mobile-menu-btn').removeClass('open');
                         })
 
                         $('.mobile-menu-btn').click(function(e) {
