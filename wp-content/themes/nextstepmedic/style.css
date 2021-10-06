@@ -1056,11 +1056,19 @@ a.ui-button:active,
 @media only screen and (max-width: 1200px) {}
 
 @media only screen and (max-width: 991px) {
-    .level-1.parent .arrow {}
+    .level-1.parent .arrow {
+        position: absolute;
+        right: 3rem;
+        transform: rotate(90deg);
+        width: 12px;
+        height: 24px;
+        top: 3px;
+        display: none;
+    }
     .mobile-menu-submenu {
         position: relative;
         background: none;
-        display: none;
+        display: block;
     }
     .mobile-menu-submenu li a {
         color: #000;
