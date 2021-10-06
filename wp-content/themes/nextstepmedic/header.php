@@ -168,6 +168,10 @@
                             e.preventDefault();
                             $(this).toggleClass('open');
 
+                            if ($(this).hasClass('open')) {
+                                $('.top-menu-ul').slideDown(200);
+                            }
+
 
                         })
 
