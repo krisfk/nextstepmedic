@@ -165,7 +165,7 @@
                     $(function() {
 
                         $('.level-1.parent').mouseenter(function() {
-                            $('.mobile-menu-submenu').fadeOut(0);
+                            $('.mobile-menu-submenu').dequeue().fadeOut(0);
 
                             $(this).next('.mobile-menu-submenu').fadeIn(0);
                         });
