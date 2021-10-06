@@ -1056,6 +1056,12 @@ a.ui-button:active,
 @media only screen and (max-width: 1200px) {}
 
 @media only screen and (max-width: 991px) {
+    .top-menu-ul li a.contact-us-book-online.contact-us-btn {
+        font-size: 1rem;
+    }
+    .top-menu-ul li a.phone {
+        font-size: 1rem;
+    }
     .top-menu-ul {
         display: none;
         position: absolute;
