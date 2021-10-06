@@ -940,7 +940,7 @@ a.ui-button:active,
     top: 0;
     left: 0;
     width: 100%;
-    background: #fff;
+    background: rgb(255 255 255 / 85%);
     z-index: 1000;
 }
 
