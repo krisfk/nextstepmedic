@@ -98,7 +98,8 @@
                 if(count($menu_item['children']))
                 {
                 
-                    echo '<li><a class="level-1 parent '.$class.'" href="'.$url.'">'.$title.'</a>';
+                    echo '<li><a class="level-1 parent '.$class.'" href="'.$url.'">'.$title;
+                    echo '</a>';
 
                 
                     echo '<ul class="mobile-menu-submenu">';
