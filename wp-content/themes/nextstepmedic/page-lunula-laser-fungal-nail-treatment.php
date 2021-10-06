@@ -96,7 +96,7 @@ get_header();
             <div class="accordion-content">
                 <div class="row">
 
-                    <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x-50-2.jpg" alt="">
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 col-12">You may have nail fungus if one or more of your
