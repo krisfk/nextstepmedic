@@ -119,7 +119,7 @@ get_header();
             </a>
             <div class="accordion-content">
 
-                <div class="row">
+                <div class="row mobile-reverse">
 
                     <div class="col-lg-6 col-md-12 col-sm-12 col-12">Fungal nail infections are caused by various fungal
                         organisms (fungi). The most
