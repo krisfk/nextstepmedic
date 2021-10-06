@@ -1045,6 +1045,7 @@ a.ui-button:active,
         border-radius: 0.4rem;
         text-decoration: none;
         display: block;
+        width: fit-content;
     }
     .before-after-skin-div {
         background: url(./assets/images/right-arrow.png) no-repeat;
