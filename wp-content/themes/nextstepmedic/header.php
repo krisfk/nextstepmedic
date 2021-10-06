@@ -164,6 +164,13 @@
                     <script type="text/javascript">
                     $(function() {
 
+                        $('.mobile-menu-btn').click(function(e) {
+                            e.preventDefault();
+                            $(this).toggleClass('open');
+
+
+                        })
+
                         $('.level-1.parent').mouseenter(function() {
                             $('.mobile-menu-submenu').dequeue().fadeOut(0);
 
