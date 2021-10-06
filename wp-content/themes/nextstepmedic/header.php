@@ -98,7 +98,7 @@
                 if(count($menu_item['children']))
                 {
                 
-                    echo '<li><a class="level-1 parent '.$class.'" href="'.$url.'">'.$title;
+                    echo '<li><a class="level-1 parent '.$class.'" href="'.$url.'">'.$title.'>';
                    ?>
                                         <!-- right-arrow -->
                                         <!-- <img class="arrow"
