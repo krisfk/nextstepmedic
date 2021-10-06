@@ -733,7 +733,7 @@ $(function() {
             $(this).addClass('active');
             $('.accordion-content').fadeOut(0);
             $(this).next('.accordion-content').slideDown(200);
-            $("body,html").scrollTop($(this).offset().top);
+            $("body,html").scrollTop($(this).offset().top + $('.desktop-menu-div').height());
         }
     })
 })
