@@ -160,3 +160,15 @@
                     <div class="desktop-menu-div-empty">
 
                     </div>
+
+                    <script type="text/javascript">
+                    $(function() {
+
+                        $('.level-1.parent').mouseenter(function() {
+
+                            $(this).next('.mobile-menu-submenu').slideDown(200);
+
+                        });
+
+                    })
+                    </script>
