@@ -149,7 +149,7 @@ body {
 
 .top-menu-ul li {
     display: inline-block;
-    margin: 0 0 0 50px;
+    margin: 0 0 0 2rem;
 }
 
 .top-menu-ul li a {
@@ -962,7 +962,7 @@ a.ui-button:active,
     position: relative;
     display: block;
     z-index: 2000;
-    margin: 4px 0 0 0;
+    margin: 4px 0 0 2rem;
 }
 
 #nav-icon3 span {
