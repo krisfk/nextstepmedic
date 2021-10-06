@@ -930,11 +930,6 @@ a.ui-button:active,
 }
 
 @media only screen and (max-width: 991px) {
-    .before-after-skin-div {
-        background: url(./assets/images/right-arrow.png) no-repeat;
-        background-position: 100% center;
-        background-size: 10px;
-    }
     .service-h1-title {
         font-size: 1.6rem;
         color: #fff;
@@ -1018,6 +1013,12 @@ a.ui-button:active,
 
 @media only screen and (max-width: 768px) {}
 
-@media only screen and (max-width: 648px) {}
+@media only screen and (max-width: 648px) {
+    .before-after-skin-div {
+        background: url(./assets/images/right-arrow.png) no-repeat;
+        background-position: 100% center;
+        background-size: 10px;
+    }
+}
 
 @media only screen and (max-width: 480px) {}
