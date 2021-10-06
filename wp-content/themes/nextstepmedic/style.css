@@ -144,7 +144,7 @@ body {
 }
 
 .top-menu-ul {
-    display: inline-block;
+    display: inline-block !important;
 }
 
 .top-menu-ul li {

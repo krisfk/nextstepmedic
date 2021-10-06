@@ -171,6 +171,10 @@
                     <script type="text/javascript">
                     $(function() {
 
+                        $(window).resize(function() {
+
+                        })
+
                         $('.mobile-menu-btn').click(function(e) {
                             e.preventDefault();
                             $(this).toggleClass('open');
