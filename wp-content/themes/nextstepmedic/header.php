@@ -178,6 +178,13 @@
 
                         })
 
+                        $('.mobile-menu-submenu').mouseleave(function() {
+                            $('.mobile-menu-submenu').delay(200).fadeOut(0);
+
+                        })
+
+
+
 
 
                     })
