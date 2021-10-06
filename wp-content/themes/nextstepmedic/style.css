@@ -1024,7 +1024,7 @@ a.ui-button:active,
 }
 
 .mobile-menu-btn {
-    display: none;
+    display: none !important;
 }
 
 @media only screen and (max-width: 1920px) {}
@@ -1037,7 +1037,7 @@ a.ui-button:active,
 
 @media only screen and (max-width: 991px) {
     .mobile-menu-btn {
-        display: inline-block;
+        display: inline-block !important;
     }
     .lunula-machine {
         height: 300px;
