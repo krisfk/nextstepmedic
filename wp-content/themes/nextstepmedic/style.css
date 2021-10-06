@@ -922,6 +922,13 @@ a.ui-button:active,
     display: block;
 }
 
+.lunula-machine {
+    height: 300px;
+    width: auto;
+    position: relative;
+    margin: -5rem 0 0 0;
+}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (max-width: 1200px) {
@@ -931,6 +938,12 @@ a.ui-button:active,
 }
 
 @media only screen and (max-width: 991px) {
+    .lunula-machine {
+        height: 300px;
+        width: auto;
+        position: relative;
+        /* margin: -5rem 0 0 0; */
+    }
     .service-subtitle {
         font-size: 1.4rem;
         color: #bf9d81;

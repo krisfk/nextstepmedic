@@ -409,7 +409,7 @@ get_header();
 
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                        <img class="" style="height: 300px;width: auto;position: relative;margin: -5rem 0 0 0;"
+                        <img class="lunula-machine" style=""
                             src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-15@2x-50-2.jpg" alt="">
 
                     </div>
