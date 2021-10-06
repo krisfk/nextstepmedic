@@ -175,6 +175,12 @@
                             $('.top-menu-ul').fadeOut(0);
 
                             $('.mobile-menu-btn').removeClass('open');
+
+                            if ($(window).width() > 991) {
+                                $('.top-menu-ul').css({
+                                    'display': 'inline-block'
+                                });
+                            }
                         })
 
                         $('.mobile-menu-btn').click(function(e) {
