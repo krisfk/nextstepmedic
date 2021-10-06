@@ -216,7 +216,7 @@ get_header();
 
             <div class="accordion-content">
 
-                <div class="row">
+                <div class="row mobile-reverse">
 
                     <div class="col-lg-6 col-md-12 col-sm-12 col-12">Wart Therapy delivers a precise, highly controlled
                         energy dose to the infected
