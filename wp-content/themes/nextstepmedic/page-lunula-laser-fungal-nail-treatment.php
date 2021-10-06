@@ -139,7 +139,7 @@ get_header();
 
                     </div>
 
-                    <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-13@2x-50-2.jpg" alt="">
                     </div>
 
@@ -449,7 +449,7 @@ get_header();
 
                 No significant side effects have been reported.
                 <!-- 1rem 0 0 0 -->
-                <img class="circle-icon mt-3 me-0 ms-0 mb-0"
+                <img class="circle-icon mt-3 me-0 ms-0 mb-0 "
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-16@2x.png" alt="">
 
 
