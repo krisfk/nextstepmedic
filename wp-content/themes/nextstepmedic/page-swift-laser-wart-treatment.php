@@ -131,7 +131,7 @@ get_header();
             <div class="accordion-content">
 
 
-                <div class="row">
+                <div class="row mobile-reverse">
                     <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                         The HPV strains that cause plantar warts are not highly contagious. The virus is not easily
                         transmitted by direct contact from one person to another. But it thrives in warm, moist
