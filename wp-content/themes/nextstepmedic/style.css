@@ -940,7 +940,7 @@ a.ui-button:active,
     left: 0;
     width: 100%;
     background: #fff;
-    z-index: 100;
+    z-index: 1000;
 }
 
 #nav-icon3 {
