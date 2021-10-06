@@ -466,7 +466,7 @@ get_header();
 
     <div class="row mt-2">
 
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative mb-lg-0 mb-md-3 mb-sm-3 mb-3
 ">
 
 
