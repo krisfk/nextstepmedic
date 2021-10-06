@@ -170,8 +170,14 @@
 
 
                         $('.level-1.parent').mouseleave(function() {
-                            $('.mobile-menu-submenu').fadeOut(0);
+                            $('.mobile-menu-submenu').delay(200).fadeOut(0);
                         });
+
+                        $('.mobile-menu-submenu').mouseenter(function() {
+                            $('.mobile-menu-submenu').dequeue().fadeIn(0);
+
+                        })
+
 
 
                     })
