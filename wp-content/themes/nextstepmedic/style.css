@@ -1017,7 +1017,7 @@ a.ui-button:active,
     .before-after-skin-div {
         background: url(./assets/images/right-arrow.png) no-repeat;
         background-position: 100% center;
-        background-size: 10px;
+        background-size: 20px;
     }
 }
 
