@@ -1030,7 +1030,7 @@ a.ui-button:active,
 
 .mobile-menu-submenu {
     padding: 0.5rem;
-    display: none;
+    display: block;
     position: absolute;
     left: 0;
     margin: 0.5rem 0 0 0;
@@ -1056,6 +1056,15 @@ a.ui-button:active,
 @media only screen and (max-width: 1200px) {}
 
 @media only screen and (max-width: 991px) {
+    .mobile-menu-submenu {
+        position: relative;
+        background: none;
+        display: none;
+    }
+    .mobile-menu-submenu li a {
+        color: #000;
+        font-size: 1rem !important;
+    }
     .top-menu-ul li a.contact-us-book-online.contact-us-btn {
         font-size: 0.9rem;
         margin: 0.5rem 0 0 0;
