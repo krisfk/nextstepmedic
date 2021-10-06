@@ -226,8 +226,8 @@ get_header();
                         the virus.
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative">
-                        <iframe class="youtube-iframe" src="https://www.youtube.com/embed/9y2-T_HRwto"
-                            title="YouTube video player" frameborder="0"
+                        <iframe class="youtube-iframe mb-lg-0 mb-md-3 mb-sm-3 mb-3"
+                            src="https://www.youtube.com/embed/9y2-T_HRwto" title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
 
