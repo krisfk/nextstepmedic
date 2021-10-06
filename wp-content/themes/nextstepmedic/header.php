@@ -179,9 +179,13 @@
                         })
 
                         $('.level-1.parent').mouseenter(function() {
-                            $('.mobile-menu-submenu').dequeue().fadeOut(0);
 
-                            $(this).next('.mobile-menu-submenu').fadeIn(0);
+                            if ($(window).width() > 991) {
+
+                                $('.mobile-menu-submenu').dequeue().fadeOut(0);
+
+                                $(this).next('.mobile-menu-submenu').fadeIn(0);
+                            }
                         });
 
 
