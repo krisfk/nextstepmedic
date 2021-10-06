@@ -930,6 +930,12 @@ a.ui-button:active,
 }
 
 @media only screen and (max-width: 991px) {
+    .service-subtitle {
+        font-size: 1.4rem;
+        color: #bf9d81;
+        font-family: 'Playfair Display';
+        text-align: left;
+    }
     .big {
         font-size: 1.3rem;
     }
