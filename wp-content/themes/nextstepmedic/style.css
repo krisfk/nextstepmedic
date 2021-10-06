@@ -1030,11 +1030,12 @@ a.ui-button:active,
 
 .mobile-menu-submenu {
     padding: 0.5rem;
-    display: block;
+    display: none;
     position: absolute;
     left: 0;
     margin: 0.5rem 0 0 0;
     background: rgb(191 157 129 / 85%);
+    border-radius: 0.5rem;
 }
 
 .mobile-menu-submenu li {
