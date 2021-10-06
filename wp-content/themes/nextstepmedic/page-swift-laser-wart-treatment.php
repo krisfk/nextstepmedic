@@ -37,16 +37,16 @@ get_header();
     <div class="row mt-5">
 
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
 
             <div class="row">
-                <div class="col-6">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                     <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-5.jpg"
                         alt="">
                     <div class="mt-2">Deep plantar wart</div>
                 </div>
-                <div class="col-6"><img class="w-100"
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                         src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-5.jpg" alt="">
                     <div class="mt-2">Young plantar warts</div>
                 </div>
@@ -54,7 +54,7 @@ get_header();
 
 
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="service-subtitle">What Are Plantar Warts?</div>
             <div class="mt-3">Plantar warts or verruca are small growths that usually appear on the heels or other
                 weight-bearing areas of your feet. This pressure may also cause plantar warts to grow inward beneath a
@@ -109,10 +109,10 @@ get_header();
             <div class="accordion-content">
 
                 <div class="row">
-                    <div class="col-6"><img class="w-100"
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-12@2x-50-1.jpg" alt="">
                     </div>
-                    <div class="col-6">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                         Plantar warts are caused by an infection with HPV in the outer layer of skin on the soles of
                         your feet. They develop when the virus enters your body through tiny cuts, breaks or other weak
                         spots on the bottoms of your feet. HPV is very common, and more than 100 kinds of the virus
@@ -132,7 +132,7 @@ get_header();
 
 
                 <div class="row">
-                    <div class="col-6">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                         The HPV strains that cause plantar warts are not highly contagious. The virus is not easily
                         transmitted by direct contact from one person to another. But it thrives in warm, moist
                         environments. Consequently, you may contract the virus by walking barefoot around swimming pools
@@ -140,7 +140,7 @@ get_header();
 
 
                     </div>
-                    <div class="col-6"><img class="w-100"
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-13@2x-50-1.jpg" alt="">
                     </div>
 
@@ -163,11 +163,11 @@ get_header();
     <div class="row mt-5">
 
 
-        <div class="col-6"><img class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50-4.jpg" alt=""></div>
 
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="">
                 In some cases, a plantar wart will resolve naturally. Other cases may require
                 treatment. The Next Step Medical Clinic provide you alternative treatment options:
@@ -218,13 +218,14 @@ get_header();
 
                 <div class="row">
 
-                    <div class="col-6">Wart Therapy delivers a precise, highly controlled energy dose to the infected
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">Wart Therapy delivers a precise, highly controlled
+                        energy dose to the infected
                         tissue. As microwaves travel into the tissue, water molecules begin colliding and creating
                         localized heat energy. Within seconds, the treatment is complete and the immune response begins.
                         Heat shock proteins within HPV infected cells are released, alerting the body to the presence of
                         the virus.
                     </div>
-                    <div class="col-6 position-relative">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative">
                         <iframe class="youtube-iframe" src="https://www.youtube.com/embed/9y2-T_HRwto"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -434,7 +435,7 @@ get_header();
 
     <div class="row mt-2">
 
-        <div class="col-6 position-relative
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative
         ">
 
             <iframe class="vimeo-iframe" src="https://player.vimeo.com/video/144006785?h=5ed96da456" frameborder="0"
@@ -445,7 +446,7 @@ get_header();
             <img class="w-100 opacity-0" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-3.jpg"
                 alt="">
         </div>
-        <div class="col-6 position-relative">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative">
             <iframe class="vimeo-iframe" src="https://player.vimeo.com/video/144472345?h=eb848d9485" frameborder="0"
                 allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
@@ -464,7 +465,7 @@ get_header();
 
     <div class="row mt-2">
 
-        <div class="col-6 position-relative
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative
 ">
 
 
@@ -476,7 +477,7 @@ get_header();
             <img class="w-100 opacity-0" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-3.jpg"
                 alt="">
         </div>
-        <div class="col-6 position-relative
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative
 ">
 
 
@@ -518,10 +519,10 @@ get_header();
     <div class="sep mt-4"></div>
 
     <div class="row mt-4">
-        <div class="col-6"><img style="height:400px" class="w-100"
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img style="height:400px" class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
             <div class="gold">
                 <div class="person-name">
