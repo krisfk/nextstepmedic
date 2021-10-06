@@ -342,7 +342,7 @@ get_header();
                 </div>
                 <div class="row mt-3">
 
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-6">
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-lg-0 mb-md-3 mb-sm-3 mb-3">
 
                         <div class="before-after-skin-div">
                             <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/skin-1.png" alt="">
@@ -363,7 +363,7 @@ get_header();
 
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-6">
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-lg-0 mb-md-3 mb-sm-3 mb-3">
                         <div class="before-after-skin-div">
 
                             <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/skin-2.png" alt="">
@@ -384,7 +384,7 @@ get_header();
 
                     </div>
 
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-6">
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-lg-0 mb-md-3 mb-sm-3 mb-3">
                         <div class="before-after-skin-div">
                             <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/skin-3.png" alt="">
                         </div>
@@ -403,7 +403,7 @@ get_header();
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-6">
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-lg-0 mb-md-3 mb-sm-3 mb-3">
                         <div class="before-after-skin-div">
                             <img src="https://nextstepmedic.com/wp-content/uploads/2021/09/skin-4.png" alt="">
                         </div>
