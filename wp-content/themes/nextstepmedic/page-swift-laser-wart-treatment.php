@@ -34,7 +34,7 @@ get_header();
 <div class="container">
 
 
-    <div class="row mt-lg-5 mt-md-0 mt-sm-0 mt-0 ">
+    <div class="row mt-lg-5 mt-md-3 mt-sm-3 mt-3 ">
 
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3">
