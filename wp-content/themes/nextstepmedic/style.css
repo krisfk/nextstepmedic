@@ -1089,7 +1089,7 @@ a.ui-button:active,
         position: absolute;
         left: 0;
         width: 100%;
-        background: #fff;
+        background: rgb(255 255 255 / 85%);
         top: 70px;
         padding: 0 0 1rem 0;
     }
