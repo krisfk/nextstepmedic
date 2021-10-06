@@ -1072,6 +1072,8 @@ a.ui-button:active,
     }
     .top-menu-ul li a.phone {
         font-size: 0.9rem;
+        width: max-content;
+        margin: 0 auto;
     }
     .top-menu-ul {
         display: none;
@@ -1089,6 +1091,7 @@ a.ui-button:active,
     }
     .top-menu-ul li a {
         font-size: 1.3rem;
+        display: block;
     }
     .desktop-menu-div-empty {
         height: 70px;
