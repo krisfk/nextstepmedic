@@ -1056,6 +1056,7 @@ a.ui-button:active,
 @media only screen and (max-width: 1200px) {}
 
 @media only screen and (max-width: 991px) {
+    .level-1.parent .arrow {}
     .mobile-menu-submenu {
         position: relative;
         background: none;
