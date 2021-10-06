@@ -218,14 +218,15 @@ get_header();
 
                 <div class="row mobile-reverse">
 
-                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">Wart Therapy delivers a precise, highly controlled
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12  mt-lg-0 mt-md-3 mt-sm-3 mt-3">Wart Therapy delivers
+                        a precise, highly controlled
                         energy dose to the infected
                         tissue. As microwaves travel into the tissue, water molecules begin colliding and creating
                         localized heat energy. Within seconds, the treatment is complete and the immune response begins.
                         Heat shock proteins within HPV infected cells are released, alerting the body to the presence of
                         the virus.
                     </div>
-                    <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative  mb-lg-0 mb-md-3 mb-sm-3 mb-3">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12 position-relative ">
                         <iframe class="youtube-iframe" src="https://www.youtube.com/embed/9y2-T_HRwto"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
