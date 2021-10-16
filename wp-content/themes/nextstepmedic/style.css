@@ -766,6 +766,7 @@ a.ui-button:active,
     height: 1px;
     width: 100%;
     /* background: #b9bbbd; */
+    margin: 0 0.3rem;
 }
 
 .gold {
