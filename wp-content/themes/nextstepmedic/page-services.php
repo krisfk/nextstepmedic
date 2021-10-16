@@ -24,7 +24,9 @@ get_header();
 
             <div class="content-div">
 
-                <div class="large-subtitle mb-4">Services
+
+                <?php echo get_field('content_txt_0');?>
+                <!-- <div class="large-subtitle mb-4">Services
                 </div>
                 The Next Step Medical Clinic is your one-stop orthopaedics, physiotherapy and podiatry centre for
                 treating musculoskeletal pain, sports injury, foot pain and other related conditions. To help your
@@ -35,7 +37,7 @@ get_header();
                 proactively treat the causes of the problems, not only the symptoms.
                 <br> <br>
                 We strongly believe in delivering greater value and higher quality of care to our patients through
-                effective communication and ethical clinical practice.
+                effective communication and ethical clinical practice. -->
             </div>
         </div>
     </div>
@@ -48,31 +50,43 @@ get_header();
 
     <div class="row mt-5">
 
-        <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col mb-lg-0 mb-md-4 mb-sm-4 mb-4">
+        <?php echo get_field('content_txt_1');?>
+
+
+        <!-- <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col mb-lg-0 mb-md-4 mb-sm-4 mb-4">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-1.jpg" alt="">
             <div class="service-title-div">
                 <div class="service-title">Orthopaedics & Traumatology</div>
                 <a href="<?php get_site_url()?>/orthopaedics-traumatology" class="read-more-btn">Read More</a>
             </div>
         </div>
-        <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col mb-lg-0 mb-md-4 mb-sm-4 mb-4"><img class="w-100"
+         -->
+        <?php echo get_field('content_txt_2');?>
+
+        <!-- <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col mb-lg-0 mb-md-4 mb-sm-4 mb-4"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50.jpg" alt="">
             <div class="service-title-div">
                 <div class="service-title">Physiotherapy</div>
                 <a href="<?php get_site_url()?>/physiotherapy" class="read-more-btn">Read More</a>
             </div>
         </div>
-        <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col mb-lg-0 mb-md-4 mb-sm-4 mb-4"><img class="w-100"
+         -->
+        <?php echo get_field('content_txt_3');?>
+
+        <!-- <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col mb-lg-0 mb-md-4 mb-sm-4 mb-4"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x-50.jpg" alt="">
             <div class="service-title-div">
                 <div class="service-title">Podiatry </div>
                 <a href="<?php get_site_url()?>/podiatry" class="read-more-btn">Read More</a>
             </div>
-        </div>
+        </div> -->
 
     </div>
     <div class="row justify-content-center mt-lg-5 mt-md-0 mt-sm-0 mt-0 mb-5">
-        <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col mb-lg-0 mb-md-4 mb-sm-4 mb-4"><img class="w-100"
+        <?php echo get_field('content_txt_4');?>
+
+
+        <!-- <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col mb-lg-0 mb-md-4 mb-sm-4 mb-4"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50.jpg" alt="">
             <div class="service-title-div">
                 <div class="service-title">
@@ -83,8 +97,10 @@ get_header();
                 </div>
                 <a href="<?php get_site_url()?>/swift-laser-wart-treatment" class="read-more-btn">Read More</a>
             </div>
-        </div>
-        <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col mb-lg-0 mb-md-4 mb-sm-4 mb-4">
+        </div> -->
+        <?php echo get_field('content_txt_5');?>
+
+        <!-- <div class="col-lg-4 col-md-12 col-sm-12 col-12 service-col mb-lg-0 mb-md-4 mb-sm-4 mb-4">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50.jpg
         " alt="">
             <div class="service-title-div">
@@ -92,7 +108,7 @@ get_header();
                 </div>
                 <a href="<?php get_site_url()?>/lunula-laser-fungal-nail-treatment" class="read-more-btn">Read More</a>
             </div>
-        </div>
+        </div> -->
 
     </div>
 
