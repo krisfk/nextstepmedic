@@ -25,7 +25,8 @@ get_header();
 
             <div class="content-div">
 
-                <div class="large-subtitle mb-4">Mission and Vision
+                <?php echo get_field('content_txt_0');?>
+                <!-- <div class="large-subtitle mb-4">Mission and Vision
                 </div>
 
                 The Next Step Medical Clinic is your one-stop orthopaedics, physiotherapy and podiatry centre for
@@ -45,7 +46,7 @@ get_header();
                 Our vision is to explain
                 treatments thoroughly, promote a preventative, long term approach to health care in a friendly and
                 encouraging atmosphere, and empower patients to have the best quality of life they deserve. Be proactive
-                and not inactive.
+                and not inactive. -->
             </div>
         </div>
     </div>
@@ -55,7 +56,10 @@ get_header();
 
 <div class="container">
 
-    <div class="team-member-row pt-5 pb-5">
+    <?php echo get_field('content_txt_1');?>
+
+
+    <!-- <div class="team-member-row pt-5 pb-5">
         <div class="team-member-name">Dr. Tong Chun Kit
         </div>
         <div class="team-member-title">Specialist in Orthopaedics Surgery
@@ -71,11 +75,12 @@ get_header();
         </div>
 
         <div class="team-member-description mt-4"></div>
-    </div>
+    </div> -->
 
 
+    <?php echo get_field('content_txt_2');?>
 
-    <div class="team-member-row pt-5 pb-5">
+    <!-- <div class="team-member-row pt-5 pb-5">
         <div class="team-member-name"> Jeff Law Lok Way
         </div>
         <div class="team-member-title">
@@ -106,10 +111,13 @@ get_header();
             parks. He is also pursuing a Master degree at Hong Kong University of Science and Technology, where he will
             be spending most of his weekends in the short future.
         </div>
-    </div>
+    </div> -->
+
+    <?php echo get_field('content_txt_3');?>
 
 
-    <div class="team-member-row pt-5 pb-5">
+
+    <!-- <div class="team-member-row pt-5 pb-5">
         <div class="team-member-name"> Charlie S.K Lau
 
 
@@ -125,8 +133,7 @@ get_header();
             PgD in Musculoskeletal Medicine and Rehabilitation (CUHK)<br>
             Member of PodiatryNZ<br>
             Member of International Podiatrists Association of Hong Kong (IPAHK)<br>
-            <!-- BPhty (NZ) <br>
-            MPNZ - Member of Physiotherapy New Zealand -->
+          
 
         </div>
 
@@ -169,7 +176,7 @@ get_header();
             </ul>
 
         </div>
-    </div>
+    </div> -->
 
 
 
