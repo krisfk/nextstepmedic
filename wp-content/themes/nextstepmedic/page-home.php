@@ -13,15 +13,16 @@ get_header();
 
 ?>
 <div class="slides">
-    <div class="position-relative slide">
-
-        <?php
+    <?php
         
         
         if( have_rows('banners') ){
             while ( have_rows('banners') ) { 
                 the_row();
                 ?>
+    <div class="position-relative slide">
+
+
         <img class="w-100" src="<?php echo wp_get_attachment_image_src(get_sub_field('banner_img'),'full')[0];?>"
             alt="">
 
@@ -48,13 +49,14 @@ get_header();
         </div>
 
 
-        <?php
+
+    </div>
+
+    <?php
             }       
          }     
             
             ?>
-
-    </div>
 
 
 </div>
