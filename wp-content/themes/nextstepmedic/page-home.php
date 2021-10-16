@@ -40,7 +40,7 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
                             <?php echo get_sub_field('banner_text');?>
                             <div class="text-center mt-lg-5 mt-md-3 mt-sm-3 mt-3 learn-more-book-btns">
 
-                                <a href="<?php echo get_site_url();?>/services" class="slide-btns">Learn More
+                                <a href="<?php echo get_site_url();?>/services" class="slide-btns">
                                     <?php echo ($lang_code == 'zh-hant') ? '了解更多':'Learn More'; ?>
 
 
