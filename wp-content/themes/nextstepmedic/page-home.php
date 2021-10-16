@@ -16,6 +16,18 @@ get_header();
     <div class="position-relative slide">
         <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-1-scaled.jpg" alt="">
 
+        <?php
+        
+        
+        if( have_rows('banners') ){
+            while ( have_rows('banners') ) { the_row();
+                echo wp_get_attachment_image_src(get_sub_field('banner_img'),'full');
+                // $banner_img = ;
+                
+            }       
+         }     
+            
+            ?>
         <div class="row banner-content-row w-100 h-100 gx-0 ">
             <div class="col-6"></div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12  slide-content-txt-div-wrap">
@@ -41,61 +53,6 @@ get_header();
         </div>
     </div>
 
-    <div class="position-relative slide">
-        <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-2-scaled.jpg" alt="">
-
-        <div class="row banner-content-row w-100 h-100 gx-0 ">
-            <div class="col-6"></div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12  slide-content-txt-div-wrap">
-                <div class="row align-items-center h-100">
-
-                    <div class="col-12">
-                        <div class="slide-content-txt-div">
-                            Our team of experienced and highly trained medical specialists includes orthopaedics,
-                            physiotherapists and podiatrists work together to provide the best treatment plan for your
-                            individual problems. We proactively treat the causes of the problems, not only the symptoms.
-
-
-                            <div class="text-center mt-lg-5 mt-md-3 mt-sm-3 mt-3 learn-more-book-btns">
-
-                                <a href="<?php echo get_site_url();?>/services" class="slide-btns">Learn More</a>
-                                <a href="<?php echo get_site_url();?>/contact-us-book-online" class="slide-btns">Book an
-                                    Appointment</a>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="position-relative slide">
-        <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-3-scaled.jpg" alt="">
-
-        <div class="row banner-content-row w-100 h-100 gx-0 ">
-            <div class="col-6"></div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12  slide-content-txt-div-wrap">
-                <div class="row align-items-center h-100">
-
-                    <div class="col-12">
-                        <div class="slide-content-txt-div">
-                            To help your recovery from surgery, your weekend sporting injuries and your everyday pain,
-                            get in touch with us.
-
-                            <div class="text-center mt-lg-5 mt-md-3 mt-sm-3 mt-3  learn-more-book-btns">
-
-                                <a href="<?php echo get_site_url();?>/services" class="slide-btns">Learn More</a>
-                                <a href="<?php echo get_site_url();?>/contact-us-book-online" class="slide-btns">Book an
-                                    Appointment</a>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
 </div>
 
