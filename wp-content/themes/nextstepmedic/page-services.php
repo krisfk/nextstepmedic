@@ -22,11 +22,11 @@ get_header();
 
         <div class="col-12">
 
-            <div class="content-div">
+            <!-- <div class="content-div"> -->
 
 
-                <?php echo get_field('content_txt_0');?>
-                <!-- <div class="large-subtitle mb-4">Services
+            <?php echo get_field('content_txt_0');?>
+            <!-- <div class="large-subtitle mb-4">Services
                 </div>
                 The Next Step Medical Clinic is your one-stop orthopaedics, physiotherapy and podiatry centre for
                 treating musculoskeletal pain, sports injury, foot pain and other related conditions. To help your
@@ -38,7 +38,7 @@ get_header();
                 <br> <br>
                 We strongly believe in delivering greater value and higher quality of care to our patients through
                 effective communication and ethical clinical practice. -->
-            </div>
+            <!-- </div> -->
         </div>
     </div>
 
