@@ -33,7 +33,7 @@ get_header();
                     <div class="col-12">
                         <div class="slide-content-txt-div">
 
-                            <?php echo get_sub_field('banner_txt');?>
+                            <?php echo get_sub_field('banner_text');?>
                             <div class="text-center mt-lg-5 mt-md-3 mt-sm-3 mt-3 learn-more-book-btns">
 
                                 <a href="<?php echo get_site_url();?>/services" class="slide-btns">Learn More</a>
