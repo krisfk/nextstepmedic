@@ -1107,6 +1107,9 @@ a.ui-button:active,
         font-size: 1.3rem;
         display: block;
     }
+    .top-menu-ul li .lang-div a {
+        font-size: inherit;
+    }
     .desktop-menu-div-empty {
         height: 70px;
     }
