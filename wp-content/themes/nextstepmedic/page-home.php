@@ -14,7 +14,6 @@ get_header();
 ?>
 <div class="slides">
     <div class="position-relative slide">
-        <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/home-banner-1-scaled.jpg" alt="">
 
         <?php
         
@@ -22,13 +21,10 @@ get_header();
         if( have_rows('banners') ){
             while ( have_rows('banners') ) { 
                 the_row();
-                echo wp_get_attachment_image_src(get_sub_field('banner_img'),'full')[0];
-                // $banner_img = ;
-                
-            }       
-         }     
-            
-            ?>
+                ?>
+        <img class="w-100" src="<?php echo wp_get_attachment_image_src(get_sub_field('banner_img'),'full')[0];?>"
+            alt="">
+
         <div class="row banner-content-row w-100 h-100 gx-0 ">
             <div class="col-6"></div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12  slide-content-txt-div-wrap">
@@ -36,10 +32,8 @@ get_header();
 
                     <div class="col-12">
                         <div class="slide-content-txt-div">
-                            The Next Step Medical Clinic is your one-stop orthopaedics,
-                            physiotherapy and podiatry centre in Central, Hong Kong for treating musculoskeletal pain,
-                            sports
-                            injury, foot pain and other related conditions.
+
+                            <?php echo get_sub_field('banner_txt');?>
                             <div class="text-center mt-lg-5 mt-md-3 mt-sm-3 mt-3 learn-more-book-btns">
 
                                 <a href="<?php echo get_site_url();?>/services" class="slide-btns">Learn More</a>
@@ -52,6 +46,14 @@ get_header();
                 </div>
             </div>
         </div>
+
+
+        <?php
+            }       
+         }     
+            
+            ?>
+
     </div>
 
 
