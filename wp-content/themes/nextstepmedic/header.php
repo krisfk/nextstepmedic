@@ -11,6 +11,11 @@
  * @since Twenty Twenty-One 1.0
  */
 
+if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
+    $lang_code = ICL_LANGUAGE_CODE;
+  }
+
+  
 ?>
 <!doctype html>
 <html <?php language_attributes(); ?> <?php twentytwentyone_the_html_classes(); ?>>
