@@ -22,7 +22,7 @@ get_header();
         if( have_rows('banners') ){
             while ( have_rows('banners') ) { 
                 the_row();
-                echo wp_get_attachment_image_src(get_sub_field('banner_img','Full'))[0];
+                print_r( wp_get_attachment_image_src(get_sub_field('banner_img','full')));
                 // $banner_img = ;
                 
             }       
