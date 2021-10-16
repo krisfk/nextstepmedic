@@ -11,6 +11,9 @@
 
 get_header();
 
+if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
+    $lang_code = ICL_LANGUAGE_CODE;
+  }
 ?>
 <div class="slides">
     <?php
