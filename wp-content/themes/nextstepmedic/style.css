@@ -1056,6 +1056,10 @@ a.ui-button:active,
     display: inline-flex;
 }
 
+.page-services p {
+    margin: 0;
+}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (max-width: 1200px) {}
