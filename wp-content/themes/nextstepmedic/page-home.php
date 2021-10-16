@@ -73,7 +73,8 @@ get_header();
 
 <div class="container">
 
-    <div class="row pt-4 pb-4 service-row  gx-0">
+    <?php echo get_field('content_txt_0');?>
+    <!-- <div class="row pt-4 pb-4 service-row  gx-0">
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  col-6 col-6  pe-lg-4 pe-md-0 pe-sm-0  pe-0  ">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50.jpg" alt="">
         </div>
@@ -91,9 +92,10 @@ get_header();
                 class="brown-round-btn mt-5 d-inline-block">Read More</a>
         </div>
 
-    </div>
+    </div> -->
+    <?php echo get_field('content_txt_1');?>
 
-    <div class="row pt-4 pb-4  service-row gx-0">
+    <!-- <div class="row pt-4 pb-4  service-row gx-0">
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 pe-lg-4 pe-md-0 pe-sm-0  pe-0  ">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50.jpg" alt="">
         </div>
@@ -111,9 +113,10 @@ get_header();
                 More</a>
         </div>
 
-    </div>
+    </div> -->
+    <?php echo get_field('content_txt_2');?>
 
-    <div class="row pt-4 pb-4  service-row gx-0">
+    <!-- <div class="row pt-4 pb-4  service-row gx-0">
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 pe-lg-4 pe-md-0 pe-sm-0  pe-0  ">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50.jpg" alt="">
         </div>
@@ -129,10 +132,11 @@ get_header();
             <a href="<?php echo get_site_url();?>/podiatry" class="brown-round-btn mt-5 d-inline-block">Read More</a>
         </div>
 
-    </div>
+    </div> -->
 
+    <?php echo get_field('content_txt_3');?>
 
-    <div class="row pt-4 pb-4  service-row gx-0 mobile-reverse">
+    <!-- <div class="row pt-4 pb-4  service-row gx-0 mobile-reverse">
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
             <div class="service-title">Swift Laser Wart Treatment
@@ -152,9 +156,13 @@ get_header();
         </div>
 
 
-    </div>
+    </div> -->
 
-    <div class="row pt-4 pb-4  service-row gx-0 mobile-reverse">
+    <?php echo get_field('content_txt_4');?>
+
+
+
+    <!-- <div class="row pt-4 pb-4  service-row gx-0 mobile-reverse">
         <div class="col-lg-8 col-md-12 col-sm-12 col-12 mt-lg-0 mt-md-2 mt-sm-2 mt-2   ">
 
             <div class="service-title">Lunula Laser Fungal Nail Treatment
@@ -177,7 +185,7 @@ get_header();
         </div>
 
 
-    </div>
+    </div> -->
 
 
 
@@ -185,14 +193,18 @@ get_header();
 
 <div class="container testimonials-container mt-5 mb-5">
 
-    <div class="subtitle mb-5">Testimonials</div>
+    <div class="subtitle mb-5">
+        <?php echo get_field('content_txt_5');?>
+        <!-- Testimonials -->
+    </div>
 
     <div class="row">
 
         <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-4">
 
+            <?php echo get_field('content_txt_6');?>
 
-            <a href="#" class="testimonials-foto-a">
+            <!-- <a href="#" class="testimonials-foto-a">
                 <img class="w-100 testimonials-foto"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
                 <div class="mt-4">“I have been continually impressed over the past 7 years with the kind care and
@@ -202,10 +214,12 @@ get_header();
                 </div>
 
                 <div class="person-name mt-3">Jen Esposito</div>
-            </a>
+            </a> -->
         </div>
         <div class="col-lg-4 col-md-12 col-sm-12 col-12  mb-4">
-            <a href="#" class="testimonials-foto-a">
+            <?php echo get_field('content_txt_7');?>
+
+            <!-- <a href="#" class="testimonials-foto-a">
 
                 <img class="w-100 testimonials-foto"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
@@ -216,11 +230,14 @@ get_header();
                 </div>
                 <div class="person-name mt-3">Taz Freeman</div>
 
-            </a>
+            </a> -->
 
         </div>
         <div class="col-lg-4 col-md-12 col-sm-12 col-12  mb-4">
-            <a href="#" class="testimonials-foto-a">
+
+            <?php echo get_field('content_txt_8');?>
+
+            <!-- <a href="#" class="testimonials-foto-a">
 
                 <img class="w-100  testimonials-foto"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
@@ -229,7 +246,7 @@ get_header();
                 </div>
                 <div class="person-name mt-3">Aaron Volman</div>
 
-            </a>
+            </a> -->
 
         </div>
 
