@@ -1060,6 +1060,10 @@ a.ui-button:active,
     margin: 0;
 }
 
+.page-physiotherapy p {
+    margin: 0;
+}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (max-width: 1200px) {}
