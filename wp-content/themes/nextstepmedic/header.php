@@ -142,7 +142,7 @@
             ?>
 
                                         <li>
-                                            <a href="#" class="phone">Call: +852 xxxx xxxx </a>
+                                            <a href="#" class="phone">Call: +852 3703-5860 / +852 65950118 </a>
                                         </li>
 
 
