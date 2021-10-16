@@ -22,12 +22,14 @@ get_header();
 
             <div class="content-div service-title-div">
 
-                <h1 class="service-h1-title">Physiotherapy</h1>
+                <h1 class="service-h1-title">
+                    <?php echo get_field('content_txt_0');?>
+                    <!-- Physiotherapy -->
+                </h1>
             </div>
         </div>
     </div>
 
-    <!-- <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-1-scaled.jpg" alt=""> -->
 </div>
 
 
@@ -39,7 +41,11 @@ get_header();
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-2.jpg
         " alt=""></div>
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+
+        <?php echo get_field('content_txt_1');?>
+
+
+        <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="service-subtitle mt-lg-0 mt-md-2 mt-sm-2  mt-2">What is Physiotherapy?</div>
             <div class="mt-3">Physiotherapy is a health care profession which provides direct patient care to persons
                 who have musculoskeletal condition like backaches, sciatica, headaches, pregnancy back pain, neck pain,
@@ -47,17 +53,19 @@ get_header();
 
             </div>
             <div class="mt-3">
-                <!-- <a href="<?php echo get_site_url();?>/contact-us-book-online" class="brown-round-btn">Book an
-                    Appointment</a> -->
+
                 <a href="<?php echo get_site_url();?>/contact-us-book-online" class="book-an-appointment-a-btn">
                     Book an Appointment
                 </a>
 
             </div>
-        </div>
+        </div> -->
     </div>
 
-    <div class="row mt-5">
+    <?php echo get_field('content_txt_2');?>
+
+
+    <!-- <div class="row mt-5">
         <div class="col-12">
             <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-3-scaled.jpg"
                 alt="">
@@ -75,12 +83,13 @@ get_header();
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="row mt-5 mobile-reverse">
 
 
+        <?php echo get_field('content_txt_3');?>
 
-
+        <!-- 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="service-subtitle mt-lg-0 mt-md-2 mt-sm-2  mt-2"> Why Choose The Next Step?
 
@@ -95,17 +104,20 @@ get_header();
 
             </div>
 
-        </div>
+        </div> 
 
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
-                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-3.jpg" alt=""></div>
+                src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-4@2x-50-3.jpg" alt=""></div>-->
     </div>
 
 
     <div class="row mt-5">
 
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
+        <?php echo get_field('content_txt_4');?>
+
+
+        <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Untitled-1.jpg" alt=""></div>
 
 
@@ -160,13 +172,16 @@ get_header();
 
 
         </div>
-
+ -->
 
     </div>
 
     <div class="row mt-5">
         <div class="col-12">
-            <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Untitled-2.jpg" alt="">
+            <?php echo get_field('content_txt_5');?>
+
+
+            <!-- <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Untitled-2.jpg" alt="">
             <div class="brown-bg pt-4 pe-5 ps-5 pb-4">
 
                 <div class="service-subtitle mt-lg-0 mt-md-2 mt-sm-2  mt-2 white">Our Comprehensive Physiotherapy
@@ -201,16 +216,23 @@ get_header();
                 </div>
 
 
-            </div>
+            </div> -->
         </div>
     </div>
 
 
 
 
-    <div class="service-subtitle mt-lg-5 mt-md-5 mt-sm-5  mt-5">What Forms of Treatment Do We Offer?</div>
+    <div class="service-subtitle mt-lg-5 mt-md-5 mt-sm-5  mt-5">
+        <!-- What Forms of Treatment Do We Offer? -->
+        <?php echo get_field('content_txt_6');?>
 
-    <ul class="accordion">
+    </div>
+
+    <?php echo get_field('content_txt_7');?>
+
+
+    <!-- <ul class="accordion">
         <li><a href="javascript:void(0);">Mobilisations</a>
 
             <div class="accordion-content">
@@ -498,7 +520,7 @@ get_header();
             </div>
         </li>
 
-    </ul>
+    </ul> -->
 
     <div class="sep"></div>
 
