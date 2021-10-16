@@ -144,6 +144,24 @@
                                         <li>
                                             <a href="#" class="phone">Call: +852 xxxx xxxx </a>
                                         </li>
+
+
+                                        <?php
+                                        
+                                        
+                                        $langs= icl_get_languages('skip_missing=0&orderby=custom&order=asc&link_empty_to=');
+                                        
+                                        ?>
+                                        <li>
+
+                                            <div class="lang-div">
+                                                <a href="<?php echo $langs['zh-hant']['url'];?>">繁</a><span
+                                                    class="sep">|</span>
+                                                <a href="<?php echo $langs['en']['url'];?>">Eng</a>
+
+                                            </div>
+                                        </li>
+
                                     </ul>
 
                                     <a id="nav-icon3" href="#" class="mobile-menu-btn float-end">
