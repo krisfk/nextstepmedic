@@ -1064,6 +1064,10 @@ a.ui-button:active,
     margin: 0;
 }
 
+.page-orthopaedics-traumatology p {
+    margin: 0;
+}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (max-width: 1200px) {}
