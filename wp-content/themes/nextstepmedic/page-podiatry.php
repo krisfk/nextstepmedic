@@ -42,11 +42,11 @@ get_header();
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-1@2x-50-1.jpg" alt=""></div>
-        <!--<div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
 
 
-             <div class="service-subtitle">What Does A Podiatrist Treat?</div>
+            <div class="service-subtitle">What Does A Podiatrist Treat?</div>
             <div class="mt-3">
 
                 Are you looking for a foot doctor? Podiatrists are healthcare professionals who have been trained to
@@ -75,20 +75,20 @@ get_header();
 
             </div>
             <div class="mt-3">
-                
+
                 <a href="<?php echo get_site_url();?>/contact-us-book-online" class="book-an-appointment-a-btn">
                     Book an Appointment
                 </a>
             </div>
 
 
-        </div> 
-        </div>-->
-        <div class="row mt-5">
-            <div class="col-12">
-                <?php echo get_field('content_txt_2');?>
+        </div>
+    </div>
+    <div class="row mt-5">
+        <div class="col-12">
+            <?php echo get_field('content_txt_2');?>
 
-                <!-- <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-3-scaled.jpg"
+            <!-- <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-50-3-scaled.jpg"
                     alt="">
                 <div class="brown-bg pt-4 pe-5 ps-5 pb-4">
 
@@ -107,15 +107,15 @@ get_header();
                         and function issues in a way that allows you to live the life you are accustomed to.
                     </div>
                 </div> -->
-            </div>
         </div>
+    </div>
 
-        <div class="row mt-5">
+    <div class="row mt-5">
 
-            <?php echo get_field('content_txt_3');?>
+        <?php echo get_field('content_txt_3');?>
 
 
-            <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
+        <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-3@2x-50-4.jpg" alt=""></div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                 <div class="service-subtitle">What Happens During A Podiatry
@@ -134,11 +134,11 @@ get_header();
                 </div>
 
             </div> -->
-        </div>
-        <?php echo get_field('content_txt_4');?>
+    </div>
+    <?php echo get_field('content_txt_4');?>
 
 
-        <!-- 
+    <!-- 
         <div class="service-subtitle text-center mt-5">Podiatry Services</div>
 
         <div class="row mt-5">
@@ -186,12 +186,12 @@ get_header();
         </div> -->
 
 
-        <div class="row mt-5 mobile-reverse">
+    <div class="row mt-5 mobile-reverse">
 
-            <?php echo get_field('content_txt_5');?>
+        <?php echo get_field('content_txt_5');?>
 
 
-            <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+        <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                 <div class="grey-bold">Children's Foot Assessments
 
 
@@ -227,15 +227,15 @@ get_header();
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-5@2x-50-3.jpg" alt=""></div> -->
 
-        </div>
+    </div>
 
 
-        <div class="row mt-5">
+    <div class="row mt-5">
 
-            <?php echo get_field('content_txt_6');?>
+        <?php echo get_field('content_txt_6');?>
 
 
-            <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
+        <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-6@2x-50-2.jpg" alt=""></div>
 
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
@@ -305,15 +305,15 @@ get_header();
                     </div>
                 </div>
             </div> -->
-        </div>
+    </div>
 
 
 
-        <div class="row mt-5 mobile-reverse">
-            <?php echo get_field('content_txt_7');?>
+    <div class="row mt-5 mobile-reverse">
+        <?php echo get_field('content_txt_7');?>
 
 
-            <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+        <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                 <div class="grey-bold">Gait and Biomechanical Assessment
 
                 </div>
@@ -347,15 +347,15 @@ get_header();
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-7@2x-50-2.jpg" alt=""></div> -->
 
-        </div>
+    </div>
 
 
-        <div class="row mt-5">
+    <div class="row mt-5">
 
-            <?php echo get_field('content_txt_8');?>
+        <?php echo get_field('content_txt_8');?>
 
 
-            <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
+        <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-8@2x-50-2.jpg" alt=""></div>
 
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
@@ -390,15 +390,15 @@ get_header();
                 </div>
             </div> -->
 
-        </div>
+    </div>
 
 
-        <div class="row mt-5 mobile-reverse">
+    <div class="row mt-5 mobile-reverse">
 
-            <?php echo get_field('content_txt_9');?>
+        <?php echo get_field('content_txt_9');?>
 
 
-            <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+        <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                 <div class="grey-bold">Orthotics / Insoles / Footwear
 
                 </div>
@@ -436,18 +436,18 @@ get_header();
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-2.jpg" alt=""></div> -->
 
 
-        </div>
+    </div>
 
 
 
 
-        <div class="row mt-5">
+    <div class="row mt-5">
 
 
-            <?php echo get_field('content_txt_10');?>
+        <?php echo get_field('content_txt_10');?>
 
 
-            <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
+        <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-10@2x-50-1.jpg" alt=""></div>
 
 
@@ -494,85 +494,85 @@ get_header();
             </div> -->
 
 
-        </div>
-
-
-
-
-
-
-
-        <div class="sep mt-3"></div>
-
-        <div class="row mt-4">
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img style="height:400px"
-                    class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-
-                <div class="gold">
-                    <div class="person-name">
-                        Charlie S.K Lau
-                    </div>
-
-                    <div class="mt-3">
-                        Registered Podiatrist (NZ) <br>
-                        BHsc Podiatry (NZ)<br>
-                        PgD in Musculoskeletal Medicine and Rehabilitation (CUHK)<br>
-                        Member of PodiatryNZ<br>
-                        Member of International Podiatrists Association of Hong Kong (IPAHK)
-                    </div>
-                </div>
-
-                <div class="mt-3">Charlie is a podiatrist registered under the International Podiatrists Association of
-                    Hong
-                    Kong and
-                    registered with the Podiatrists Board of New Zealand. He received professional training in podiatry
-                    from
-                    the Auckland university technology in New Zealand and furthered his education and obtained his
-                    Postgraduate Diploma in Musculoskeletal Medicine and Rehabilitation from the Chinese University of
-                    Hong
-                    Kong.
-                    <br><br>
-                    Charlie is currently working at the Matilda international hospital/ Matilda Medical Centre (Central)
-                    ,
-                    Hong Kong Adventist Hospital- Tsuen wan and Gleneagles Hospital Hong Kong. He had worked in two
-                    multidisciplinary clinics in Shanghai. He also volunteered at the HKSKH Lady MacLehose Centre and
-                    provided podiatry education for the disadvantaged.
-                    Charlie work closely in partnership with consultant orthopedic surgeons, general practitioner and
-                    physiotherapist. They ensure each patient is thoroughly assessed; diagnosed and optimum treatment is
-                    selected.
-                    <br><br>
-                    His experience in a private practice in New Zealand and at the Matilda International Hospital in
-                    Hong
-                    Kong has provided him with a comprehensive understanding of diagnosis and treatment of a wide array
-                    of
-                    pathologies of the foot and lower leg, including:
-
-                    <ul class=" ps-3">
-                        <li>Athletic and sports injuries of the foot, knee, and hip</li>
-                        <li>Biomechanical assessments (examination of the lower limbs, looking at their structure,
-                            alignment,
-                            strengths and weaknesses)</li>
-                        <li>Chronic pathologies</li>
-                        <li>Diabetic foot care</li>
-                        <li>Footwear assessment</li>
-                        <li>Nail & skin pathologies (callus / cracked heels, corns, in-growing toenails, fungal nails,
-                            verrucae, foot warts, etc.)</li>
-                        <li>Neurological disorders</li>
-                        <li>Orthotic prescription</li>
-                        <li>Paediatric assessment</li>
-                        <li>Rheumatoid arthritis</li>
-                        <li>Vascular & musculoskeletal disorders</li>
-
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-
-
     </div>
+
+
+
+
+
+
+
+    <div class="sep mt-3"></div>
+
+    <div class="row mt-4">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img style="height:400px"
+                class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
+        </div>
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+
+            <div class="gold">
+                <div class="person-name">
+                    Charlie S.K Lau
+                </div>
+
+                <div class="mt-3">
+                    Registered Podiatrist (NZ) <br>
+                    BHsc Podiatry (NZ)<br>
+                    PgD in Musculoskeletal Medicine and Rehabilitation (CUHK)<br>
+                    Member of PodiatryNZ<br>
+                    Member of International Podiatrists Association of Hong Kong (IPAHK)
+                </div>
+            </div>
+
+            <div class="mt-3">Charlie is a podiatrist registered under the International Podiatrists Association of
+                Hong
+                Kong and
+                registered with the Podiatrists Board of New Zealand. He received professional training in podiatry
+                from
+                the Auckland university technology in New Zealand and furthered his education and obtained his
+                Postgraduate Diploma in Musculoskeletal Medicine and Rehabilitation from the Chinese University of
+                Hong
+                Kong.
+                <br><br>
+                Charlie is currently working at the Matilda international hospital/ Matilda Medical Centre (Central)
+                ,
+                Hong Kong Adventist Hospital- Tsuen wan and Gleneagles Hospital Hong Kong. He had worked in two
+                multidisciplinary clinics in Shanghai. He also volunteered at the HKSKH Lady MacLehose Centre and
+                provided podiatry education for the disadvantaged.
+                Charlie work closely in partnership with consultant orthopedic surgeons, general practitioner and
+                physiotherapist. They ensure each patient is thoroughly assessed; diagnosed and optimum treatment is
+                selected.
+                <br><br>
+                His experience in a private practice in New Zealand and at the Matilda International Hospital in
+                Hong
+                Kong has provided him with a comprehensive understanding of diagnosis and treatment of a wide array
+                of
+                pathologies of the foot and lower leg, including:
+
+                <ul class=" ps-3">
+                    <li>Athletic and sports injuries of the foot, knee, and hip</li>
+                    <li>Biomechanical assessments (examination of the lower limbs, looking at their structure,
+                        alignment,
+                        strengths and weaknesses)</li>
+                    <li>Chronic pathologies</li>
+                    <li>Diabetic foot care</li>
+                    <li>Footwear assessment</li>
+                    <li>Nail & skin pathologies (callus / cracked heels, corns, in-growing toenails, fungal nails,
+                        verrucae, foot warts, etc.)</li>
+                    <li>Neurological disorders</li>
+                    <li>Orthotic prescription</li>
+                    <li>Paediatric assessment</li>
+                    <li>Rheumatoid arthritis</li>
+                    <li>Vascular & musculoskeletal disorders</li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
 
 
 
