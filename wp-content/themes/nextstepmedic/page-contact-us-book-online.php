@@ -17,7 +17,10 @@ get_header();
 <div class="position-relative contact-us-top-container pt-5 pb-5">
 
     <div class="container">
-        <div class="row  gx-5 justify-content-center">
+        <?php
+        echo get_field('content_txt_0');
+        ?>
+        <!-- <div class="row  gx-5 justify-content-center">
 
             <div class="col-lg-5 col-md-12 col-sm-12 col-12  mb-lg-0 mb-md-4 mb-sm-4 mb-4">
                 <div class="subtitle">Getting to The Next Step Medical Clinic
@@ -90,14 +93,16 @@ get_header();
 
                 <div id="map"></div>
 
-                <?php //echo get_template_directory_uri().'/assets/images/pin.svg';?>
                 <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x-1.png
 " alt="">
             </div>
-        </div>
+        </div> -->
 
 
-        <div class="row gx-5 justify-content-center contact-us-info-div mt-5">
+        <?php
+               echo get_field('content_txt_1');
+        ?>
+        <!-- <div class="row gx-5 justify-content-center contact-us-info-div mt-5">
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
 
                 <div class="contact-subtitle">Contact Us
@@ -154,7 +159,7 @@ get_header();
 
             </div>
 
-        </div>
+        </div> -->
 
 
     </div>
