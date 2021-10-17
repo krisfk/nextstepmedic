@@ -38,15 +38,15 @@ get_header();
 
     <div class="row mt-lg-5 mt-md-3 mt-sm-3 mt-3 ">
 
-
+        <?php echo get_field('content_txt_1');?>
+        <!--
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img class="w-100"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-1@2x-50-1.jpg" alt=""></div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
-            <?php echo get_field('content_txt_1');?>
 
 
-            <!-- <div class="service-subtitle">What Does A Podiatrist Treat?</div>
+             <div class="service-subtitle">What Does A Podiatrist Treat?</div>
             <div class="mt-3">
 
                 Are you looking for a foot doctor? Podiatrists are healthcare professionals who have been trained to
@@ -82,8 +82,8 @@ get_header();
             </div>
 
 
-        </div> -->
-        </div>
+        </div> 
+        </div>-->
         <div class="row mt-5">
             <div class="col-12">
                 <?php echo get_field('content_txt_2');?>
