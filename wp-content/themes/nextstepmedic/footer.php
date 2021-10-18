@@ -22,13 +22,22 @@
 
     <div class="container">
 
-        <div class="row">
+        <?php
+    $page = get_posts([ 'name' => 'footer' ]);
+
+    if ( $page )
+    {
+        echo $page[0]->post_content;
+    }
+    
+    ?>
+        <!-- <div class="row">
 
             <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-5 mb-sm-5  mb-5">
 
                 <ul>
                     <li class="footer-subtitle">
-                        <a href="<?php echo get_site_url()?>/about-us">
+                        <a href="https://nextstepmedic.com/about-us">
                             Our Team</a>
                     </li>
                 </ul>
@@ -36,22 +45,22 @@
                 <ul class="mt-5">
 
                     <li class="footer-subtitle">
-                        <a href="<?php echo get_site_url()?>/services">
+                        <a href="https://nextstepmedic.com/services">
                             Our Services</a>
                     </li>
 
 
-                    <li><a href="<?php echo get_site_url();?>/orthopaedics-traumatology">Orthopaedics & Traumatology</a>
+                    <li><a href="https://nextstepmedic.com/orthopaedics-traumatology">Orthopaedics & Traumatology</a>
                     </li>
 
-                    <li><a href="<?php echo get_site_url();?>/physiotherapy">Physiotherapy</a></li>
+                    <li><a href="https://nextstepmedic.com/physiotherapy">Physiotherapy</a></li>
 
-                    <li><a href="<?php echo get_site_url();?>/podiatry">Podiatry</a></li>
+                    <li><a href="https://nextstepmedic.com/podiatry">Podiatry</a></li>
 
-                    <li><a href="<?php echo get_site_url();?>/swift-laser-wart-treatment">Swift Laser - Wart
+                    <li><a href="https://nextstepmedic.com/swift-laser-wart-treatment">Swift Laser - Wart
                             Treatment</a></li>
 
-                    <li><a href="<?php echo get_site_url();?>/lunula-laser-fungal-nail-treatment">Lunula Laser - Fungal
+                    <li><a href="https://nextstepmedic.com/lunula-laser-fungal-nail-treatment">Lunula Laser - Fungal
                             Nails</a></li>
 
 
@@ -63,14 +72,13 @@
 
                 <ul>
                     <li class="footer-subtitle">
-                        <a href="<?php echo get_site_url()?>/contact-us-book-online">
+                        <a href="https://nextstepmedic.com/contact-us-book-online">
                             Contact Us</a>
                     </li>
                 </ul>
                 <table>
                     <tr>
                         <td class="icon-td">
-                            <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In  -->
                             <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
                                 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="20.36px"
                                 height="31.67px" viewBox="0 0 20.36 31.67"
@@ -101,7 +109,6 @@
                     </tr>
                     <tr>
                         <td class="icon-td">
-                            <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In  -->
                             <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
                                 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="27.81px"
                                 height="24.05px" viewBox="0 0 27.81 24.05"
@@ -138,7 +145,6 @@
                     </tr>
                     <tr>
                         <td class="icon-td">
-                            <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In  -->
                             <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
                                 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="27.81px"
                                 height="27.93px" viewBox="0 0 27.81 27.93"
@@ -174,7 +180,6 @@
                     </tr>
                     <tr>
                         <td class="icon-td">
-                            <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In  -->
                             <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
                                 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="27.94px"
                                 height="19.96px" viewBox="0 0 27.94 19.96"
@@ -216,9 +221,7 @@
 
                 <ul>
                     <li class="footer-subtitle">
-                        <!-- <a href="#"> -->
                         Opening Hours
-                        <!-- </a> -->
                     </li>
                 </ul>
                 <ul>
@@ -231,7 +234,7 @@
                     </li>
                 </ul>
             </div>
-        </div>
+        </div> -->
     </div>
 
 
