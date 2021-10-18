@@ -11,6 +11,10 @@
 
 get_header();
 
+if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
+    $lang_code = ICL_LANGUAGE_CODE;
+  }
+  
 ?>
 
 
@@ -180,7 +184,12 @@ get_header();
                 <div id="datepicker" class="mt-3"></div>
             </div> -->
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
-                <div class="bold">For any enquiries, please leave us your message:</div>
+                <div class="bold">
+
+                    <?php echo ($lang_code == 'zh-hant') ? '如有任何疑問，請給我們留言：我們將會盡快回覆你的查詢：':'For any enquiries, please leave us your message:'; ?>
+
+
+                </div>
 
 
                 <div class="row  mt-3">
@@ -205,7 +214,10 @@ get_header();
                     </div>
                     <div class="col-12 mt-2 text-end">
 
-                        <a href="javascript:void(0);" class="send-msg-btn">Send Message</a>
+                        <a href="javascript:void(0);" class="send-msg-btn">
+                            <?php echo ($lang_code == 'zh-hant') ? '發送':'send message'; ?>
+
+                        </a>
                     </div>
                 </div>
             </div>
