@@ -23,8 +23,11 @@
     <div class="container">
 
         <?php
-    $page = get_posts([ 'name' => 'footer' ]);
 
+$page = get_posts([
+    'name'      => 'footer',
+    'post_type' => 'page'
+]);
     if ( $page )
     {
         echo $page[0]->post_content;
