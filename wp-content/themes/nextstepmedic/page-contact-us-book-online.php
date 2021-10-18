@@ -205,7 +205,7 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
 
                     </div>
                     <div class="col-12  mt-2">
-                        <input type="text" placeholder="<?php echo ($lang_code == 'zh-hant') ? '電郵＝':'Email'; ?>"
+                        <input type="text" placeholder="<?php echo ($lang_code == 'zh-hant') ? '電郵':'Email'; ?>"
                             class="w-100 form-control">
 
 
