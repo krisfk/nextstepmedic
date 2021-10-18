@@ -195,20 +195,25 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
                 <div class="row  mt-3">
 
                     <div class="col-6">
-                        <input type="text" placeholder="Name" class="w-100 form-control">
+
+                        <input type="text" placeholder="<?php echo ($lang_code == 'zh-hant') ? '姓名':'Name'; ?>"
+                            class="w-100 form-control">
                     </div>
                     <div class="col-6">
-                        <input type="text" placeholder="Phone" class="w-100 form-control">
+                        <input type="text" placeholder="<?php echo ($lang_code == 'zh-hant') ? '電話':'Phone'; ?>"
+                            class="w-100 form-control">
 
                     </div>
                     <div class="col-12  mt-2">
-                        <input type="text" placeholder="Email" class="w-100 form-control">
+                        <input type="text" placeholder="<?php echo ($lang_code == 'zh-hant') ? '電郵＝':'Email'; ?>"
+                            class="w-100 form-control">
 
 
                     </div>
                     <div class="col-12 mt-2">
 
-                        <textarea class="w-100  form-control" placeholder="Message" rows="4" cols="50">
+                        <textarea class="w-100  form-control"
+                            placeholder="<?php echo ($lang_code == 'zh-hant') ? '訊息':'Message'; ?>" rows="4" cols="50">
 </textarea>
 
                     </div>
