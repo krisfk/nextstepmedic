@@ -210,7 +210,9 @@ body {
     font-size: 0.8rem;
 }
 
-.top-menu-ul li.phone-li {}
+.top-menu-ul li.phone-li {
+    margin: 0 0 0 0.2rem;
+}
 
 .brown-round-btn {
     color: #fff;
