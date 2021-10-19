@@ -431,6 +431,13 @@ footer table td.icon-td {
     margin: 1;
 }
 
+footer table td.icon-td img {
+    height: 20px;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+}
+
 .big-banner-central-row {
     position: absolute;
     align-items: center;
