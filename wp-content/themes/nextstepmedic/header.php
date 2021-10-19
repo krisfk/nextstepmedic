@@ -146,13 +146,13 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
 
             ?>
 
-                                        <li>
+                                        <li class="phone-li">
                                             <a href="#"
                                                 class="phone"><?php echo ($lang_code == 'zh-hant') ? '電話':'Call'; ?>:
                                                 +852 3703-5860 / +852 65950118 </a>
                                         </li>
 
-                                        <li>
+                                        <li class="phone-li">
                                             <a href="#"
                                                 class="phone"><?php echo ($lang_code == 'zh-hant') ? 'Whatsapp':'Whatsapp'; ?>:
                                                 +852 65950118 </a>
