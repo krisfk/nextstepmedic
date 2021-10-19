@@ -149,7 +149,8 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
                                         <li>
                                             <a href="#"
                                                 class="phone"><?php echo ($lang_code == 'zh-hant') ? '電話':'Call'; ?>:
-                                                +852 3703-5860 / +852 6595-0118 </a>
+                                                +852 3703-5860 / +852 65950118 </a> <br>
+                                            whatsapp +852 65950118
                                         </li>
 
 
