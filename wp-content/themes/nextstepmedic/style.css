@@ -145,6 +145,7 @@ body {
 
 .top-menu-ul {
     display: inline-block;
+    margin: 0;
 }
 
 .top-menu-ul li {
@@ -163,7 +164,7 @@ body {
     background: #bf9d81;
     padding: 0.2rem 0.5rem;
     border-radius: 0.4rem;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
 }
 
 .send-msg-btn {
@@ -207,11 +208,11 @@ body {
     background: #bf9d81;
     padding: 0.2rem 0.5rem;
     border-radius: 0.4rem;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
 }
 
 .top-menu-ul li.phone-li {
-    margin: 0 0 0 0.2rem;
+    margin: 0 0 0 0.1rem;
 }
 
 .brown-round-btn {
