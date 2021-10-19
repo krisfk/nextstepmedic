@@ -97,6 +97,8 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
                 $temp_arr=explode(get_site_url(),$url);
                 $slug=str_replace('/en/','',$temp_arr[1]);
                 $slug=str_replace('/cn/','',$slug);
+                $slug=str_replace('/zh-hant/','',$sub_slug);
+
                 $slug=str_replace('/','',$slug);
 
 
