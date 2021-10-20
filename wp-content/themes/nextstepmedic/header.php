@@ -265,6 +265,11 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
                         })
 
 
+                        $('img').closest('p').css({
+                            'margin': '0'
+                        })
+
+
 
 
 
