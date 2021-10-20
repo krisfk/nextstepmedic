@@ -432,10 +432,11 @@ footer table td.icon-td {
 }
 
 footer table td.icon-td img {
-    height: 20px;
+    height: 15px;
     display: inline-block;
     margin: 0 auto;
     text-align: center;
+    padding: 0 0.3rem 0 0;
 }
 
 .big-banner-central-row {
