@@ -1086,6 +1086,11 @@ a.ui-button:active,
     display: none;
 }
 
+.square-point-ul li:before {
+    content: '+';
+    padding-right: 5px;
+}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (max-width: 1200px) {}
