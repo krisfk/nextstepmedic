@@ -1086,9 +1086,18 @@ a.ui-button:active,
     display: none;
 }
 
+.square-point-ul {
+    /* padding: 0px !important; */
+    /* margin: 0px !important; */
+}
+
+.square-point-ul li {
+    list-style-type: none;
+}
+
 .square-point-ul li:before {
-    content: '+';
-    padding-right: 5px;
+    content: '▢';
+    padding-right: 0.5rem;
 }
 
 @media only screen and (max-width: 1920px) {}
