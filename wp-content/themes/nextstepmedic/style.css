@@ -400,7 +400,7 @@ footer {
 
 footer a {
     color: #fff;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 footer a:hover {
