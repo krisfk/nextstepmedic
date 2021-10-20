@@ -1074,6 +1074,10 @@ a.ui-button:active,
     margin: 0;
 }
 
+.page-podiatry p {
+    margin: 0;
+}
+
 .page-physiotherapy p {
     margin: 0;
 }
