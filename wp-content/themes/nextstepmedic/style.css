@@ -1105,6 +1105,10 @@ a.ui-button:active,
     padding-right: 0.5rem;
 }
 
+.contact-us-info-div a {
+    color: #4d4d4f !important;
+}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (max-width: 1200px) {}
