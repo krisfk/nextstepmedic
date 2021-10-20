@@ -140,7 +140,7 @@ body {
 }
 
 .logo {
-    height: 100px;
+    height: 50px;
 }
 
 .top-menu-ul {
@@ -953,7 +953,7 @@ a.ui-button:active,
 
 .desktop-menu-div {
     position: fixed;
-    top: 0;
+    top: 25px;
     left: 0;
     width: 100%;
     background: rgb(255 255 255 / 90%);
