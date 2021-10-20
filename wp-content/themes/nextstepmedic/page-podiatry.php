@@ -598,7 +598,8 @@ $(function() {
     $('.find-out-more-btn').click(function() {
 
         $(this).fadeOut(0)
-        $(this).closest('col-12').find('.hide-content').slideDown(200);
+        $(this).closest('p').next('.hide-content').slideDown(200);
+        $(this).next('p').next('.hide-content').slideDown(200);
 
     })
 })
