@@ -75,8 +75,8 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
                                 <div class="col-2">
 
                                     <a href="<?php echo get_site_url();?>" class="d-inline-block">
-                                        <img src="https://nextstepmedic.com/wp-content/uploads/2021/10/logo.png" alt=""
-                                            class="logo">
+                                        <img src="https://nextstepmedic.com/wp-content/uploads/2021/10/next-logo.jpg"
+                                            alt="" class="logo">
                                     </a>
                                 </div>
 
