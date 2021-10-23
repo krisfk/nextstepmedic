@@ -38,7 +38,8 @@ get_header();
 
 
 
-    <div class="text-center">We welcome reviews and feedback from those who’ve used The NEXT STEP CLINIC. Please feel
+    <div class="text-center"><b>We welcome reviews and feedback from those who’ve used The NEXT STEP CLINIC.</b> Please
+        feel
         free to email
         us
         direct to tell us about your experience.
