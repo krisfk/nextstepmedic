@@ -50,8 +50,9 @@ get_header();
         direct to tell us about your experience. -->
     </div>
     <div class="row mt-5">
+        <?php echo get_field('content_txt_2');?>
 
-        <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5 gold">
+        <!-- <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-5 gold">
             <img class="w-100 testimonials-foto" src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-1.jpg"
                 alt="">
             <div class="mt-4">“As a serious runner, enjoyment and the condition of my feet are inextricably linked
@@ -93,14 +94,17 @@ get_header();
 
 
 
-        </div>
+        </div> -->
 
     </div>
 
 
     <div class="row">
 
-        <div class="col-lg-4 col-md-4 col-sm-12 col-12  test-person-div">
+        <?php echo get_field('content_txt_3');?>
+
+
+        <!-- <div class="col-lg-4 col-md-4 col-sm-12 col-12  test-person-div">
 
             <div class="test-person-say p-3">
                 「這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。」 <div class="rect"></div>
@@ -479,7 +483,7 @@ get_header();
 
 
 
-
+ -->
 
 
 
