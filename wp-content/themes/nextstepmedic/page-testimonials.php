@@ -119,13 +119,17 @@ get_header();
         <div class="col-4">
 
             <div class="test-person-say p-3">
-                「這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。」 <div class="rect"></div>
+                I have so many good things to say about Charlie Lau. Right from the beginning, I could tell he is very
+                passionate about the work he does. Your professionalism and thoroughness are rare in today's service
+                world! I appreciate all you do. Keep up the good work & I'll refer my friends with foot issues to you!
+                <div class="rect"></div>
             </div>
             <table class="mt-4">
                 <tr>
                     <td><img class="test-person-foto"
-                            src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-4.jpg" alt=""></td>
-                    <td class="ps-3">Anges So 小姐
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-5.jpg" alt=""></td>
+                    <td class="ps-3">Dilan Jivan
+
                     </td>
                 </tr>
             </table>
