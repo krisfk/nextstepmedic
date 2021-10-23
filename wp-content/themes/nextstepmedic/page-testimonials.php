@@ -288,6 +288,29 @@ get_header();
             </table>
         </div>
 
+        <div class="col-4 test-person-div">
+
+            <div class="test-person-say p-3">
+                Charlie is an excellent podiatrist. He's not only skilled and smart, but also very gentle and went
+                beyond the call of duty to help me when I came out of quarantine. I highly recommend him.
+
+                <div class="rect"></div>
+            </div>
+            <table class="mt-4">
+                <tr>
+
+                    <td class="ps-3">Kate W
+
+
+
+
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+
 
 
 
