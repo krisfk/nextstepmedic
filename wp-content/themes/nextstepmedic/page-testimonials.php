@@ -110,7 +110,7 @@ get_header();
                 <tr>
                     <td><img class="test-person-foto"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-4.jpg" alt=""></td>
-                    <td>Anges So 小姐
+                    <td class="ps-3">Anges So 小姐
                     </td>
                 </tr>
             </table>
