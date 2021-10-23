@@ -404,6 +404,82 @@ get_header();
             </table>
         </div>
 
+        <div class="col-4 test-person-div">
+
+            <div class="test-person-say p-3">
+
+                Thanks for taking good care of Joe and me.
+                <div class="rect"></div>
+            </div>
+            <table class="mt-4">
+                <tr>
+
+                    <td class="ps-3"> Rebecca S
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+
+        <div class="col-4 test-person-div">
+
+            <div class="test-person-say p-3">
+
+                Thank you for all you have done for my feet. At present they are in great shape, thanks to my husband,
+                no problems, everything is healed. If problems do occur that we can't handle, be assured we shall be
+                there at your office for help.
+                <div class="rect"></div>
+            </div>
+            <table class="mt-4">
+                <tr>
+
+                    <td class="ps-3">Emma H
+
+
+
+
+
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="col-4 test-person-div">
+
+            <div class="test-person-say p-3">
+
+                My experience with Next step medical has been so awesome! Mr. Law is my physiotherapist and he helped me
+                so much with my vertigo. He was very informative, and he would always educate me about my condition,
+                what to do for home care, and always makes sure I follow up with it.
+                <div class="rect"></div>
+            </div>
+            <table class="mt-4">
+                <tr>
+
+                    <td class="ps-3">Hilary S
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+
+
+
 
 
 
