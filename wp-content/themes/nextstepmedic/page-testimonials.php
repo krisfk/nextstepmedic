@@ -13,25 +13,22 @@ get_header();
 
 ?>
 
-
 <div class="position-relative">
 
-    <div class="row big-banner-central-row gx-0">
+    <div class="row big-banner-central-row position-relative gx-0 align-items-center">
 
         <div class="col-12">
 
-            <div class="content-div">
+            <div class="content-div service-title-div">
 
-                <div class="large-subtitle mb-4">Testimonials
-                </div>
-                We welcome reviews and feedback from those who’ve used The NEXT STEP CLINIC. Please feel free to email
-                us direct to tell us about your experience.
-
+                <h1 class="service-h1-title">
+                    <!-- Orthopaedics & Traumatology -->
+                    <p>Orthopaedics &amp; Traumatology</p>
+                </h1>
             </div>
         </div>
     </div>
 
-    <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-scaled.jpg" alt="">
 </div>
 
 
