@@ -106,7 +106,7 @@ get_header();
             <div class="test-person-say">
                 這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。
             </div>
-            <table>
+            <table class="mt-3">
                 <tr>
                     <td><img class="test-person-foto"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-4.jpg" alt=""></td>
