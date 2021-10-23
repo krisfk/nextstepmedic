@@ -309,6 +309,80 @@ get_header();
                 </tr>
             </table>
         </div>
+        <div class="col-4 test-person-div">
+
+            <div class="test-person-say p-3">
+                Mr. Law has been treating my husband for a few years now and saw major improvements, my husband used to
+                get really bad shoulder pain and after 2 visits has already shown so much improvement.
+
+
+                <div class="rect"></div>
+            </div>
+            <table class="mt-4">
+                <tr>
+
+                    <td class="ps-3">Giampaolo B
+
+
+
+
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="col-4 test-person-div">
+
+            <div class="test-person-say p-3">
+                I highly recommend Next step medical, they did an amazing job.
+
+
+                <div class="rect"></div>
+            </div>
+            <table class="mt-4">
+                <tr>
+
+                    <td class="ps-3">Ashley Nip
+
+
+
+
+
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+
+        <div class="col-4 test-person-div">
+
+            <div class="test-person-say p-3">
+                Prior to the operation in August, I was completely at the end of my tether with the constant pain in my
+                right foot which made walking and, generally, any daily activity extremely painful and difficult. I now
+                have a pain-free right foot which now looks like a normal foot. Thank you so much for all you have done
+                for me for which I will be eternally grateful.
+
+                <div class="rect"></div>
+            </div>
+            <table class="mt-4">
+                <tr>
+
+                    <td class="ps-3">Bradden H
+
+
+
+
+
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+
+
 
 
 
