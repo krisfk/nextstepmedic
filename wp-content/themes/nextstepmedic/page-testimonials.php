@@ -268,6 +268,28 @@ get_header();
         </div>
 
 
+        <div class="col-4 test-person-div">
+
+            <div class="test-person-say p-3">不知為何膝蓋內側日夜都有種像是被抽住的痛楚感覺, 看過西醫, 鐵打都沒用, 經朋友介紹來看, 方知一路當是膝痛來處理其實問題出在腰部,
+                但這療程還真漫長, 開頭數周進度緩慢, 所幸是經過數月治療, 這種痛終於離我而去.<div class="rect"></div>
+            </div>
+            <table class="mt-4">
+                <tr>
+                    <td><img class="test-person-foto"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-13.jpg" alt=""></td>
+                    <td class="ps-3">江先生
+
+
+
+
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+
+
 
 
 
