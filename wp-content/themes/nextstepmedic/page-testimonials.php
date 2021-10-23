@@ -134,7 +134,23 @@ get_header();
                 </tr>
             </table>
         </div>
-        <div class="col-4"></div>
+        <div class="col-4">
+
+            <div class="test-person-say p-3">
+                「物理治療師Jeff在處理我的疼痛問題和幫助我在手術前後重獲得最佳健康狀態方面非常有效。」
+                <div class="rect"></div>
+            </div>
+            <table class="mt-4">
+                <tr>
+                    <td><img class="test-person-foto"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-6.jpg" alt=""></td>
+                    <td class="ps-3">Mr. Cheng
+
+
+                    </td>
+                </tr>
+            </table>
+        </div>
     </div>
 
     <!-- <div class="slides row">
