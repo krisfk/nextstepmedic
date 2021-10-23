@@ -37,6 +37,25 @@ get_header();
     <img class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-9@2x-50-scaled.jpg" alt="">
 </div> -->
 
+<div class="position-relative">
+
+    <div class="row big-banner-central-row position-relative gx-0 align-items-center">
+
+        <div class="col-12">
+
+            <div class="content-div service-title-div">
+
+                <h1 class="service-h1-title">
+                    <p>Physiotherapy</p>
+                    <!-- Physiotherapy -->
+                </h1>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
 
 <div class="container testimonials-container mt-5 mb-5">
 
