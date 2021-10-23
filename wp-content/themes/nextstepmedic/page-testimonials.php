@@ -46,7 +46,7 @@ get_header();
     </div>
     <div class="row mt-5">
 
-        <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-4">
+        <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-4 gold">
             <img class="w-100 testimonials-foto" src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-1.jpg"
                 alt="">
             <div class="mt-4">“As a serious runner, enjoyment and the condition of my feet are inextricably linked
@@ -57,7 +57,7 @@ get_header();
 
 
         </div>
-        <div class="col-lg-4 col-md-12 col-sm-12 col-12  mb-4">
+        <div class="col-lg-4 col-md-12 col-sm-12 col-12  mb-4  gold">
             <img class="w-100 testimonials-foto" src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-2.jpg"
                 alt="">
 
@@ -72,7 +72,7 @@ get_header();
 
 
         </div>
-        <div class="col-lg-4 col-md-12 col-sm-12 col-12  mb-4">
+        <div class="col-lg-4 col-md-12 col-sm-12 col-12  mb-4  gold">
             <img class="w-100  testimonials-foto"
                 src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-3.jpg" alt="">
 
