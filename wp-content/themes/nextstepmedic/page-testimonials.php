@@ -214,7 +214,7 @@ get_header();
             <table class="mt-4">
                 <tr>
                     <td><img class="test-person-foto"
-                            src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-9.jpg" alt=""></td>
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-10.jpg" alt=""></td>
                     <td class="ps-3">蘇小姐
 
 
