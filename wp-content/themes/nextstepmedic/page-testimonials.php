@@ -169,6 +169,25 @@ get_header();
                 </tr>
             </table>
         </div>
+        <div class="col-4">
+
+            <div class="test-person-say p-3">
+                「如往常一樣，湯醫生幫我找到問題的根源，並提供適合的運動練習作為治療。」 <div class="rect"></div>
+            </div>
+            <table class="mt-4">
+                <tr>
+                    <td><img class="test-person-foto"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-8.jpg" alt=""></td>
+                    <td class="ps-3">Nicki Ho 何先生
+
+
+
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+
 
     </div>
 
