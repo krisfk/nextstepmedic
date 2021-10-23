@@ -37,7 +37,12 @@ get_header();
 <div class="container testimonials-container mt-5 mb-5">
 
 
-    <div class="row">
+
+    <div class="">We welcome reviews and feedback from those who’ve used The NEXT STEP CLINIC. Please feel free to email
+        us
+        direct to tell us about your experience.
+    </div>
+    <div class="row mt-5">
 
         <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-4">
 
