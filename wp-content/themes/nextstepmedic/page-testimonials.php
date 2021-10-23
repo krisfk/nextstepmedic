@@ -98,6 +98,27 @@ get_header();
 
     </div>
 
+
+    <div class="row">
+
+        <div class="col-4">
+
+            <div>
+                這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。
+            </div>
+            <table>
+                <tr>
+                    <td><img class="test-person-foto"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-4.jpg" alt=""></td>
+                    <td>Anges So 小姐
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="col-4"></div>
+        <div class="col-4"></div>
+    </div>
+
     <!-- <div class="slides row">
 
         <div class="slide col-lg-4 col-md-12 col-sm-12 col-12">

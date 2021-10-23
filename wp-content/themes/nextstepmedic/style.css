@@ -1111,6 +1111,8 @@ a.ui-button:active,
     color: #4d4d4f !important;
 }
 
+.test-person-foto {}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (max-width: 1200px) {}
