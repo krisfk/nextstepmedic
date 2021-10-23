@@ -151,6 +151,25 @@ get_header();
                 </tr>
             </table>
         </div>
+
+        <div class="col-4">
+
+            <div class="test-person-say p-3">
+                「在過去的 5 年裡，我的足病診療師Charlie對我的親切關懷和關注一直給我留下了深刻的印象。 當我離開診所時，我的腳部總是感覺良好 <div class="rect"></div>
+            </div>
+            <table class="mt-4">
+                <tr>
+                    <td><img class="test-person-foto"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-7.jpg" alt=""></td>
+                    <td class="ps-3">何先生
+
+
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+
     </div>
 
     <!-- <div class="slides row">
