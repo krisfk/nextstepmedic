@@ -105,6 +105,7 @@ get_header();
 
             <div class="test-person-say p-3">
                 這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。
+                <div class="rect"></div>
             </div>
             <table class="mt-3">
                 <tr>
