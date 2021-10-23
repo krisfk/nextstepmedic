@@ -22,8 +22,8 @@ get_header();
             <div class="content-div service-title-div">
 
                 <h1 class="service-h1-title">
-                    <!-- Orthopaedics & Traumatology -->
-                    Testimonials
+                    <?php echo get_field('content_txt_0');?>
+                    <!-- Testimonials -->
                 </h1>
             </div>
         </div>
@@ -38,11 +38,16 @@ get_header();
 
 
 
-    <div class="text-center"><b>We welcome reviews and feedback from those who’ve used The NEXT STEP CLINIC.</b> Please
+    <div class="text-center">
+
+        <?php echo get_field('content_txt_1');?>
+
+
+        <!-- <b>We welcome reviews and feedback from those who’ve used The NEXT STEP CLINIC.</b> Please
         feel
         free to email
         us
-        direct to tell us about your experience.
+        direct to tell us about your experience. -->
     </div>
     <div class="row mt-5">
 
