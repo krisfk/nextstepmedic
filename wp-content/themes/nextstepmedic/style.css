@@ -1133,6 +1133,10 @@ a.ui-button:active,
     left: 25px;
 }
 
+.test-person-div {
+    margin: 0 0 1rem 0;
+}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (max-width: 1200px) {}

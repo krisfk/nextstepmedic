@@ -101,7 +101,7 @@ get_header();
 
     <div class="row">
 
-        <div class="col-4">
+        <div class="col-4 test-person-div">
 
             <div class="test-person-say p-3">
                 「這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。」 <div class="rect"></div>
@@ -116,7 +116,7 @@ get_header();
             </table>
         </div>
 
-        <div class="col-4">
+        <div class="col-4 test-person-div">
 
             <div class="test-person-say p-3">
                 I have so many good things to say about Charlie Lau. Right from the beginning, I could tell he is very
@@ -134,7 +134,7 @@ get_header();
                 </tr>
             </table>
         </div>
-        <div class="col-4">
+        <div class="col-4 test-person-div">
 
             <div class="test-person-say p-3">
                 「物理治療師Jeff在處理我的疼痛問題和幫助我在手術前後重獲得最佳健康狀態方面非常有效。」
@@ -152,7 +152,7 @@ get_header();
             </table>
         </div>
 
-        <div class="col-4">
+        <div class="col-4 test-person-div">
 
             <div class="test-person-say p-3">
                 「在過去的 5 年裡，我的足病診療師Charlie對我的親切關懷和關注一直給我留下了深刻的印象。 當我離開診所時，我的腳部總是感覺良好 <div class="rect"></div>
@@ -169,7 +169,7 @@ get_header();
                 </tr>
             </table>
         </div>
-        <div class="col-4">
+        <div class="col-4 test-person-div">
 
             <div class="test-person-say p-3">
                 「如往常一樣，湯醫生幫我找到問題的根源，並提供適合的運動練習作為治療。」 <div class="rect"></div>
