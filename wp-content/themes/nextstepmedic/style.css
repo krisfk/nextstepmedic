@@ -1113,6 +1113,7 @@ a.ui-button:active,
 
 .test-person-foto {
     width: 70px;
+    border-radius: 50px;
 }
 
 .test-person-say {}
