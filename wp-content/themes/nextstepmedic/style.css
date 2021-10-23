@@ -1117,7 +1117,8 @@ a.ui-button:active,
 }
 
 .test-person-say {
-    background: #f9f9f9;
+    background: #efefef;
+    border-radius: 1rem;
 }
 
 @media only screen and (max-width: 1920px) {}
