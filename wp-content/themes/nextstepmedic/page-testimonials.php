@@ -205,6 +205,27 @@ get_header();
                 </tr>
             </table>
         </div>
+        <div class="col-4 test-person-div">
+
+            <div class="test-person-say p-3">
+                「我接受治療的過程非常專業，JEFF十分詳細地向我解釋診斷結果。 而治療後的運動和伸展練習似乎也很有效。」
+                <div class="rect"></div>
+            </div>
+            <table class="mt-4">
+                <tr>
+                    <td><img class="test-person-foto"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-9.jpg" alt=""></td>
+                    <td class="ps-3">蘇小姐
+
+
+
+
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+
 
 
 
