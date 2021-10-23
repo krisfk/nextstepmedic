@@ -1111,7 +1111,9 @@ a.ui-button:active,
     color: #4d4d4f !important;
 }
 
-.test-person-foto {}
+.test-person-foto {
+    width: 70px;
+}
 
 .test-person-say {}
 
