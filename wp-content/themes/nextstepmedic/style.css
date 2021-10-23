@@ -1119,6 +1119,7 @@ a.ui-button:active,
 .test-person-say {
     background: #efefef;
     border-radius: 1rem;
+    position: relative;
 }
 
 .test-person-say .rect {
