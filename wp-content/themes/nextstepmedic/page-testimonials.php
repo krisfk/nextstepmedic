@@ -107,7 +107,7 @@ get_header();
                 這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。這是我第一次拜訪Charlie，很細心，我很滿意，甲溝炎的情況大有改善，感到備受照顧。
                 <div class="rect"></div>
             </div>
-            <table class="mt-3">
+            <table class="mt-4">
                 <tr>
                     <td><img class="test-person-foto"
                             src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-4.jpg" alt=""></td>
