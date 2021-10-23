@@ -47,16 +47,13 @@ get_header();
     <div class="row mt-5">
 
         <div class="col-lg-4 col-md-12 col-sm-12 col-12 mb-4">
+            <img class="w-100 testimonials-foto" src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-1.jpg"
+                alt="">
+            <div class="mt-4">“As a serious runner, enjoyment and the condition of my feet are inextricably linked
+                and my regular appointments with Charlie have ensured that I can run in comfort at all
+                times.”<br>“作為一名熱愛跑步的人，我雙腳的狀況和跑步的喜悅是密不可分的。我定期接受Charlie的治療，確保我可以舒適地跑步”</div>
+            <div class="person-name mt-3">Mr. Nicholas BROOKE, GBS, JP<br>蒲祿祺先生，金紫荊星章，太平紳士</div>
 
-            <p style="margin: 0px;"><a class="testimonials-foto-a" href="#"> <img class="w-100 testimonials-foto"
-                        src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-1.jpg" alt=""> </a></p><a
-                class="testimonials-foto-a" href="#">
-                <div class="mt-4">“As a serious runner, enjoyment and the condition of my feet are inextricably linked
-                    and my regular appointments with Charlie have ensured that I can run in comfort at all
-                    times.”<br>“作為一名熱愛跑步的人，我雙腳的狀況和跑步的喜悅是密不可分的。我定期接受Charlie的治療，確保我可以舒適地跑步”</div>
-                <div class="person-name mt-3">Mr. Nicholas BROOKE, GBS, JP<br>蒲祿祺先生，金紫荊星章，太平紳士</div>
-            </a>
-            <p><a class="testimonials-foto-a" href="#"></a></p>
 
 
         </div>
