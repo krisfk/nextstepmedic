@@ -247,6 +247,28 @@ get_header();
         </div>
 
 
+        <div class="col-4 test-person-div">
+
+            <div class="test-person-say p-3">It is great to be able to walk without any pain. Wow! You did a great job,
+                Dr. Tong also, all of your assistants are very good and so friendly!<div class="rect"></div>
+            </div>
+            <table class="mt-4">
+                <tr>
+                    <td><img class="test-person-foto"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-12.jpg" alt=""></td>
+                    <td class="ps-3">Sunny Cheung
+
+
+
+
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+
+
 
 
 
