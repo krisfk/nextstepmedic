@@ -23,7 +23,7 @@ get_header();
 
                 <h1 class="service-h1-title">
                     <!-- Orthopaedics & Traumatology -->
-                    <p>Orthopaedics &amp; Traumatology</p>
+                    Testimonials
                 </h1>
             </div>
         </div>
