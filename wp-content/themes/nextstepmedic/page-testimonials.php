@@ -187,6 +187,25 @@ get_header();
                 </tr>
             </table>
         </div>
+        <div class="col-4 test-person-div">
+
+            <div class="test-person-say p-3">
+                這是我第一次到訪 The Next Step，如有需要，我會再次回訪他們。」 優秀的團隊！！湯醫生的質素非常好<div class="rect"></div>
+            </div>
+            <table class="mt-4">
+                <tr>
+                    <td><img class="test-person-foto"
+                            src="https://nextstepmedic.com/wp-content/uploads/2021/10/person-9.jpg" alt=""></td>
+                    <td class="ps-3">寶小姐
+
+
+
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+
 
 
     </div>
