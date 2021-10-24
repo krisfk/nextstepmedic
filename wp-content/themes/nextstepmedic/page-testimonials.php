@@ -17,12 +17,13 @@ get_header();
 
 // THENEXTSTEPMED@gmail.com
 
-$headers = array(
-    'From: The Next Step Medical Clinic <thenextstepmed@gmail.com>',
-    'Reply-To: thenextstepmed@gmail.com'
-  );
-  $headers = implode( PHP_EOL, $headers );
-  wp_mail( 'krisfk@gmail.com', 'test title', 'test msg', $headers );echo 123;
+// $headers = array(
+//     'From: The Next Step Medical Clinic <thenextstepmed@gmail.com>',
+//     'Reply-To: thenextstepmed@gmail.com'
+//   );
+//   $headers = implode( PHP_EOL, $headers );
+//   wp_mail( 'krisfk@gmail.com', 'test title', 'test msg', $headers );
+//   echo 123;
 
 ?>
 <div class="position-relative">
