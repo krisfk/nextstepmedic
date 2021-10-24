@@ -350,7 +350,7 @@ $(function() {
                 email: email,
                 message: message,
             }, function(result) {
-
+                console.log(result);
             });
 
         }
