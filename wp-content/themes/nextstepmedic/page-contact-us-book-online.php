@@ -223,6 +223,8 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
                         <img class="captcha-img" src="" alt="">
                         <input maxlength="5" placeholder="verification code" type="text" id="input_cap"
                             class="form-control">
+
+                        <a href="javascript:void(0);" class="reload-code">Reload Code</a>
                     </div>
                     <div class="error-txt mt-3"></div>
                     <div class="col-12 mt-2 text-end">
@@ -315,12 +317,20 @@ function initMap() {
 <script type="text/javascript">
 $(function() {
 
+    load_code();
 
-    $.get("<?php echo get_site_url();?>/gen_captcha.php", {}, function(result) {
-        var img_url = '<?php echo get_site_url()?>' + result;
-        $('.captcha-img').attr('src', img_url);
+    function load_code() {
+        $.get("<?php echo get_site_url();?>/gen_captcha.php", {}, function(result) {
+            var img_url = '<?php echo get_site_url()?>' + result;
+            $('.captcha-img').attr('src', img_url);
 
-    });
+        });
+
+    }
+
+    $('.reload-code').click(function() {
+        load_code();
+    })
 
 
     $('.send-msg-btn').click(function() {
