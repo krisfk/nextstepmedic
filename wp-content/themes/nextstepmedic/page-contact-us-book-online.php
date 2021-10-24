@@ -350,7 +350,11 @@ $(function() {
                 email: email,
                 message: message,
             }, function(result) {
-                console.log(result);
+                if (result.status === 1) {
+                    $('.contact-us-form').html(
+                        '<div class="bold text-center">Message Sent. We will get back to you soon.</div>'
+                        );
+                }
             });
 
         }
