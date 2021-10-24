@@ -191,7 +191,7 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
                 </div>
 
 
-                <div class="row  mt-3">
+                <div class="row  mt-3 gx-2">
 
                     <div class="col-6">
 
