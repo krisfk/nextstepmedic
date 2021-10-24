@@ -221,7 +221,7 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
                     </div>
                     <div class="col-12 mt-2">
                         <img class="captcha-img" src="" alt="">
-                        <input type="text" id="input_cap" class="form-control">
+                        <input maxlength="5" type="text" id="input_cap" class="form-control">
                     </div>
                     <div class="error-txt mt-3"></div>
                     <div class="col-12 mt-2 text-end">

@@ -1141,6 +1141,10 @@ a.ui-button:active,
     color: darkred;
 }
 
+#input_cap {
+    width: 100px;
+}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (max-width: 1200px) {}
