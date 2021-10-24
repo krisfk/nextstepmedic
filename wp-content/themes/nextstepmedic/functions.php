@@ -794,7 +794,7 @@ function send_email($request)
 
 	  $headers = implode( PHP_EOL, $headers );
 	  $mailResult = false;
-	  $mailResult = wp_mail( 'THENEXTSTEPMED@gmail.com', 'New enquiry from nextstepmedic website', $html, $headers );
+	  $mailResult = wp_mail( 'thenextstepmed@gmail.com', 'New enquiry from nextstepmedic website', $html, $headers );
 	 
 
 	  session_start();
