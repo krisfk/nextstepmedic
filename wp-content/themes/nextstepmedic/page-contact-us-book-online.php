@@ -219,7 +219,7 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
 </textarea>
 
                     </div>
-                    <div> <img src="<?php echo get_site_url();?>/simple-php-captcha.php" alt=""></div>
+                    <div> <img src="<?php echo get_site_url();?>/gen_captcha.php" alt=""></div>
                     <div class="error-txt mt-3"></div>
                     <div class="col-12 mt-2 text-end">
 
