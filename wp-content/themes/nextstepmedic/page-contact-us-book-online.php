@@ -188,7 +188,6 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
 
                     <?php echo ($lang_code == 'zh-hant') ? '如有任何疑問，請給我們留言：我們將會盡快回覆你的查詢：':'For any enquiries, please leave us your message:'; ?>
 
-
                 </div>
 
 
@@ -323,20 +322,24 @@ $(function() {
 
         $('.error-txt').html('');
         if (!name) {
-            error_txt += 'Please input your name.<br/>';
+            error_txt +=
+                '<?php echo ($lang_code == 'zh-hant') ? '請輸入您的名字':'Please input your name.'; ?><br/>';
         }
 
         if (!(/^[0-9]{8}$/.test(phone))) {
-            error_txt += 'Phone number input is not correct<br/>';
+            error_txt +=
+                '<?php echo ($lang_code == 'zh-hant') ? '電話號碼的格式不正確':'Phone number input is not correct.'; ?><br/>';
         }
 
 
         if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email))) {
-            error_txt += 'Email input is not correct<br/>';
+            error_txt +=
+                '<?php echo ($lang_code == 'zh-hant') ? '電郵格式不正確':'Email input is not correct'; ?><br/>';
         }
 
         if (!message) {
-            error_txt += 'Please input your message.<br/>';
+            error_txt +=
+                '<?php echo ($lang_code == 'zh-hant') ? '請輸入您的訊息':'Please input your message.'; ?><br/>';
         }
 
 
@@ -353,7 +356,7 @@ $(function() {
                 console.log(result.status);
                 if (result.status == 1) {
                     $('.contact-us-form').html(
-                        '<div class="bold text-center">Message Sent. We will get back to you soon.</div>'
+                        '<div class="bold text-center"><?php echo ($lang_code == 'zh-hant') ? '訊息已成功發出，我們會盡快聯絡您。':'Message Sent. We will get back to you soon.'; ?></div>'
                     );
                 }
             });
