@@ -355,18 +355,18 @@ $('.slides').slick({
     slidesToScroll: 1
 });
 
-$(function() {
-    $("#datepicker").datepicker({
-        // dayNamesShort: ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
-        // dayNames: ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
-        dayNamesMin: ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
-        useCurrent: false,
-        firstDay: 1
+// $(function() {
+//     $("#datepicker").datepicker({
+//         // dayNamesShort: ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
+//         // dayNames: ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
+//         dayNamesMin: ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+//         useCurrent: false,
+//         firstDay: 1
 
 
 
-    });
-});
+//     });
+// });
 })
 </script>
 
