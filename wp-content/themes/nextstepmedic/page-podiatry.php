@@ -504,69 +504,35 @@ get_header();
 
     <div class="sep mt-3"></div>
 
-    <div class="row mt-4">
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-3 mb-sm-3 mb-3"><img style="height:400px"
-                class="w-100" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-2@2x.png" alt="">
-        </div>
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+    <div class="team-member-row pt-5 pb-5">
+        <div class="team-member-name">Charlie S.K Lau 劉兆麒</div>
+        <div class="team-member-title">足病診療師</div>
+        <div class="team-member-subtitle mt-4">紐西蘭足病診療學學士
+            香港中文大學骨關節醫學及復康理學學士後文憑
+            紐西蘭足病學會會員
+            香港國際足病診療師學會會員</div>
+        <div class="team-member-description mt-4">
 
-            <div class="gold">
-                <div class="person-name">
-                    Charlie S.K Lau
-                </div>
+            Charlie是紐西蘭註冊的足病診療師，在奧克蘭理工大學取得足病診療學士學位，及後於香港中文大學取得骨關節醫學及復康理學深造文憑。曾於明德國際醫院
+            、荃灣港安醫院和港怡醫院為大眾提供下肢及足部診療服務，在紐西蘭、上海及香港執業的過程，讓他累積豐富臨床經驗。透過專業分析，與其他專科，如骨科醫生和物理治療師合作，為病人貼身制定全面而有效的療程。
 
-                <div class="mt-3">
-                    Registered Podiatrist (NZ) <br>
-                    BHsc Podiatry (NZ)<br>
-                    PgD in Musculoskeletal Medicine and Rehabilitation (CUHK)<br>
-                    Member of PodiatryNZ<br>
-                    Member of International Podiatrists Association of Hong Kong (IPAHK)
-                </div>
-            </div>
-
-            <div class="mt-3">Charlie is a podiatrist registered under the International Podiatrists Association of
-                Hong
-                Kong and
-                registered with the Podiatrists Board of New Zealand. He received professional training in podiatry
-                from
-                the Auckland university technology in New Zealand and furthered his education and obtained his
-                Postgraduate Diploma in Musculoskeletal Medicine and Rehabilitation from the Chinese University of
-                Hong
-                Kong.
-                <br><br>
-                Charlie is currently working at the Matilda international hospital/ Matilda Medical Centre (Central)
-                ,
-                Hong Kong Adventist Hospital- Tsuen wan and Gleneagles Hospital Hong Kong. He had worked in two
-                multidisciplinary clinics in Shanghai. He also volunteered at the HKSKH Lady MacLehose Centre and
-                provided podiatry education for the disadvantaged.
-                Charlie work closely in partnership with consultant orthopedic surgeons, general practitioner and
-                physiotherapist. They ensure each patient is thoroughly assessed; diagnosed and optimum treatment is
-                selected.
-                <br><br>
-                His experience in a private practice in New Zealand and at the Matilda International Hospital in
-                Hong
-                Kong has provided him with a comprehensive understanding of diagnosis and treatment of a wide array
-                of
-                pathologies of the foot and lower leg, including:
-
-                <ul class=" ps-3">
-                    <li>Athletic and sports injuries of the foot, knee, and hip</li>
-                    <li>Biomechanical assessments (examination of the lower limbs, looking at their structure,
-                        alignment,
-                        strengths and weaknesses)</li>
-                    <li>Chronic pathologies</li>
-                    <li>Diabetic foot care</li>
-                    <li>Footwear assessment</li>
-                    <li>Nail & skin pathologies (callus / cracked heels, corns, in-growing toenails, fungal nails,
-                        verrucae, foot warts, etc.)</li>
-                    <li>Neurological disorders</li>
-                    <li>Orthotic prescription</li>
-                    <li>Paediatric assessment</li>
-                    <li>Rheumatoid arthritis</li>
-                    <li>Vascular & musculoskeletal disorders</li>
-
-                </ul>
-            </div>
+            Charlie 致力於社區推廣護足知識。他曾於香港聖公會麥理浩夫人中心舉辦工作坊，向有需要人士傳遞足部健康知識， 透過臨床經驗和深入社區，對下肢及足部病症有全面了解，服務範圍包括：
+            <ul>
+                <li class="li1"><span class="s2">運動損傷：腳、膝蓋和臀部的損傷</span></li>
+                <li class="li1"><span class="s2">生物力學評估：檢查下肢，觀察其結構、排列、優勢和劣勢</span></li>
+                <li class="li1"><span class="s2">慢性疼痛病症</span></li>
+                <li class="li1"><span class="s2">糖尿病足部評估和護理</span></li>
+                <li class="li1"><span class="s2">鞋類評估</span></li>
+                <li class="li1"><span
+                        class="s2">趾甲、皮膚問題和足部感染：雞眼、厚皮、厚繭、水泡、腳跟龜裂、皮膚潰瘍、真菌感染（香港腳）、足癬、疣、急性甲溝炎、疤痕結繭、靜脈曲張引致皮膚敏感和潰瘍等</span>
+                </li>
+                <li class="li1"><span class="s2">神經系統疾病</span></li>
+                <li class="li1"><span class="s2">矯形處方</span></li>
+                <li class="li1"><span class="s2">小兒足部評估及護理：足部發展及有關步行的常見問題</span></li>
+                <li class="li1"><span class="s2">類風濕關節炎</span></li>
+                <li class="li1"><span class="s2">下肢痛症</span></li>
+                <li class="li1"><span class="s2">血管和肌肉骨骼疾病</span></li>
+            </ul>
         </div>
     </div>
 
