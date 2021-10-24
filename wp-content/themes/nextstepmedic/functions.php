@@ -750,7 +750,7 @@ add_action( 'rest_api_init', 'next_route');
 
 function next_route() {
 	register_rest_route( 'api', '/send-email/', array(
-						'methods'  => 'GET',
+						'methods'  => 'POST',
 						'callback' => 'send_email'
 			)
 	);
@@ -764,7 +764,29 @@ function send_email($request)
 	  'Reply-To: thenextstepmed@gmail.com',
 	  'Content-Type: text/html; charset=UTF-8'
 	  );
-	//   $headers = array();
+
+	  $name = $request['name'];
+	  $phone = $request['phone'];
+	  $email = $request['email'];
+	  $message = $request['message'];
+	  $html.='<table>';
+	  $html.='<tr>';
+	  $html.='<td>Name:</td>';
+	  $html.='<td>'.$name.'</td>';
+	  $html.='</tr>';
+	  $html.='<tr>';
+	  $html.='<td>Phone:</td>';
+	  $html.='<td>'.$phone.'</td>';
+	  $html.='</tr>';
+	  $html.='<tr>';
+	  $html.='<td>Email:</td>';
+	  $html.='<td>'.$email.'</td>';
+	  $html.='</tr>';
+	  $html.='<tr>';
+	  $html.='<td>Message:</td>';
+	  $html.='<td>'.$message.'</td>';
+	  $html.='</tr>';
+	  $html.='</table>';
 
 
 	  $headers = implode( PHP_EOL, $headers );

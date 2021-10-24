@@ -342,6 +342,17 @@ $(function() {
 
         if (error_txt) {
             $('.error-txt').html(error_txt);
+        } else {
+
+            $.post("https://nextstepmedic.com/wp-json/api/send-email", {
+                name: name,
+                phone: phone,
+                email: email,
+                message: message,
+            }, function(result) {
+
+            });
+
         }
 
 
