@@ -326,12 +326,12 @@ $(function() {
         }
 
         if (!(/^[0-9]{8}$/.test(phone))) {
-            error_txt += 'Please phone number is not correct<br/>';
+            error_txt += 'Phone number input is not correct<br/>';
         }
 
 
-        if (error_txt) {
-            $('.error-txt').html(error_txt);
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+            error_txt += 'Email input is not correct<br/>';
         }
 
 
