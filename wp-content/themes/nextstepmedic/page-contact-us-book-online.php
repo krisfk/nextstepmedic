@@ -220,7 +220,7 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
 </textarea>
 
                     </div>
-                    <div class="error-txt">fdsfs</div>
+                    <div class="error-txt mt-3">fdsfs</div>
                     <div class="col-12 mt-2 text-end">
 
                         <a href="javascript:void(0);" class="send-msg-btn">
