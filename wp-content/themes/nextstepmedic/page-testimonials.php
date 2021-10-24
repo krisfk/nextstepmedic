@@ -12,7 +12,13 @@
 get_header();
 
 ?>
+<?php
+// 患者推薦
 
+wp_mail( 'krisfk@gmail.com', 'testing', 'testing-msg' );
+
+
+?>
 <div class="position-relative">
 
     <div class="row big-banner-central-row position-relative gx-0 align-items-center">
