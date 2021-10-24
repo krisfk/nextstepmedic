@@ -1143,10 +1143,15 @@ a.ui-button:active,
 
 #input_cap {
     width: 100px;
+    display: inline-block;
 }
 
 .captcha-img {
-    height: 38px;
+    height: 37px;
+    display: inline-block;
+    /* border: 1px solid; */
+    position: relative;
+    top: -2px;
 }
 
 @media only screen and (max-width: 1920px) {}
