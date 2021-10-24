@@ -201,7 +201,7 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
                             class="w-100 form-control">
                     </div>
                     <div class="col-6">
-                        <input id="phone" type="text"
+                        <input maxlength="8" id="phone" type="text"
                             placeholder="<?php echo ($lang_code == 'zh-hant') ? '電話':'Phone'; ?>"
                             class="w-100 form-control">
 
