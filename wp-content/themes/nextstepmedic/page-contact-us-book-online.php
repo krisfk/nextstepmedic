@@ -219,7 +219,7 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
 </textarea>
 
                     </div>
-                    <div> <img src="<?php echo get_site_url();?>/gen_captcha.php" alt=""></div>
+                    <div class="col-12"> <img class="captcha-img" src="" alt=""></div>
                     <div class="error-txt mt-3"></div>
                     <div class="col-12 mt-2 text-end">
 
@@ -311,6 +311,10 @@ function initMap() {
 <script type="text/javascript">
 $(function() {
 
+
+    $.get("<?php echo get_site_url();?>/gen_captcha.php", {}, function(result) {
+        alert(result);
+    });
 
 
     $('.send-msg-btn').click(function() {
