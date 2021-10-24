@@ -750,7 +750,7 @@ add_action( 'rest_api_init', 'next_route');
 
 function next_route() {
 	register_rest_route( 'api', '/send-email/', array(
-						'methods'  => 'POST',
+						'methods'  => 'GET',
 						'callback' => 'send_email'
 			)
 	);
