@@ -761,8 +761,12 @@ function send_email($request)
 // echo 999;
 	  $headers = array(
 	  'From: The Next Step Medical Clinic <thenextstepmed@gmail.com>',
-	  'Reply-To: thenextstepmed@gmail.com'
+	  'Reply-To: thenextstepmed@gmail.com',
+	  'Content-Type: text/html; charset=UTF-8'
 	  );
+	//   $headers = array();
+
+
 	  $headers = implode( PHP_EOL, $headers );
 	  $mailResult = false;
 	  $mailResult = wp_mail( 'krisfk@gmail.com', 'test title', '<table><tr><td>2</td><td>3</td></tr></table>', $headers );
