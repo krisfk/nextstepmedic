@@ -330,9 +330,9 @@ $(function() {
         }
 
 
-        // if (!/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)) {
-        //     error_txt += 'Email input is not correct<br/>';
-        // }
+        if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email))) {
+            error_txt += 'Email input is not correct<br/>';
+        }
 
 
 
