@@ -330,6 +330,7 @@ $(function() {
         var email = $('#email').val();
         var message = $('#message').val();
         var input_cap = $('#input_cap').val();
+        alert(input_cap);
         var error_txt = '';
 
         $('.error-txt').html('');
