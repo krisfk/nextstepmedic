@@ -769,6 +769,7 @@ function send_email($request)
 	  $phone = $request['phone'];
 	  $email = $request['email'];
 	  $message = $request['message'];
+	  $html='';
 	  $html.='<table>';
 	  $html.='<tr>';
 	  $html.='<td>Name:</td>';
@@ -791,7 +792,7 @@ function send_email($request)
 
 	  $headers = implode( PHP_EOL, $headers );
 	  $mailResult = false;
-	  $mailResult = wp_mail( 'krisfk@gmail.com', 'test title', '<table><tr><td>2</td><td>3</td></tr></table>', $headers );
+	  $mailResult = wp_mail( 'krisfk@gmail.com', 'New enquiry from nextstepmedic website', $html, $headers );
 	 
 	  if($mailResult)
 		{
