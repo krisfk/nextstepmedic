@@ -313,61 +313,61 @@ $(function() {
 
 
 
-            $('.send-msg-btn').click(function() {
+    $('.send-msg-btn').click(function() {
 
-                    var name = $('#name').val();
-                    var phone = $('#phone').val();
-                    var email = $('#email').val();
-                    var message = $('#message').val();
-                    var error_txt = '';
+        var name = $('#name').val();
+        var phone = $('#phone').val();
+        var email = $('#email').val();
+        var message = $('#message').val();
+        var error_txt = '';
 
-                    if (!name) {
-                        error_txt += 'Please input your name.<br/>';
-                    }
+        if (!name) {
+            error_txt += 'Please input your name.<br/>';
+        }
 
-                    if (!(/^[0-9]{8}$/.test(phone))) {
-                        error_txt += 'Phone number input is not correct<br/>';
-                    }
-
-
-                    if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)) {
-                            error_txt += 'Email input is not correct<br/>';
-                        }
+        if (!(/^[0-9]{8}$/.test(phone))) {
+            error_txt += 'Phone number input is not correct<br/>';
+        }
 
 
+        if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email))) {
+            error_txt += 'Email input is not correct<br/>';
+        }
 
 
 
-                    })
 
 
-                $('.slides').slick({
-                    dots: false,
-                    arrows: true,
-                    autoplay: false,
-                    pauseOnFocus: false,
-                    infinite: true,
-                    speed: 800,
-                    autoplaySpeed: 5000,
-                    cssEase: 'ease-out',
-                    pauseOnHover: false,
-                    slidesToShow: 3,
-                    slidesToScroll: 1
-                });
-
-                // $(function() {
-                //     $("#datepicker").datepicker({
-                //         // dayNamesShort: ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
-                //         // dayNames: ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
-                //         dayNamesMin: ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
-                //         useCurrent: false,
-                //         firstDay: 1
+    })
 
 
+    $('.slides').slick({
+        dots: false,
+        arrows: true,
+        autoplay: false,
+        pauseOnFocus: false,
+        infinite: true,
+        speed: 800,
+        autoplaySpeed: 5000,
+        cssEase: 'ease-out',
+        pauseOnHover: false,
+        slidesToShow: 3,
+        slidesToScroll: 1
+    });
 
-                //     });
-                // });
-            })
+    // $(function() {
+    //     $("#datepicker").datepicker({
+    //         // dayNamesShort: ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
+    //         // dayNames: ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
+    //         dayNamesMin: ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    //         useCurrent: false,
+    //         firstDay: 1
+
+
+
+    //     });
+    // });
+})
 </script>
 
 
