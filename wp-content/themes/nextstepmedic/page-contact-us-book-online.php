@@ -220,7 +220,7 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
 </textarea>
 
                     </div>
-                    <div class="error-txt mt-3">fdsfs</div>
+                    <div class="error-txt mt-3"></div>
                     <div class="col-12 mt-2 text-end">
 
                         <a href="javascript:void(0);" class="send-msg-btn">
@@ -319,6 +319,21 @@ $(function() {
         var phone = $('#phone').val();
         var email = $('#email').val();
         var message = $('#message').val();
+        var error_txt = ''；
+
+        if (!name) {
+            error_txt += 'Please input your name.<br/>';
+        }
+
+        if (!(/\(|\)|\d{8}/.test(phone))) {
+            error_txt += 'Please phone number is not correct<br/>';
+        }
+
+
+        if (error_txt) {
+            $('.error-txt').html(error_txt);
+        }
+
 
 
 
