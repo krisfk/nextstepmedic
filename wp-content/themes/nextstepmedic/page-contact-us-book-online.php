@@ -321,6 +321,7 @@ $(function() {
         var message = $('#message').val();
         var error_txt = '';
 
+        alert(6);
         if (!name) {
             error_txt += 'Please input your name.<br/>';
         }
