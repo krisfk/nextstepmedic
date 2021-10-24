@@ -321,7 +321,7 @@ $(function() {
         var message = $('#message').val();
         var error_txt = '';
 
-        alert(6);
+        // alert(6);
         if (!name) {
             error_txt += 'Please input your name.<br/>';
         }
@@ -333,6 +333,10 @@ $(function() {
 
         if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email))) {
             error_txt += 'Email input is not correct<br/>';
+        }
+
+        if (error_txt) {
+            $('.error-txt').html(error_txt);
         }
 
 
