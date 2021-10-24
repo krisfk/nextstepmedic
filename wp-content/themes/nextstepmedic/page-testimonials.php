@@ -15,8 +15,14 @@ get_header();
 <?php
 // 患者推薦
 
-wp_mail( 'krisfk@gmail.com', 'testing', 'testing-msg' );
-echo 999;
+// THENEXTSTEPMED@gmail.com
+
+$headers = array(
+    'From: The Next Step Medical Clinic <thenextstepmed@gmail.com>',
+    'Reply-To: thenextstepmed@gmail.com'
+  );
+  $headers = implode( PHP_EOL, $headers );
+  wp_mail( 'krisfk@gmail.com', 'test title', 'test msg', $headers );echo 123;
 
 ?>
 <div class="position-relative">
