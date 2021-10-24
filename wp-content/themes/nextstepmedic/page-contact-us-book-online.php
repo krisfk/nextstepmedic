@@ -226,7 +226,7 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
                             type="text" id="input_cap" class="form-control">
 
                         <a href="javascript:void(0);"
-                            class="reload-code gold ms-3"><?php echo ($lang_code == 'zh-hant') ? '刷新驗證碼':'Reload Code'; ?></a>
+                            class="reload-code gold ms-2"><?php echo ($lang_code == 'zh-hant') ? '刷新驗證碼':'Reload Code'; ?></a>
                     </div>
                     <div class="error-txt mt-3"></div>
                     <div class="col-12 mt-2 text-end">
