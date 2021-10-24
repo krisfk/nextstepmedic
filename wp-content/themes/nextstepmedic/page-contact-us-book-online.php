@@ -325,7 +325,7 @@ $(function() {
             error_txt += 'Please input your name.<br/>';
         }
 
-        if (!(/\(|\)|\d{8}/.test(phone))) {
+        if (!(/^[0-9]{8}$/.test(phone))) {
             error_txt += 'Please phone number is not correct<br/>';
         }
 
