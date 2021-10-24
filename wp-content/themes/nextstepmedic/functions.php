@@ -744,3 +744,47 @@ function jk_related_products_args( $args ) {
 	$args['columns'] = 4; // arranged in 2 columns
 	return $args;
 }
+
+
+add_action( 'rest_api_init', 'next_route');
+
+function next_route() {
+	register_rest_route( 'api', '/send-email/', array(
+						'methods'  => 'POST',
+						'callback' => 'send_email'
+			)
+	);
+}
+
+function send_email($request)
+ {
+echo 999;
+	//   $headers = array(
+	//   'From: The Next Step Medical Clinic <thenextstepmed@gmail.com>',
+	//   'Reply-To: thenextstepmed@gmail.com'
+	//   );
+	//   $headers = implode( PHP_EOL, $headers );
+	//   wp_mail( 'krisfk@gmail.com', 'test title', 'test msg', $headers );
+	//   echo 123;
+
+	//  header('Content-Type: application/json');
+
+ 	// $to= $request['t'];
+ 	// $subject= $request['s'];
+ 	// $body= $request['b'];
+ 	// $headers = array('Content-Type: text/html; charset=UTF-8');
+ 	// $mailResult = false;
+ 	// $mailResult= wp_mail( $to, $subject, $body, $headers );
+
+ 	// if($mailResult)
+ 	// {
+ 	//   echo json_encode(array("status"=>"1", "msg"=>"email sent"));
+ 	// }
+ 	// else {
+ 	// 	echo json_encode(array("status"=>"0", "msg"=>"email cannot be sent"));
+ 	// }
+	
+	//  die();
+
+ }
+ 
