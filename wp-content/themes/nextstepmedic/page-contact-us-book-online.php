@@ -335,6 +335,11 @@ $(function() {
             error_txt += 'Email input is not correct<br/>';
         }
 
+        if (!message) {
+            error_txt += 'Please input your message.<br/>';
+        }
+
+
         if (error_txt) {
             $('.error-txt').html(error_txt);
         }
