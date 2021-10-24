@@ -221,8 +221,9 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
                     </div>
                     <div class="col-12 mt-2">
                         <img class="captcha-img" src="" alt="">
-                        <input maxlength="5" placeholder="verification code" type="text" id="input_cap"
-                            class="form-control">
+                        <input maxlength="5"
+                            placeholder="<?php echo ($lang_code == 'zh-hant') ? '驗證碼':'verification code'; ?>"
+                            type="text" id="input_cap" class="form-control">
 
                         <a href="javascript:void(0);"
                             class="reload-code gold"><?php echo ($lang_code == 'zh-hant') ? '刷新驗證碼':'Reload Code'; ?></a>
