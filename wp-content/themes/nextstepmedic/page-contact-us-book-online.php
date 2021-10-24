@@ -319,7 +319,7 @@ $(function() {
         var phone = $('#phone').val();
         var email = $('#email').val();
         var message = $('#message').val();
-        var error_txt = ''；
+        var error_txt = '';
 
         if (!name) {
             error_txt += 'Please input your name.<br/>';
