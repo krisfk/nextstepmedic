@@ -224,7 +224,7 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
                         <input maxlength="5" placeholder="verification code" type="text" id="input_cap"
                             class="form-control">
 
-                        <a href="javascript:void(0);" class="reload-code">Reload Code</a>
+                        <a href="javascript:void(0);" class="reload-code gold">Reload Code</a>
                     </div>
                     <div class="error-txt mt-3"></div>
                     <div class="col-12 mt-2 text-end">
