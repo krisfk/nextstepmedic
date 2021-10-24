@@ -196,27 +196,31 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
 
                     <div class="col-6">
 
-                        <input type="text" placeholder="<?php echo ($lang_code == 'zh-hant') ? '姓名':'Name'; ?>"
+                        <input id="name" type="text"
+                            placeholder="<?php echo ($lang_code == 'zh-hant') ? '姓名':'Name'; ?>"
                             class="w-100 form-control">
                     </div>
                     <div class="col-6">
-                        <input type="text" placeholder="<?php echo ($lang_code == 'zh-hant') ? '電話':'Phone'; ?>"
+                        <input id="phone" type="text"
+                            placeholder="<?php echo ($lang_code == 'zh-hant') ? '電話':'Phone'; ?>"
                             class="w-100 form-control">
 
                     </div>
                     <div class="col-12  mt-2">
-                        <input type="text" placeholder="<?php echo ($lang_code == 'zh-hant') ? '電郵':'Email'; ?>"
+                        <input id="email" type="text"
+                            placeholder="<?php echo ($lang_code == 'zh-hant') ? '電郵':'Email'; ?>"
                             class="w-100 form-control">
 
 
                     </div>
                     <div class="col-12 mt-2">
 
-                        <textarea class="w-100  form-control"
+                        <textarea id="message" class="w-100  form-control"
                             placeholder="<?php echo ($lang_code == 'zh-hant') ? '訊息':'Message'; ?>" rows="4" cols="50">
 </textarea>
 
                     </div>
+                    <div class="error-txt">fdsfs</div>
                     <div class="col-12 mt-2 text-end">
 
                         <a href="javascript:void(0);" class="send-msg-btn">
@@ -307,32 +311,47 @@ function initMap() {
 <script type="text/javascript">
 $(function() {
 
-    $('.slides').slick({
-        dots: false,
-        arrows: true,
-        autoplay: false,
-        pauseOnFocus: false,
-        infinite: true,
-        speed: 800,
-        autoplaySpeed: 5000,
-        cssEase: 'ease-out',
-        pauseOnHover: false,
-        slidesToShow: 3,
-        slidesToScroll: 1
+
+
+    $('.send-msg-btn').click(function)({
+
+        var name = $('#name').val();
+        var phone = $('#phone').val();
+        var email = $('#email').val();
+        var message = $('#message').val();
+
+
+
+
+    }))
+
+
+$('.slides').slick({
+    dots: false,
+    arrows: true,
+    autoplay: false,
+    pauseOnFocus: false,
+    infinite: true,
+    speed: 800,
+    autoplaySpeed: 5000,
+    cssEase: 'ease-out',
+    pauseOnHover: false,
+    slidesToShow: 3,
+    slidesToScroll: 1
+});
+
+$(function() {
+    $("#datepicker").datepicker({
+        // dayNamesShort: ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
+        // dayNames: ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
+        dayNamesMin: ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+        useCurrent: false,
+        firstDay: 1
+
+
+
     });
-
-    $(function() {
-        $("#datepicker").datepicker({
-            // dayNamesShort: ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
-            // dayNames: ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
-            dayNamesMin: ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
-            useCurrent: false,
-            firstDay: 1
-
-
-
-        });
-    });
+});
 })
 </script>
 
