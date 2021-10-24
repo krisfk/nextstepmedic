@@ -1099,11 +1099,11 @@ a.ui-button:active,
 }
 
 .square-point-ul li {
-    list-style-type: none;
+    list-style-type: disc;
 }
 
 .square-point-ul li:before {
-    content: '▢';
+    /* content: '▢'; */
     padding-right: 0.5rem;
 }
 
