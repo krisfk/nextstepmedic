@@ -313,7 +313,7 @@ $(function() {
 
 
 
-    $('.send-msg-btn').click(function)({
+    $('.send-msg-btn').click(function() {
 
         var name = $('#name').val();
         var phone = $('#phone').val();
@@ -325,48 +325,48 @@ $(function() {
             error_txt += 'Please input your name.<br/>';
         }
 
-        // if (!(/\(|\)|\d{8}/.test(phone))) {
-        //     error_txt += 'Please phone number is not correct<br/>';
-        // }
+        if (!(/\(|\)|\d{8}/.test(phone))) {
+            error_txt += 'Please phone number is not correct<br/>';
+        }
 
 
-        // if (error_txt) {
-        //     $('.error-txt').html(error_txt);
-        // }
-
-
-
-
-
-    }))
-
-
-$('.slides').slick({
-    dots: false,
-    arrows: true,
-    autoplay: false,
-    pauseOnFocus: false,
-    infinite: true,
-    speed: 800,
-    autoplaySpeed: 5000,
-    cssEase: 'ease-out',
-    pauseOnHover: false,
-    slidesToShow: 3,
-    slidesToScroll: 1
-});
-
-// $(function() {
-//     $("#datepicker").datepicker({
-//         // dayNamesShort: ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
-//         // dayNames: ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
-//         dayNamesMin: ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
-//         useCurrent: false,
-//         firstDay: 1
+        if (error_txt) {
+            $('.error-txt').html(error_txt);
+        }
 
 
 
-//     });
-// });
+
+
+    })
+
+
+    $('.slides').slick({
+        dots: false,
+        arrows: true,
+        autoplay: false,
+        pauseOnFocus: false,
+        infinite: true,
+        speed: 800,
+        autoplaySpeed: 5000,
+        cssEase: 'ease-out',
+        pauseOnHover: false,
+        slidesToShow: 3,
+        slidesToScroll: 1
+    });
+
+    // $(function() {
+    //     $("#datepicker").datepicker({
+    //         // dayNamesShort: ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
+    //         // dayNames: ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
+    //         dayNamesMin: ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    //         useCurrent: false,
+    //         firstDay: 1
+
+
+
+    //     });
+    // });
 })
 </script>
 
