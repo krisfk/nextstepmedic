@@ -370,6 +370,8 @@ $(function() {
                 phone: phone,
                 email: email,
                 message: message,
+                input_cap: input_cap,
+
             }, function(result) {
                 console.log(result.status);
                 if (result.status == 1) {
@@ -377,6 +379,11 @@ $(function() {
                         '<div class="bold text-center"><?php echo ($lang_code == 'zh-hant') ? '訊息已成功發出，我們會盡快聯絡您。':'Message Sent. We will get back to you soon.'; ?></div>'
                     );
                 }
+                if (result.status == -1) {
+                    error_txt +=
+                        '<?php echo ($lang_code == 'zh-hant') ? '驗証碼輸入錯誤':'Verification code is not correct'; ?><br/>';
+                }
+
             });
 
         }

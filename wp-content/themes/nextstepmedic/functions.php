@@ -769,6 +769,8 @@ function send_email($request)
 	  $phone = $request['phone'];
 	  $email = $request['email'];
 	  $message = $request['message'];
+	  $input_cap = $request['input_cap'];
+
 	  $html='';
 	  $html.='<table>';
 	  $html.='<tr>';
@@ -794,6 +796,15 @@ function send_email($request)
 	  $mailResult = false;
 	  $mailResult = wp_mail( 'krisfk@gmail.com', 'New enquiry from nextstepmedic website', $html, $headers );
 	 
+
+	  session_start();
+	  if($_SESSION['captcha']!=$input_cap)
+	  {
+		echo json_encode(array("status"=>"-1", "msg"=>"captcha input is wrong"));
+
+	  }
+	  else
+	  
 	  if($mailResult)
 		{
 		echo json_encode(array("status"=>"1", "msg"=>"email sent"));
