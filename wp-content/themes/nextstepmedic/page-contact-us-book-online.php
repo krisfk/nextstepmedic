@@ -219,7 +219,10 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
 </textarea>
 
                     </div>
-                    <div class="col-12"> <img class="captcha-img" src="" alt=""></div>
+                    <div class="col-12 mt-2">
+                        <img class="captcha-img" src="" alt="">
+                        <input type="text" id="input_cap" class="form-control">
+                    </div>
                     <div class="error-txt mt-3"></div>
                     <div class="col-12 mt-2 text-end">
 
