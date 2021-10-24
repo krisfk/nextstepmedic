@@ -329,6 +329,7 @@ $(function() {
         var phone = $('#phone').val();
         var email = $('#email').val();
         var message = $('#message').val();
+        var input_cap = $('#input_cap').val();
         var error_txt = '';
 
         $('.error-txt').html('');
@@ -351,6 +352,12 @@ $(function() {
         if (!message) {
             error_txt +=
                 '<?php echo ($lang_code == 'zh-hant') ? '請輸入您的訊息':'Please input your message.'; ?><br/>';
+        }
+
+        if (!input_cap) {
+            error_txt +=
+                '<?php echo ($lang_code == 'zh-hant') ? '請輸入驗証碼':'Please input the verification code.'; ?><br/>';
+
         }
 
 
