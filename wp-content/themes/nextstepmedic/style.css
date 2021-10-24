@@ -177,10 +177,12 @@ body {
     display: block;
     width: fit-content;
     float: right;
+    transition: 0.2s all;
 }
 
 .send-msg-btn:hover {
     color: #fff;
+    opacity: 0.85;
 }
 
 .read-more-btn {
