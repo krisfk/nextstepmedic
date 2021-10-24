@@ -313,7 +313,9 @@ $(function() {
 
 
     $.get("<?php echo get_site_url();?>/gen_captcha.php", {}, function(result) {
-        alert(result);
+        var img_url = '<?php echo get_site_url()?>' + result;
+        $('.captcha-img').attr('src', img_url);
+
     });
 
 
