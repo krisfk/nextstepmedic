@@ -507,9 +507,9 @@ get_header();
     <div class="team-member-row pt-5 pb-5">
         <div class="team-member-name">Charlie S.K Lau 劉兆麒</div>
         <div class="team-member-title">足病診療師</div>
-        <div class="team-member-subtitle mt-4">紐西蘭足病診療學學士
-            香港中文大學骨關節醫學及復康理學學士後文憑
-            紐西蘭足病學會會員
+        <div class="team-member-subtitle mt-4">紐西蘭足病診療學學士<br />
+            香港中文大學骨關節醫學及復康理學學士後文憑<br />
+            紐西蘭足病學會會員<br />
             香港國際足病診療師學會會員</div>
         <div class="team-member-description mt-4">
 
