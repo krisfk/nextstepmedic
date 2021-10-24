@@ -330,7 +330,7 @@ $(function() {
         }
 
 
-        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+        if (!/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)) {
             error_txt += 'Email input is not correct<br/>';
         }
 
