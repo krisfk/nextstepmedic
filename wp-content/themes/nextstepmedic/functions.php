@@ -798,7 +798,7 @@ function send_email($request)
 	 
 
 	  session_start();
-	  if($_SESSION['captcha']!=$input_cap)
+	  if($_SESSION['captcha']['code']!=$input_cap)
 	  {
 		echo json_encode(array("status"=>"-1", "msg"=>"captcha input is wrong"));
 
