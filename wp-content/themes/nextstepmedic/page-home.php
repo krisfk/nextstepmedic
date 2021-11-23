@@ -48,7 +48,8 @@ if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
 
 
                                 </a>
-                                <a href="<?php echo get_site_url();?>/contact-us-book-online" class="slide-btns">
+                                <a href="<?php echo get_site_url();?>/<?php echo ($lang_code == 'zh-hant') ? 'zh-hant/':'';  ?>contact-us-book-online"
+                                    class="slide-btns">
 
 
                                     <?php echo ($lang_code == 'zh-hant') ? '預約':'Book an Appointment'; ?>
