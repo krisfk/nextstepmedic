@@ -900,6 +900,7 @@ a.ui-button:active,
 
 .find-out-more-btn:hover {
     opacity: 0.85;
+    cursor: pointer;
 }
 
 .italic {
