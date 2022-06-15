@@ -652,7 +652,7 @@ get_header();
 
     <div class="service-subtitle mt-5">Videos</div>
 
-    <div class="row video-row-div mt-5">
+    <div class="row video-row-div mt-4">
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-4">
 
