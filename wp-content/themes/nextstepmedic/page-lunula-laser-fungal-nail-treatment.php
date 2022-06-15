@@ -644,7 +644,7 @@ get_header();
     </a>
 
     <a href="javascript:void(0);" class="mt-3 d-inline-block">
-        <img class="rect-img" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-25@2x-50.jpg" alt="">
+        <img class="rect-img" src="https://nextstepmedic.com/wp-content/uploads/2022/06/leaflet-2.jpg" alt="">
 
 
     </a>
