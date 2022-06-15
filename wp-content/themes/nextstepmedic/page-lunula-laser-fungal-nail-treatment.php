@@ -656,14 +656,14 @@ get_header();
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-4">
 
-            <div class="grey-bold">Lunula Laser Science</div>
+            <div class="grey-bold mb-3">Lunula Laser Science</div>
             <iframe title="Lunula Laser Science Video" width="1020" height="765"
                 src="https://www.youtube.com/embed/Ro7awgUNpXg?feature=oembed" frameborder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen=""></iframe>
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-4">
-            <div class="grey-bold">Effective Treatment
+            <div class="grey-bold mb-3">Effective Treatment
             </div>
             <iframe title="Lunula Laser" width="1020" height="574"
                 src="https://www.youtube.com/embed/ZpbvQYMTEH0?feature=oembed" frameborder="0"
@@ -673,7 +673,7 @@ get_header();
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-4">
 
-            <div class="grey-bold">Lunula laser Introduction
+            <div class="grey-bold mb-3">Lunula laser Introduction
             </div>
             <iframe title="Lunula Laser Webinar with Robert Sullivan" width="1020" height="574"
                 src="https://www.youtube.com/embed/eKisdkkEgXo?feature=oembed" frameborder="0"
@@ -681,7 +681,7 @@ get_header();
                 allowfullscreen=""></iframe>
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-4">
-            <div class="grey-bold">Lunula Laser on ITV1
+            <div class="grey-bold mb-3">Lunula Laser on ITV1
 
             </div>
             <iframe title="Lunula Laser on ITV1" width="1020" height="765"
