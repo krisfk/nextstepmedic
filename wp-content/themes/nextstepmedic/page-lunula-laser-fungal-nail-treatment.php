@@ -665,17 +665,29 @@ get_header();
         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="grey-bold">Effective Treatment
             </div>
+            <iframe title="Lunula Laser" width="1020" height="574"
+                src="https://www.youtube.com/embed/ZpbvQYMTEH0?feature=oembed" frameborder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen=""></iframe>
 
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
             <div class="grey-bold">Lunula laser Introduction
             </div>
+            <iframe title="Lunula Laser Webinar with Robert Sullivan" width="1020" height="574"
+                src="https://www.youtube.com/embed/eKisdkkEgXo?feature=oembed" frameborder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen=""></iframe>
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
             <div class="grey-bold">Lunula Laser on ITV1
 
             </div>
+            <iframe title="Lunula Laser on ITV1" width="1020" height="765"
+                src="https://www.youtube.com/embed/UHHQB01yUu4?feature=oembed" frameborder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen=""></iframe>
 
         </div>
 
