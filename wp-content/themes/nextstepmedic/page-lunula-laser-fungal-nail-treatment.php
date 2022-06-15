@@ -502,53 +502,67 @@ get_header();
                             <td class="gold-bg">5.38</td>
                         </tr>
                         <tr>
-                            <td>#104
+                            <td>#006
                                 <!-- <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
                                     alt=""> -->
                             </td>
-                            <td>#066
+                            <td>#015
                                 <!-- <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
                                     alt=""> -->
                             </td>
-                            <td class="grey-bold">12.36</td>
-                            <td class="grey-bold">18.05</td>
-                            <td class="gold-bg">5.69</td>
+                            <td class="grey-bold">6.66</td>
+                            <td class="grey-bold">12.02</td>
+                            <td class="gold-bg">5.36</td>
                         </tr>
 
                         <tr>
-                            <td>#143
+                            <td>#140
                                 <!-- <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
                                     alt=""> -->
                             </td>
-                            <td>#129
+                            <td>#162
                                 <!-- <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
                                     alt=""> -->
                             </td>
-                            <td class="grey-bold">4.52</td>
-                            <td class="grey-bold">8.93</td>
-                            <td class="gold-bg">4.41</td>
+                            <td class="grey-bold">7.71</td>
+                            <td class="grey-bold">11.22</td>
+                            <td class="gold-bg">3.51</td>
                         </tr>
 
                         <tr>
-                            <td>#196
+                            <td>#189
                                 <!-- <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
                                     alt=""> -->
                             </td>
-                            <td>#118
+                            <td>#195
                                 <!-- <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
                                     alt=""> -->
                             </td>
-                            <td class="grey-bold">4.48</td>
-                            <td class="grey-bold">11.48</td>
-                            <td class="gold-bg">6.63</td>
+                            <td class="grey-bold">8.61</td>
+                            <td class="grey-bold">16.32</td>
+                            <td class="gold-bg">7.71</td>
                         </tr>
-
+                        <tr>
+                            <td>#001
+                                <!-- <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
+                                    alt=""> -->
+                            </td>
+                            <td>#086
+                                <!-- <img class="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
+                                    alt=""> -->
+                            </td>
+                            <td class="grey-bold">2.49</td>
+                            <td class="grey-bold">9.79</td>
+                            <td class="gold-bg">7.3</td>
+                        </tr>
 
 
 
