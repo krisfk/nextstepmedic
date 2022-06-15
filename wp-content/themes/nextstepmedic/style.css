@@ -858,8 +858,10 @@ a.ui-button:active,
 }
 
 .rect-img {
-    width: 150px;
-    height: auto;
+    /* width: 150px;
+    height: auto; */
+    height: 300px;
+    width: auto;
 }
 
 .nail-before-after-table {
