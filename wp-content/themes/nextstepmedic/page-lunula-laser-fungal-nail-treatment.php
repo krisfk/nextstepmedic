@@ -286,7 +286,7 @@ get_header();
     </div>
 
 </div>
-<div class="row big-banner-central-row position-relative gx-0 align-items-center mt-5">
+<!-- <div class="row big-banner-central-row position-relative gx-0 align-items-center mt-5">
 
     <div class="col-12">
 
@@ -297,7 +297,7 @@ get_header();
             </h1>
         </div>
     </div>
-</div>
+</div> -->
 
 <div class="container">
 
