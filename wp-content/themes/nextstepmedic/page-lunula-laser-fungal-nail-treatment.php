@@ -503,14 +503,15 @@ get_header();
                         </tr>
                         <tr>
                             <td>#006
-                                <!-- <img class="w-100"
-                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
-                                    alt=""> -->
+                                <img clas="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-006.jpg" alt="">
+
+
                             </td>
                             <td>#015
-                                <!-- <img class="w-100"
-                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
-                                    alt=""> -->
+                                <img clas="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-015.jpg" alt="">
+
                             </td>
                             <td class="grey-bold">6.66</td>
                             <td class="grey-bold">12.02</td>
@@ -519,14 +520,14 @@ get_header();
 
                         <tr>
                             <td>#140
-                                <!-- <img class="w-100"
-                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
-                                    alt=""> -->
+                                <img clas="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-140.jpg" alt="">
+
                             </td>
                             <td>#162
-                                <!-- <img class="w-100"
-                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
-                                    alt=""> -->
+                                <img clas="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-162.jpg" alt="">
+
                             </td>
                             <td class="grey-bold">7.71</td>
                             <td class="grey-bold">11.22</td>
@@ -535,14 +536,14 @@ get_header();
 
                         <tr>
                             <td>#189
-                                <!-- <img class="w-100"
-                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
-                                    alt=""> -->
+                                <img clas="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-189.jpg" alt="">
+
                             </td>
                             <td>#195
-                                <!-- <img class="w-100"
-                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
-                                    alt=""> -->
+                                <img clas="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-195.jpg" alt="">
+
                             </td>
                             <td class="grey-bold">8.61</td>
                             <td class="grey-bold">16.32</td>
@@ -550,14 +551,14 @@ get_header();
                         </tr>
                         <tr>
                             <td>#001
-                                <!-- <img class="w-100"
-                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
-                                    alt=""> -->
+                                <img clas="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-001.jpg" alt="">
+
                             </td>
                             <td>#086
-                                <!-- <img class="w-100"
-                                    src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
-                                    alt=""> -->
+                                <img clas="w-100"
+                                    src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-086.jpg" alt="">
+
                             </td>
                             <td class="grey-bold">2.49</td>
                             <td class="grey-bold">9.79</td>
