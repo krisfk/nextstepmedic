@@ -503,14 +503,14 @@ get_header();
                         </tr>
                         <tr>
                             <td>#104
-                                <img class="w-100"
+                                <!-- <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
-                                    alt="">
+                                    alt=""> -->
                             </td>
                             <td>#066
-                                <img class="w-100"
+                                <!-- <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
-                                    alt="">
+                                    alt=""> -->
                             </td>
                             <td class="grey-bold">12.36</td>
                             <td class="grey-bold">18.05</td>
@@ -519,14 +519,14 @@ get_header();
 
                         <tr>
                             <td>#143
-                                <img class="w-100"
+                                <!-- <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
-                                    alt="">
+                                    alt=""> -->
                             </td>
                             <td>#129
-                                <img class="w-100"
+                                <!-- <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
-                                    alt="">
+                                    alt=""> -->
                             </td>
                             <td class="grey-bold">4.52</td>
                             <td class="grey-bold">8.93</td>
@@ -535,14 +535,14 @@ get_header();
 
                         <tr>
                             <td>#196
-                                <img class="w-100"
+                                <!-- <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-20@2x-50.jpg"
-                                    alt="">
+                                    alt=""> -->
                             </td>
                             <td>#118
-                                <img class="w-100"
+                                <!-- <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-19@2x-50.jpg"
-                                    alt="">
+                                    alt=""> -->
                             </td>
                             <td class="grey-bold">4.48</td>
                             <td class="grey-bold">11.48</td>
