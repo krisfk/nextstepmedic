@@ -639,11 +639,11 @@ get_header();
 
 
 
-    <a href="javascript:void(0);" class="mt-3 d-inline-block">
+    <a href="https://nextstepmedic.com/wp-content/uploads/2022/06/Lunula-Brochure.pdf" class="mt-3 d-inline-block">
         <img class="rect-img" src="https://nextstepmedic.com/wp-content/uploads/2021/09/Asset-25@2x-50.jpg" alt="">
     </a>
 
-    <a href="javascript:void(0);" class="mt-3 d-inline-block">
+    <a href="https://nextstepmedic.com/wp-content/uploads/2022/06/56742.pdf" class="mt-3 d-inline-block">
         <img class="rect-img" src="https://nextstepmedic.com/wp-content/uploads/2022/06/leaflet-2.jpg" alt="">
 
 
