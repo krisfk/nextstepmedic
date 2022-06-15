@@ -652,6 +652,34 @@ get_header();
 
     <div class="service-subtitle mt-5">Videos</div>
 
+    <div class="row">
+
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+
+            <div class="grey-bold">Lunula Laser Science</div>
+            <iframe title="Lunula Laser Science Video" width="1020" height="765"
+                src="https://www.youtube.com/embed/Ro7awgUNpXg?feature=oembed" frameborder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen=""></iframe>
+        </div>
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+            <div class="grey-bold">Effective Treatment
+            </div>
+
+        </div>
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+
+            <div class="grey-bold">Lunula laser Introduction
+            </div>
+        </div>
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+            <div class="grey-bold">Lunula Laser on ITV1
+
+            </div>
+
+        </div>
+
+    </div>
 
     <div class="sep mt-4"></div>
 
