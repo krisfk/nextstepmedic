@@ -503,13 +503,13 @@ get_header();
                         </tr>
                         <tr>
                             <td>#006
-                                <img clas="w-100"
+                                <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-006.jpg" alt="">
 
 
                             </td>
                             <td>#015
-                                <img clas="w-100"
+                                <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-015.jpg" alt="">
 
                             </td>
@@ -520,12 +520,12 @@ get_header();
 
                         <tr>
                             <td>#140
-                                <img clas="w-100"
+                                <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-140.jpg" alt="">
 
                             </td>
                             <td>#162
-                                <img clas="w-100"
+                                <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-162.jpg" alt="">
 
                             </td>
@@ -536,12 +536,12 @@ get_header();
 
                         <tr>
                             <td>#189
-                                <img clas="w-100"
+                                <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-189.jpg" alt="">
 
                             </td>
                             <td>#195
-                                <img clas="w-100"
+                                <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-195.jpg" alt="">
 
                             </td>
@@ -551,12 +551,12 @@ get_header();
                         </tr>
                         <tr>
                             <td>#001
-                                <img clas="w-100"
+                                <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-001.jpg" alt="">
 
                             </td>
                             <td>#086
-                                <img clas="w-100"
+                                <img class="w-100"
                                     src="https://nextstepmedic.com/wp-content/uploads/2022/06/nail-086.jpg" alt="">
 
                             </td>
